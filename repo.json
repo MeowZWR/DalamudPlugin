@@ -4,8 +4,8 @@
     "Name": "Penumbra",
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.5.5.101",
-    "TestingAssemblyVersion": "0.5.5.101",
+    "AssemblyVersion": "0.5.5.102",
+    "TestingAssemblyVersion": "0.5.5.102",
     "RepoUrl": "https://github.com/Bluefissure/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
@@ -16,10 +16,11 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Penumbra/Penumbra.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Penumbra/Penumbra.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Penumbra/Penumbra.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Penumbra//icon.png"
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Penumbra/Penumbra.zip",
+    "DownloadLinkTesting": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Penumbra/Penumbra.zip",
+    "DownloadLinkUpdate": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Penumbra/Penumbra.zip",
+    "IconUrl": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Penumbra//icon.png",
+    "Changelog": "0.5.5.102\n- 更新汉化：高级编辑里的元数据操作、去重、模型材质。"
   },
   {
     "Author": "Ottermandias",
@@ -37,9 +38,10 @@
     "IsTestingExclusive": "false",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Glamourer/Glamourer.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Glamourer/Glamourer.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Glamourer/icon.png"
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Glamourer/Glamourer.zip",
+    "DownloadLinkUpdate": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Glamourer/Glamourer.zip",
+    "IconUrl": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/Glamourer/icon.png",
+    "Changelog": "0.1.0.5\n- 汉化。\n- 已知问题：设置'模板绑定'后无法将肖像应用到冒险者铭牌、无法设置对战肖像，獭子哥在想办法修。\n- 暂时的解决办法：修改肖像前在本插件设置里取消'允许模板绑定中的设置生效'，然后换图（比如进出房屋）。"
   },
   {
     "Author": "Sevii",
@@ -50,7 +52,7 @@
     "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
     "ApplicableVersion": "any",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/MaterialUI/preview.png"
+      "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/MaterialUI/preview.png"
     ],
     "DalamudApiLevel": 6,
     "IsHide": "False",
@@ -58,10 +60,10 @@
     "DownloadCount": 0,
     "LastUpdate": 0,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/MaterialUI/MaterialUI.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/MaterialUI/MaterialUI.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/MaterialUI/MaterialUI.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/MaterialUI/icon.png",
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/MaterialUI/MaterialUI.zip",
+    "DownloadLinkTesting": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/MaterialUI/MaterialUI.zip",
+    "DownloadLinkUpdate": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/MaterialUI/MaterialUI.zip",
+    "IconUrl": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/MaterialUI/icon.png",
     "Tags": [
       "ui",
       "penumbra",
@@ -89,10 +91,10 @@
     "DownloadCount": 0,
     "LastUpdate": 0,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/DelvUI/DelvUI.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/DelvUI/DelvUI.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/DelvUI/DelvUI.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/DelvUI/icon.png",
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/DelvUI/DelvUI.zip",
+    "DownloadLinkTesting": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/DelvUI/DelvUI.zip",
+    "DownloadLinkUpdate": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/DelvUI/DelvUI.zip",
+    "IconUrl": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/DelvUI/icon.png",
     "Tags": [
       "UI"
     ]
@@ -109,11 +111,11 @@
     "DalamudApiLevel": 6,
     "IconUrl": "",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.zip",
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.zip",
+    "DownloadLinkTesting": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.zip",
+    "DownloadLinkUpdate": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
@@ -130,8 +132,8 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/TPie/TPie.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/TPie/icon.png",
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/TPie/TPie.zip",
+    "IconUrl": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/TPie/icon.png",
     "Punchline": "可自定义的环形热键栏",
     "Changelog": "1.4.0.0\n- Added setting to automatically move the cursor to the center of the rings when they have a fixed position.\n- Keybinds can now be customized per job:\n\t+ This means you can use the same keybind for different rings as long as they are tied to different jobs.\n\t+ Added a new 'Edit Keybind' window to support this new functionallity."
   },
@@ -151,13 +153,13 @@
       "leonblade"
     ],
     "DalamudApiLevel": 6,
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/HeelsPlugin/icon.png",
+    "IconUrl": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/HeelsPlugin/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1650082610,
     "DownloadCount": 9424,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/HeelsPlugin/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/HeelsPlugin/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/HeelsPlugin/HeelsPlugin.zip"
+    "DownloadLinkInstall": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/HeelsPlugin/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/HeelsPlugin/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://www.gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/Plugins/HeelsPlugin/HeelsPlugin.zip"
   }
 ]
