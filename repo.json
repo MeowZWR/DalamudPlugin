@@ -48,7 +48,7 @@
     "Name": "Material UI",
     "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作",
     "InternalName": "MaterialUI",
-    "AssemblyVersion": "1.4.7",
+    "AssemblyVersion": "1.4.7.1",
     "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
     "ApplicableVersion": "any",
     "ImageUrls": [
