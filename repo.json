@@ -188,5 +188,26 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin.zip"
+  },
+  {
+    "Author": "Windmourn",
+    "Name": "SkipCutscene",
+    "Description": "坏孩子辍学。",
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "1.2.2.0",
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "dungeon"
+    ],
+    "DalamudApiLevel": 7,
+    "IconUrl": "",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1661392885,
+    "DownloadCount": 44455,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene.zip"
   }
 ]
