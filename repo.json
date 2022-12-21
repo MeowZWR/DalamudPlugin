@@ -209,5 +209,26 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene.zip"
+  },
+  {
+    "Author": "Loskh",
+    "Name": "StarlightBreaker",
+    "Description": "解除敏感词屏蔽。",
+    "InternalName": "StarlightBreaker",
+    "AssemblyVersion": "1.2.4.0",
+    "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Chat"
+    ],
+    "DalamudApiLevel": 7,
+    "IconUrl": "",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1661392885,
+    "DownloadCount": 44455,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/StarlightBreaker/StarlightBreaker.zip"
   }
 ]
