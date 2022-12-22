@@ -165,9 +165,9 @@
   {
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
-    "Description": "根据坐标移动装修物品，可以移动到任何地方。",
+    "Description": "根据坐标移动装修物品，解除游戏限制。",
     "InternalName": "BDTHPlugin",
-    "AssemblyVersion": "1.5.7.100",
+    "AssemblyVersion": "1.5.7.101",
     "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -179,6 +179,7 @@
       "furnishing",
       "LeonBlade"
     ],
+    "Changelog": "1.5.7.101\n- cn6.2汉化",
     "DalamudApiLevel": 7,
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/icon.png",
     "IsHide": "False",
