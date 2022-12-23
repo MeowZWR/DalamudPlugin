@@ -142,7 +142,7 @@
     "Name": "Heels Plugin",
     "Description": "穿着高跟鞋时调整你的角色与地面之间的距离。",
     "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.2.5.100",
+    "AssemblyVersion": "1.2.5.101",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
     "ApplicableVersion": "any",
     "Tags": [
