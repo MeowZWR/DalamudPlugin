@@ -4,8 +4,8 @@
     "Name": "Penumbra",
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.6.0.610",
-    "TestingAssemblyVersion": "0.6.0.610",
+    "AssemblyVersion": "0.6.1.201",
+    "TestingAssemblyVersion": "0.6.1.201",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
@@ -20,7 +20,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.6.0.610\n- cn6.2汉化"
+    "Changelog": "0.6.1.201\n- cn6.2道具转换器汉化"
   },
   {
     "Author": "Ottermandias",
