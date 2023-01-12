@@ -231,5 +231,31 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/StarlightBreaker/StarlightBreaker.zip"
+  },
+  {
+    "Author": "UnknownX",
+    "Name": "Cammy",
+    "Punchline": "一个简单的游戏相机设置修改器",
+    "Description": "一个简单的相机修改器，可以更改各种游戏默认值，比如缩放和视角。\n这会破解游戏缩放限制，如果你不清楚会造成什么后果，不要安装。",
+    "Changelog": "2.0.3.500\n- cn6.2 API7 汉化",
+    "InternalName": "Cammy",
+    "AssemblyVersion": "2.0.3.500",
+    "RepoUrl": "https://github.com/UnknownX7/Cammy",
+    "ApplicableVersion": "any",
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 7,
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
+    ],
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1673478670"
   }
 ]
