@@ -257,5 +257,28 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy.zip",
     "DownloadCount": 0,
     "LastUpdate": "1673478670"
+  },
+  {
+    "Author": "Adam",
+    "Name": "Penumbra Test",
+    "Description": "运行时mod加载和管理器。",
+    "InternalName": "Penumbra",
+    "AssemblyVersion": "0.6.1.501",
+    "TestingAssemblyVersion": "0.6.1.501",
+    "RepoUrl": "https://github.com/xivdev/Penumbra",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra1/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra1/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra1/Penumbra.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
+    "Changelog": "0.6.1.501\n- 修复模组设置选项卡的继承提示翻译。"
   }
 ]
