@@ -4,8 +4,8 @@
     "Name": "Penumbra",
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.6.1.501",
-    "TestingAssemblyVersion": "0.6.1.501",
+    "AssemblyVersion": "0.6.1.502",
+    "TestingAssemblyVersion": "0.6.1.502",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
@@ -20,7 +20,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.6.1.501\n- 修复模组设置选项卡的继承提示翻译。"
+    "Changelog": "0.6.1.502\n- 添加了一点翻译。"
   },
   {
     "Author": "Ottermandias",
