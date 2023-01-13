@@ -20,7 +20,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.6.1.503\n- 添加面罩动画编辑及其他一些翻译。"
+    "Changelog": "0.6.1.503\n- 完善面罩动画编辑及其他一些翻译。"
   },
   {
     "Author": "Ottermandias",
