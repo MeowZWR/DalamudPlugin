@@ -20,7 +20,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.6.1.504\n- 回滚待修。"
+    "Changelog": "0.6.1.504\n- 修了不该翻译的地方，升了503的元数据可能遭了殃。下一次我一定好好测试！"
   },
   {
     "Author": "Ottermandias",
