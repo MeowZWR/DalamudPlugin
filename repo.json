@@ -4,7 +4,7 @@
     "Name": "Penumbra",
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.6.1.504",
+    "AssemblyVersion": "0.6.1.505",
     "TestingAssemblyVersion": "0.6.1.505",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
