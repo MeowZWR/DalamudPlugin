@@ -5,7 +5,7 @@
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
     "AssemblyVersion": "0.6.1.504",
-    "TestingAssemblyVersion": "0.6.1.504",
+    "TestingAssemblyVersion": "0.6.1.505",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
@@ -17,10 +17,10 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.6.1.505.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.6.1.504\n- 修了不该翻译的地方，0.6.1.503版本的必须升级，其他版本的不用。"
+    "Changelog": "0.6.1.505\n- 合集选项里，分配给玩家和传唤铃雇员的角色名称填写处，改为中国服取名规则，现在能填国服玩家名称啦。"
   },
   {
     "Author": "Ottermandias",
