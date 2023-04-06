@@ -16,9 +16,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra6.1.505.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra6.1.505.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra6.1.505.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra0.6.1.505.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra0.6.1.505.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra0.6.1.505.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
     "Changelog": "0.6.1.505\n- 合集选项里，分配给玩家和传唤铃雇员的角色名称填写处，改为中国服取名规则，现在能填国服玩家名称啦。"
   },
