@@ -2,9 +2,9 @@
 小透明休闲玩家国服自用插件库，个人汉化以及适配国服。
 
 ## 仓库地址
-`
-https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json
-`
+`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
+## 国内镜像
+`https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json`
 ## 插件介绍
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
