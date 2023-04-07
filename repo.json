@@ -246,7 +246,7 @@
       "utility"
     ],
     "DalamudApiLevel": 7,
-    "IconUrl": "",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/icon.png",
     "ImageUrls": [
       ""
     ],
@@ -257,5 +257,29 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy.zip",
     "DownloadCount": 0,
     "LastUpdate": "1673478670"
+  },
+  {
+    "Author": "AlexCSDev",
+    "Name": "XIVWindowResizer",
+    "InternalName": "XIVWindowResizer",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/AlexCSDev/XIVWindowResizer",
+    "Description": "让游戏分辨率不受显示器的分辨率限制。主要用于在不使用全屏和DSR/FSR的情况下拍摄高分辨率屏幕截图。\r\n需要将游戏设置为普通窗口模式或者窗口全屏模式。",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gpose",
+      "posing",
+      "utility"
+    ],
+    "DalamudApiLevel": 7,
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/icon.png",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "这是调整游戏窗口大小的插件。有没有想过在144p的屏幕上拍摄8K截图？现在你可以了。",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip"
   }
 ]
