@@ -265,6 +265,7 @@
     "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/AlexCSDev/XIVWindowResizer",
     "Description": "让游戏分辨率不受显示器的分辨率限制。主要用于在不使用全屏和DSR/FSR的情况下拍摄高分辨率屏幕截图。\r\n需要将游戏设置为普通窗口模式或者窗口全屏模式。",
+    "Changelog": "1.0.0.0\n- cn6.2 API7 汉化命令说明",
     "ApplicableVersion": "any",
     "Tags": [
       "gpose",
@@ -281,5 +282,27 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip"
+  },
+  {
+    "Author": "XIV Tools",
+    "Name": "Customize+",
+    "Description": "这个插件允许你创建和应用Anamnesis样式的身体缩放，并在游戏中的角色身上实时保持。",
+    "Punchline": "突破FF14的限制，自定义你的角色。",
+    "InternalName": "CustomizePlus",
+    "AssemblyVersion": "0.0.1.2",
+    "TestingAssemblyVersion": "0.0.1.2",
+    "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.2.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.2.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.2.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
+    "Changelog": "0.0.1.2\n- cn6.2 API7汉化。"
   }
 ]
