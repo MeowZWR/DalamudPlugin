@@ -17,6 +17,6 @@
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.5.7.1|CN6.2*|√|
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.0|CN6.2*|-|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.0.3.5|CN6.2*|√|
-|[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)|突破分辨率限制，1080p显示器也能拍8K图|1.0.0.0|CN6.2*|√|只是汉化下命令说明
+|[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)|突破分辨率限制，144p显示器也能拍8K图|1.0.0.0|CN6.2*|√|只是汉化下命令说明
 |[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|0.0.1.2|CN6.2*|√|
 
