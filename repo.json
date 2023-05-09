@@ -128,7 +128,7 @@
     "Punchline": "防止挂机被自动踢下线，安装后生效，没设置项。",
     "Description": "",
     "InternalName": "AntiAfkKick-Dalamud",
-    "AssemblyVersion": "2.1.0.1",
+    "AssemblyVersion": "2.1.0.3",
     "RepoUrl": "https://github.com/Eternita-S/AntiAfkKick",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
