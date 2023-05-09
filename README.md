@@ -18,5 +18,6 @@
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.1|CN6.3*|-|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.7|CN6.3*|√|
 |[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)|突破分辨率限制，144p显示器也能拍8K图|1.0.0.0|CN6.3*|√|只是汉化下命令说明
-|[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|0.0.1.6|CN6.3*|√|
-
+|[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|0.0.1.6|CN6.3*|×|
+|[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，用于在GPose集体动作中拍照。|0.2.7|CN6.3*|√|
+|[PalettePlus](https://github.com/chirpxiv/PalettePlus)|游戏角色自定义调色板|0.3.8|CN6.3*|×|
