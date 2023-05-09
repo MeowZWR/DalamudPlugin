@@ -146,7 +146,7 @@
     "Author": "Tischel",
     "Name": "TPie",
     "InternalName": "TPie",
-    "AssemblyVersion": "1.6.4.101",
+    "AssemblyVersion": "1.7.0.0",
     "Description": "高可配置性的环形热键栏，可以通过绑定热键进行切换。\n可以使用动作、物品、套装和宏。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
@@ -165,7 +165,7 @@
     "Name": "Heels Plugin",
     "Description": "穿着高跟鞋时调整你的角色与地面之间的距离。",
     "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.2.5.101",
+    "AssemblyVersion": "1.3.2",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
     "ApplicableVersion": "any",
     "Tags": [
