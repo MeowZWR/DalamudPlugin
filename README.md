@@ -9,7 +9,7 @@
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.7.0.11|CN6.3*|√|
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.7.0.10|CN6.3*|√|
 |[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|0.1.1.5|CN6.3*|√|
 |[DelvUI](https://github.com/delvui/delvui)|自定义现代风格UI的插件|1.6.2.1|CN6.3*|×|主库有了，已不允许第三方库下载|
 |[TPie](https://github.com/Tischel/TPie)|高可配置性的环形热键栏|1.7.0.0|CN6.3*|√|主库有了，已不允许第三方库下载，可以自行下载后覆盖|
