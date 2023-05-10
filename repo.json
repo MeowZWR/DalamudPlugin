@@ -333,8 +333,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "强大的姿势工具，用于在GPose集体动作中拍照。",
-    "AssemblyVersion": "0.2.7",
-    "TestingAssemblyVersion": "0.2.7",
+    "AssemblyVersion": "0.2.701",
+    "TestingAssemblyVersion": "0.2.701",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -345,10 +345,10 @@
       "ktisis"
     ],
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/icon.png",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.7.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.7.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.7.zip",
-    "Changelog": "1.2.7\n- cn6.3汉化"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.701.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.701.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.701.zip",
+    "Changelog": "0.2.7\n- cn6.3汉化"
   },
   {
     "Author": "Chirp",
