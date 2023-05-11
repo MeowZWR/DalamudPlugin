@@ -69,7 +69,7 @@
   {
     "Author": "Sevii",
     "Name": "Material UI",
-    "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作",
+    "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能，图标由 Meconate 制作。这个插件我不会改，偷自Yarukon大佬",
     "InternalName": "MaterialUI",
     "AssemblyVersion": "1.4.9.0",
     "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
@@ -333,8 +333,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "强大的姿势工具，用于在GPose集体动作中拍照。",
-    "AssemblyVersion": "0.2.701",
-    "TestingAssemblyVersion": "0.2.701",
+    "AssemblyVersion": "0.2.702",
+    "TestingAssemblyVersion": "0.2.702",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -345,9 +345,9 @@
       "ktisis"
     ],
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/icon.png",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.701.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.701.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.701.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.702.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.702.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.702.zip",
     "Changelog": "0.2.7\n- cn6.3汉化"
   },
   {
@@ -356,8 +356,8 @@
     "InternalName": "PalettePlus",
     "Punchline": "FF14游戏角色自定义调色板。",
     "Description": "FF14游戏角色自定义调色板。",
-    "AssemblyVersion": "0.3.8",
-    "TestingAssemblyVersion": "0.3.8",
+    "AssemblyVersion": "0.3.8.1",
+    "TestingAssemblyVersion": "0.3.8.1",
     "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -368,9 +368,9 @@
       "chirp"
     ],
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/icon.png",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.8.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.8.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.8.zip",
-    "Changelog": "0.3.8\n- cn6.3还没汉化"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.8.1.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.8.1.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.8.1.zip",
+    "Changelog": "0.3.8\n- cn6.3汉化，将创建绑定时的角色名称验证规则改成国服规则，当然创建完了还是能随便编辑。"
   }
 ]

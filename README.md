@@ -1,10 +1,11 @@
 # DalamudPlugin
-小透明休闲玩家国服自用插件库，个人汉化以及适配国服。
+小透明休闲玩家国服自用插件库，个人汉化以及适配国服（感谢来世帮我改代码）。
+本人超级菜鸟，干的是体力活，主要是方便自己和亲友使用。
+
 
 ## 仓库地址
-`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
-## 国内镜像
-`https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json`
+可能要有梯子：`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
+可能不要梯子：`https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json`
 ## 插件介绍
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
@@ -20,4 +21,4 @@
 |[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)|突破分辨率限制，144p显示器也能拍8K图|1.0.0.0|CN6.3*|√|主库有了|
 |[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|0.0.1.6|CN6.3*|×|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，用于在GPose集体动作中拍照。|0.2.7|CN6.3*|√|
-|[PalettePlus](https://github.com/chirpxiv/PalettePlus)|游戏角色自定义调色板|0.3.8|CN6.3*|×|
+|[PalettePlus](https://github.com/chirpxiv/PalettePlus)|游戏角色自定义调色板|0.3.8|CN6.3*|√|
