@@ -165,7 +165,7 @@
     "Name": "Heels Plugin",
     "Description": "穿着高跟鞋时调整你的角色与地面之间的距离。",
     "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.3.2",
+    "AssemblyVersion": "1.3.2.1",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -181,9 +181,10 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1650082610,
     "DownloadCount": 9424,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.2.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.2.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.2.zip"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.2.1.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.2.1.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.2.1.zip",
+    "Changelog": "1.3.2.1\n- cn6.3汉化,上一个版本合并了忽略GPose的代码，因为外部工具更改了角色位置后，会导致其不断上移。还是改回来，能克服。"
   },
   {
     "Author": "LeonBlade",
