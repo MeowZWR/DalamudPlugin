@@ -20,4 +20,4 @@
 |[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|0.0.1.6|CN6.3*|×|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，用于在GPose集体动作中拍照。|0.2.7|CN6.3*|√|cmp导入来自Yarukon|
 |[PalettePlus](https://github.com/chirpxiv/PalettePlus)|游戏角色自定义调色板|0.3.8|CN6.3*|√|国服姓名规则|
-|[Simple Heels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件|0.2.0.0|CN6.3*|√|
+|[Simple Heels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.2.0.0|CN6.3*|√|
