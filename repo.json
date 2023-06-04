@@ -313,8 +313,8 @@
     "Description": "这个插件允许你创建和应用Anamnesis样式的身体缩放，并在游戏中的角色身上实时保持。",
     "Punchline": "突破FF14的限制，自定义你的角色。",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "0.0.1.6",
-    "TestingAssemblyVersion": "0.0.1.6",
+    "AssemblyVersion": "0.0.1.8",
+    "TestingAssemblyVersion": "0.0.1.8",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -323,11 +323,11 @@
     "DownloadCount": 0,
     "LastUpdate": 0,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.6.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.6.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.6.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.8.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.8.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.8.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
-    "Changelog": "0.0.1.6\n- cn6.3还没汉化。"
+    "Changelog": "0.0.1.8\n- cn6.3汉化测试。"
   },
   {
     "Author": "Chirp",
