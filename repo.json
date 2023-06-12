@@ -261,7 +261,7 @@
     "Name": "Cammy",
     "Punchline": "一个简单的游戏相机设置修改器",
     "Description": "一个简单的相机修改器，可以更改各种游戏默认值，比如缩放和视角。\n这会破解游戏缩放限制，如果你不清楚会造成什么后果，不要安装。",
-    "Changelog": "2.1.0.7\n- cn6.3 API7 汉化",
+    "Changelog": "2.1.0.7\n- cn6.3汉化",
     "InternalName": "Cammy",
     "AssemblyVersion": "2.1.0.7",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
@@ -391,5 +391,48 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.3.0.0.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.3.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.3.0.0.zip"
+  },
+  {
+    "Author": "Asgard",
+    "Name": "Brio",
+    "Description": "在集体动作模式中控制参与的角色。",
+    "InternalName": "Brio",
+    "AssemblyVersion": "0.1.8.500",
+    "TestingAssemblyVersion": "0.1.8.500",
+    "RepoUrl": "https://github.com/AsgardXIV/Brio",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.500.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.500.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.500.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
+    "Tags": [
+      "gpose",
+      "brio",
+      "posing",
+      "animation"
+    ]
+  },
+  {
+    "Author": "Asgard",
+    "Name": "XAT",
+    "Description": "创建、编辑动画和转场",
+    "InternalName": "XAT.Plugin",
+    "AssemblyVersion": "2023.1.11.2051",
+    "TestingAssemblyVersion": "2023.1.11.2051",
+    "RepoUrl": "https://github.com/AsgardXIV/XAT",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/icon.png"
   }
 ]
