@@ -52,7 +52,7 @@
     "Description": "为玩家提供更改保存自定义外貌和装备外观的功能。\n将预览选项添加到了Penumbra的“模组-更改项目”选项卡中。\n需要安装并启用Penumbra才能工作。",
     "Tags": [ "Appearance", "Glamour", "Race", "Outfit", "Armor", "Clothes", "Skins", "Customization", "Design", "Character" ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "0.1.1.502",
+    "AssemblyVersion": "0.1.3.100",
     "TestingAssemblyVersion": "0.1.3.100",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_0.1.3.100.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_0.1.1.502.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/icon.png",
-    "Changelog": "0.1.1.502\n- cn6.3汉化,给模板绑定的删除按钮加了组合键，避免误删。"
+    "Changelog": "0.1.3.100\n- cn6.3汉化,组合键、集体动作模式选项、分组，更新前请备份配置文件。"
   },
   {
     "Author": "Sevii",
