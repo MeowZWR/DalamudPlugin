@@ -382,17 +382,17 @@
     "Description": "穿着高跟鞋时调整你的角色与地面之间的距离，另一个高跟鞋插件，功能更强大。",
     "Punchline": "穿着高跟鞋时调整你的角色与地面之间的距离，另一个高跟鞋插件，功能更强大。",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-    "AssemblyVersion": "0.6.1.1",
+    "AssemblyVersion": "0.6.1.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1684544998",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.6.1.1.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.6.1.1.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.6.1.1.zip",
-    "Changelog": "0.6.1.1\n- cn6.3适配，组分配对NPC有效，快捷添加路径偏移，修复0偏移未正确报告给其他插件。"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.6.1.3.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.6.1.3.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.6.1.3.zip",
+    "Changelog": "0.6.1.3\n- cn6.3适配。"
   },
   {
     "Author": "Asgard",
