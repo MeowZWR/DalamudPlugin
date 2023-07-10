@@ -2,9 +2,14 @@
 小透明休闲玩家国服自用插件库，个人汉化以及适配国服（感谢来世帮我改代码）。\
 本人超级菜鸟，干的是体力活，主要是方便自己和亲友使用。
 ## 仓库地址
-可能要有梯子：```
-https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json```\
-可能不要梯子：```https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json```
+可能要有梯子：
+```
+https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json
+```
+可能不要梯子：
+```
+https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
+```
 ## 插件介绍
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
