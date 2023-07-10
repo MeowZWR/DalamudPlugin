@@ -216,7 +216,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.9.zip"
   },
   {
-    "Author": "Windmourn",
+    "Author": "a08381",
     "Name": "SkipCutscene",
     "Description": "坏孩子辍学。",
     "InternalName": "SkipCutscene",
@@ -315,7 +315,7 @@
     "Punchline": "突破FF14的限制，自定义你的角色。",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "0.0.1.91",
-    "TestingAssemblyVersion": "0.0.1.91",
+    "TestingAssemblyVersion": "0.0.2.2",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -325,7 +325,7 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.91.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.91.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_t0.0.2.2.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_0.0.1.91.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
     "Changelog": "0.0.1.91\n- cn6.3汉化测试。"
