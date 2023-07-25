@@ -399,14 +399,14 @@
     "Name": "Brio",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.1.8.500",
+    "AssemblyVersion": "0.1.8.700",
     "TestingAssemblyVersion": "0.1.8.700",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.500.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.700.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.700.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.500.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.700.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
     "Tags": [
       "gpose",
@@ -436,5 +436,36 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/icon.png"
+  },
+  {
+    "Author": "Jukka",
+    "Name": "NecroLens",
+    "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+    "InternalName": "NecroLens",
+    "AssemblyVersion": "1.0.3.4",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png",
+    "ImageUrls": [
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/NecroLens_1.0.3.4.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/NecroLens_1.0.3.4.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/NecroLens_1.0.3.4.zip",
+    "DownloadCount": 2545,
+    "LastUpdate": "1689672467"
   }
 ]
