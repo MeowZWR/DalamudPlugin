@@ -264,7 +264,7 @@
     "Description": "一个简单的相机修改器，可以更改各种游戏默认值，比如缩放和视角。\n这会破解游戏缩放限制，如果你不清楚会造成什么后果，不要安装。",
     "Changelog": "2.1.0.7\n- cn6.3汉化",
     "InternalName": "Cammy",
-    "AssemblyVersion": "2.1.0.7",
+    "AssemblyVersion": "2.1.0.701",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -275,11 +275,11 @@
     "ImageUrls": [
       ""
     ],
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.7.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.701.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.7.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.7.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.701.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.701.zip",
     "DownloadCount": 0,
     "LastUpdate": "1673478670"
   },
