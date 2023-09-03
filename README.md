@@ -26,6 +26,6 @@ https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
 |[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|0.0.1.91|CN6.3*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，用于在GPose集体动作中拍照。|0.2.7|CN6.3*|√|cmp导入来自Yarukon|
 |[PalettePlus](https://github.com/chirpxiv/PalettePlus)|游戏角色自定义调色板|0.3.9|CN6.3*|√|国服姓名规则|
-|[Simple Heels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.6.3.0|CN6.3*|√|
+|[Simple Heels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.7.0.0|CN6.3*|√|
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.1.8.7|CN6.3*|√|使创建角色能通过Pen的姓名规则
 |[XAT](https://github.com/AsgardXIV/XAT)|创建、编辑动画和转场|2023.1.11.2051|CN6.3*|√|
