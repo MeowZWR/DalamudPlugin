@@ -14,8 +14,8 @@ https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.7.3.11|CN6.4*|√|国服姓名规则|
-|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|0.1.3.2<br>测0.2.0.24|CN6.4*|√|国服姓名规则|
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.7.3.12|CN6.4*|√|国服姓名规则|
+|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|0.1.3.2<br>测0.2.0.21|CN6.4*|√|国服姓名规则|
 |[TPie](https://github.com/Tischel/TPie)|高可配置性的环形热键栏|1.7.1.1|CN6.4*|√|主库有了，可手动下载后覆盖|
 |[Heels Plugin](https://github.com/LeonBlade/HeelsPlugin)|穿着高跟鞋时调整你的角色与地面之间的距离|1.3.4|CN6.4*|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.5.9|CN6.4*|√|
