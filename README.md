@@ -14,7 +14,7 @@ https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.7.3.12|CN6.4*|√|国服姓名规则|
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.7.3.13|CN6.4*|√|国服姓名规则|
 |[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|0.1.3.2<br>测0.2.0.21|CN6.4*|√|国服姓名规则|
 |[TPie](https://github.com/Tischel/TPie)|高可配置性的环形热键栏|1.7.1.1|CN6.4*|√|主库有了，可手动下载后覆盖|
 |[Heels Plugin](https://github.com/LeonBlade/HeelsPlugin)|穿着高跟鞋时调整你的角色与地面之间的距离|1.3.4|CN6.4*|√|
@@ -30,4 +30,4 @@ https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
 |[XAT.Plugin](https://github.com/AsgardXIV/XAT)|创建编辑动作和镜头控制|2023.1.11.2051|CN6.4*|√|
 |[ScreenshotStudio](https://github.com/XIV-Tools/ScreenshotStudio)|集体动作增强|1.0.0.52|CN6.4*|×|
 |[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.3.2|CN6.4*|√|
-|[Artisan](https://github.com/PunishXIV/Artisan)||2.0.0.2|CN6.4*|√|
+|[Artisan](https://github.com/PunishXIV/Artisan)||2.0.0.15|CN6.4*|√|
