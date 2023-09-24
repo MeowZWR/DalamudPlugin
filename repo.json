@@ -38,7 +38,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_0.2.0.270.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_0.1.3.201.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/icon.png",
-    "Changelog": "0.2.0.21\n- cn6.4汉化，测试版更新前请备份配置文件，修复匿名和国服玩家识别，21以上版本无法加载来个老师教教。"
+    "Changelog": "0.2.0.27\n- cn6.4汉化，测试版更新前请备份配置文件，修到能用了。"
   },
   {
     "Author": "Sevii",
