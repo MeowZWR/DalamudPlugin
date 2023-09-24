@@ -29,5 +29,10 @@ https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.1.8.8|CN6.4*|√|国服姓名规则|
 |[XAT.Plugin](https://github.com/AsgardXIV/XAT)|创建编辑动作和镜头控制|2023.1.11.2051|CN6.4*|√|
 |[ScreenshotStudio](https://github.com/XIV-Tools/ScreenshotStudio)|集体动作增强|1.0.0.52|CN6.4*|×|
+
+## 不和谐
+
+|插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
+|--------|----|:------:|:------:|:------:|----|
 |[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.3.2|CN6.4*|√|
 |[Artisan](https://github.com/PunishXIV/Artisan)||2.0.0.15|CN6.4*|√|
