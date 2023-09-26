@@ -2,8 +2,8 @@
   {
     "Author": "Jukka",
     "Name": "NecroLens",
-    "Punchline": "真正的死灵术士一定对深层迷宫了如指掌...然而有的人却在使用科技！",
-    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+    "Punchline": "\u771f\u6b63\u7684\u6b7b\u7075\u672f\u58eb\u4e00\u5b9a\u5bf9\u6df1\u5c42\u8ff7\u5bab\u4e86\u5982\u6307\u638c...\u7136\u800c\u6709\u7684\u4eba\u5374\u5728\u4f7f\u7528\u79d1\u6280\uff01",
+    "Description": "\u6df1\u5c42\u8ff7\u5bab\u52a9\u624b\u3002\u663e\u793a\u5de1\u903b\u602a\u3001\u4ec7\u6068\u3001\u89c6\u7ebf\u548c\u4e00\u5207\u5176\u4ed6\u4e1c\u897f\u7684\u96f7\u8fbe\u89c6\u56fe\u3002",
     "InternalName": "NecroLens",
     "AssemblyVersion": "1.0.3.200",
     "RepoUrl": "https://github.com/Jukkales/NecroLens",
@@ -21,8 +21,8 @@
   {
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
-    "Punchline": "多合一生产",
-    "Description": "多合一生产",
+    "Punchline": "\u591a\u5408\u4e00\u751f\u4ea7",
+    "Description": "\u591a\u5408\u4e00\u751f\u4ea7",
     "Changelog": "- Please visit the Discord for a full list of updates.",
     "Tags": [ "crafting" ],
     "InternalName": "Artisan",
