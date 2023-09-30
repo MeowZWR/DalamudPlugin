@@ -23,7 +23,7 @@ https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.7|CN6.4*|√|
 |[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)|突破分辨率限制，144p显示器也能拍8K图|1.0.0.0|CN6.4*|√|主库有了|
 |[Customize+](https://github.com/XIV-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|1.2.5.5|CN6.4*|√|
-|[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，用于在GPose集体动作中拍照。|0.2.17|CN6.4*|√|cmp导入来自Yarukon|
+|[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，用于在GPose集体动作中拍照。|0.2.18.1|CN6.4*|√|cmp导入来自Yarukon|
 |[PalettePlus](https://github.com/chirpxiv/PalettePlus)|游戏角色自定义调色板|0.3.10|CN6.4*|√|国服适配|
 |[Simple Heels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.8.0.0|CN6.4*|√|
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.1.8.8|CN6.4*|√|国服适配|
