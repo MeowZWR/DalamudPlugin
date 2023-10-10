@@ -60,8 +60,8 @@
   },
   {
     "Author": "Tischel",
-    "Name": "TPie",
-    "InternalName": "TPie",
+    "Name": "TPieCN",
+    "InternalName": "TPieCN",
     "AssemblyVersion": "1.7.1.1",
     "Description": "高可配置性的环形热键栏，可以通过绑定热键进行切换。\n可以使用动作、物品、套装和宏。",
     "ApplicableVersion": "any",
