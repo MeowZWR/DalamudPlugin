@@ -60,7 +60,7 @@
   },
   {
     "Author": "Tischel",
-    "Name": "TPie",
+    "Name": "TPieCN",
     "InternalName": "TPie",
     "AssemblyVersion": "1.7.1.1",
     "Description": "高可配置性的环形热键栏，可以通过绑定热键进行切换。\n可以使用动作、物品、套装和宏。",
@@ -69,7 +69,7 @@
     "Tags": [ "UI" ],
     "DalamudApiLevel": 8,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/TPie_1.7.1.1.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/TPieCN_1.7.1.1.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/icon.png",
     "Punchline": "可自定义的环形热键栏",
     "Changelog": "1.7.1.1\n- cn6.4汉化"
