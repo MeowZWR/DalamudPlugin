@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json
 ```
 可能不要梯子：
 ```
-https://gitclone.com/gogs/MeowZWR/DalamudPlugins/raw/master/repo.json
+https://ghproxy.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo_gh.json
 ```
 ## 插件介绍
 
