@@ -14,10 +14,10 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
     "Changelog": "0.8.0.1\n- cn6.4汉化，修复模组名首尾空格炸游戏。"
   },
   {
@@ -34,10 +34,10 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "false",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.603.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.603.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.603.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.603.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.603.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.603.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/icon.png",
     "Changelog": "1.0.0.6\n- cn6.4国服汉化适配。"
   },
   {
@@ -54,9 +54,9 @@
     "ImageUrls": [],
     "IsHide": "False",
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip"
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip"
   },
   {
     "Author": "Tischel",
@@ -69,8 +69,8 @@
     "Tags": [ "UI" ],
     "DalamudApiLevel": 8,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/TPieCN_1.7.1.1.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/TPieCN_1.7.1.1.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/icon.png",
     "Punchline": "可自定义的环形热键栏",
     "Changelog": "1.7.1.1\n- cn6.4汉化"
   },
@@ -86,10 +86,10 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/icon.png",
     "Changelog": "1.3.4\n- cn6.4汉化。"
   },
   {
@@ -104,10 +104,10 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/icon.png",
     "Changelog": "1.5.902\n- cn6.4汉化"
   },
   {
@@ -122,9 +122,9 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene_1.2.2.1.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene_1.2.2.1.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene_1.2.2.1.zip",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene_1.2.2.1.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene_1.2.2.1.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/SkipCutscene_1.2.2.1.zip",
     "IconUrl": ""
   },
   {
@@ -141,10 +141,10 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "AssemblyVersion": "2.1.0.702",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/icon.png",
     "Changelog": "2.1.0.702\n- cn6.4汉化"
   },
   {
@@ -162,10 +162,10 @@
     "LoadPriority": 0,
     "Punchline": "这是调整游戏窗口大小的插件。有没有想过在144p的屏幕上拍摄8K截图？现在你可以了。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/icon.png",
     "Changelog": "1.0.0.0\n- cn6.4汉化命令说明"
   },
   {
@@ -182,10 +182,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
     "Changelog": "1.2.5.6\n- cn6.4汉化。"
   },
   {
@@ -200,10 +200,10 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "Tags": [ "gpose", "posing", "ktisis" ],
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/icon.png",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
     "Changelog": "0.2.18.1\n- cn6.4汉化"
   },
   {
@@ -218,10 +218,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "Tags": [ "PalettePlus", "color", "palette", "chirp" ],
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/icon.png",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/icon.png",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
     "Changelog": "0.3.10\n- cn6.4汉化，国服规则。"
   },
   {
@@ -236,9 +236,9 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
     "Changelog": "0.8.0.0\n- cn6.4汉化。"
   },
   {
@@ -252,10 +252,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "Tags": [ "gpose", "brio", "posing", "animation" ],
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.800.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.800.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.800.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png"
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.800.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.800.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/Brio_0.1.8.800.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png"
   },
   {
     "Author": "Asgard",
@@ -273,10 +273,10 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/icon.png"
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/XAT.Plugin_2023.1.11.2051.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XAT.Plugin/icon.png"
   },
   {
     "Author": "Xiv Tools",
@@ -289,9 +289,9 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "Tags": [ "gpose", "posing", "screenshot" ],
-    "DownloadLinkInstall": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
-    "DownloadLinkTesting": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
-    "DownloadLinkUpdate": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
-    "IconUrl": "https://ghproxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/light-pride.png"
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
+    "IconUrl": "https://gh-proxy.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/light-pride.png"
   }
 ]
