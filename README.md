@@ -6,9 +6,9 @@
 ```
 https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json
 ```
-可能不要梯子(我也不知道为什么突然多了一个“-”，哎没家的孩子）：
+可能不要梯子(gh-proxy证书怎么又到期了，ghproxy又行了。）：
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo_gh.json
+https://ghproxy.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo_gh.json
 ```
 ## 插件介绍
 
