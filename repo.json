@@ -4,8 +4,8 @@
     "Name": "Penumbra",
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.8.0.1",
-    "TestingAssemblyVersion": "0.8.0.1",
+    "AssemblyVersion": "0.8.0.101",
+    "TestingAssemblyVersion": "0.8.0.101",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -14,11 +14,11 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.1.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.101.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.101.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.101.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.8.0.1\n- cn6.4汉化，修复模组名首尾空格炸游戏。"
+    "Changelog": "0.8.0.101\n- 修复部分包含特殊字符的玩家的 ID 无法被正确捕获的问题，獭爹啵啵。"
   },
   {
     "Author": "Ottermandias",
