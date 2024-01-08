@@ -6,7 +6,10 @@
 ```
 https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json
 ```
-可能不要梯子(gh-proxy证书怎么又到期了，ghproxy又行了。）：
+可能不要梯子(请选择一个，目前看来fgit比较稳定。）：
+```
+https://raw.fgit.cf/meowzwr/dalamudplugin/main/repo_fgit.json
+```
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo_gh.json
 ```
