@@ -6,12 +6,9 @@
 ```
 https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json
 ```
-可能不要梯子(请选择一个，目前看来fgit比较稳定。）：
+可能不要梯子：
 ```
-https://raw.fgit.cf/meowzwr/dalamudplugin/main/repo_fgit.json
-```
-```
-https://ghproxy.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo_gh.json
+https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/meowrs.json
 ```
 ## 插件介绍
 
