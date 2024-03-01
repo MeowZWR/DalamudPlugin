@@ -118,16 +118,16 @@
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
     "CategoryTags": [ "utility" ],
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "ImageUrls": [ "" ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "2.1.0.702",
-    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
+    "AssemblyVersion": "2.1.0.8",
+    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/2.1.0.8/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/2.1.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/2.1.0.8/latest.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/icon.png",
-    "Changelog": "2.1.0.702\n- cn6.4汉化"
+    "Changelog": ""
   },
   {
     "Author": "XIV Tools",
