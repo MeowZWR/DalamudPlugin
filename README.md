@@ -25,7 +25,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 |[XAT.Plugin](https://github.com/AsgardXIV/XAT)|创建编辑动作和镜头控制|2023.10.3.2301|CN6.5*|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.2|CN6.5*|√|
 |[TPie](https://github.com/Tischel/TPie)|高可配置性的环形热键栏|1.8.0.1|CN6.5*|√|
-|[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.1|CN6.4*|-|
+|[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.3|CN6.5*|-|
 |~~[Heels Plugin](https://github.com/LeonBlade/HeelsPlugin)~~|~~穿着高跟鞋时调整你的角色与地面之间的距离~~|~~1.3.4~~|~~CN6.4*~~|~~√~~|~~请用Simpleheels~~|
 |~~[PalettePlus](https://github.com/chirpxiv/PalettePlus)~~|~~游戏角色自定义调色板~~|~~0.3.10~~|~~CN6.4*~~|~~√~~|~~Glamourer已集成~~|
 |~~[ScreenshotStudio](https://github.com/XIV-Tools/ScreenshotStudio)~~|~~集体动作增强~~|~~1.0.0.52~~|~~CN6.4*~~|~~×~~|~~作者删库~~|
