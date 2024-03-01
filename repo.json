@@ -293,5 +293,25 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/ScreenshotStudio_1.0.0.52.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/ScreenshotStudio/light-pride.png"
+  },
+  {
+    "Author": "NightmareXIV and AsunaTsuki",
+    "Name": "DynamicBridge",
+    "Punchline": "可以根据设置的各种条件来自动更改角色外观。",
+    "Description": "通过设置规则预设，利用与其他流行插件的集成，使得角色外观随情境的变化自动无缝切换，丰富你的游戏体验，增加沉浸感。",
+    "InternalName": "DynamicBridge",
+    "AssemblyVersion": "1.0.3.4",
+    "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/icon.png",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.5/latest.zip",
+    "IsHide": true,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.5/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
