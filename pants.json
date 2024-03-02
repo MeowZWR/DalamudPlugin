@@ -26,14 +26,14 @@
     "Changelog": "- Please visit the Discord for a full list of updates.",
     "Tags": [ "crafting" ],
     "InternalName": "Artisan",
-    "AssemblyVersion": "2.0.0.15",
-    "TestingAssemblyVersion": "2.0.0.15",
+    "AssemblyVersion": "3.0.4.6",
+    "TestingAssemblyVersion": "3.0.4.6",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/Artisan_2.0.0.15.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/Artisan_2.0.0.15.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/Artisan_2.0.0.15.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.6/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/icon.png"
   }
 ]
