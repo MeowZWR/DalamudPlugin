@@ -21,7 +21,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据设置的各种条件来自动更改角色外观、缩放、称号|1.0.3.4|CN6.5*|√|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.8|CN6.5*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，在集体动作中使用。|0.2.18.1|CN6.4*|√|cmp导入来自Yarukon|
-|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.1.8.8|CN6.4*|√|国服适配|
+|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.2.3.0|CN6.5*|√|国服适配|
 |[XAT.Plugin](https://github.com/AsgardXIV/XAT)|创建编辑动作和镜头控制|2023.10.3.2301|CN6.5*|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.2|CN6.5*|√|
 |[TPie](https://github.com/Tischel/TPie)|高可配置性的环形热键栏|1.8.0.1|CN6.5*|√|
@@ -34,7 +34,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 |[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.5.8|CN6.5*|√|使用KadoMaws@SugarEnergy的汉化文件|
 |[Artisan](https://github.com/PunishXIV/Artisan)||3.0.4.6|CN6.5*|√|
 
-## 已停止更新
+## 停止更新
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
 |~~[Heels Plugin](https://github.com/LeonBlade/HeelsPlugin)~~|~~穿着高跟鞋时调整你的角色与地面之间的距离~~|~~1.3.4~~|~~CN6.4*~~|~~√~~|~~请用Simpleheels~~|
