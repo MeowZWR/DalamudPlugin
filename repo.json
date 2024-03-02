@@ -49,14 +49,14 @@
     "AssemblyVersion": "2.1.0.3",
     "RepoUrl": "https://github.com/Eternita-S/AntiAfkKick",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "IconUrl": "",
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/icon.png",
     "ImageUrls": [],
     "IsHide": "False",
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip"
   },
   {
     "Author": "Tischel",

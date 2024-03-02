@@ -46,17 +46,17 @@
     "Punchline": "防止挂机被自动踢下线，安装后生效，没设置项。",
     "Description": "",
     "InternalName": "AntiAfkKick-Dalamud",
-    "AssemblyVersion": "2.1.0.3",
+    "AssemblyVersion": "2.1.0.5",
     "RepoUrl": "https://github.com/Eternita-S/AntiAfkKick",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "IconUrl": "",
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/icon.png",
     "ImageUrls": [],
     "IsHide": "False",
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/AntiAfkKick-Dalamud_2.1.0.3.zip"
+    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip"
   },
   {
     "Author": "Tischel",
