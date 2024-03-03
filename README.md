@@ -17,8 +17,8 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 |[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|0.8.0.0|CN6.4*|√|国服适配|
 |[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.0.0.6|CN6.4*|√|国服适配|
 |[Customize+](https://github.com/Aether-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|2.0.1.1|CN6.5*|√|
-|[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.9.0.5|CN6.5*|√|
-|[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据设置的各种条件来自动更改角色外观、缩放、称号|1.0.3.4|CN6.5*|√|
+|[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.9.0.6|CN6.5*|√|
+|[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据设置的各种条件来自动更改角色外观、缩放、称号|1.0.3.8|CN6.5*|√|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.8|CN6.5*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，在集体动作中使用。|0.2.21|CN6.5*|√|cmp导入来自Yarukon|
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.2.3.0|CN6.5*|√|国服适配|

@@ -174,14 +174,14 @@
     "Description": "穿着高跟鞋时调整你的角色与地面之间的距离，另一个高跟鞋插件，功能更强大。",
     "Punchline": "穿着高跟鞋时调整你的角色与地面之间的距离，另一个高跟鞋插件，功能更强大。",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-    "AssemblyVersion": "0.9.0.5",
+    "AssemblyVersion": "0.9.0.6",
     "ApplicableVersion": "any",
     "Dalam,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.5/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.5/latest.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.6/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.6/latest.zip",
     "Changelog": ""
   },
   {
