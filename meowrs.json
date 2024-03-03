@@ -233,11 +233,11 @@
     "DalamudApiLevel": 9,
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.5/latest.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
     "IsHide": true,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.5/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.5/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
