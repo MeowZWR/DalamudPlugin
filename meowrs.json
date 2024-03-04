@@ -176,7 +176,7 @@
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
     "AssemblyVersion": "0.9.0.6",
     "ApplicableVersion": "any",
-    "Dalam,
+    "DalamudApiLevel": 9,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SimpleHeels/0.9.0.6/latest.zip",
