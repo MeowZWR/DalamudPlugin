@@ -240,5 +240,19 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "kawaii",
+    "Name": "Moodles",
+    "InternalName": "Moodles",
+    "Description": "使用格式、持续时间和其他参数来设计应用你自己的状态效果。",
+    "ApplicableVersion": "any",
+    "Punchline": "可怕的负面情绪现在以debuff的形式出现了，库啵！",
+    "RepoUrl": "https://github.com/kawaii/Moodles",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 9,
+    "AssemblyVersion": "1.0.0.12",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.12/Moodles.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.12/Moodles.zip"
   }
 ]
