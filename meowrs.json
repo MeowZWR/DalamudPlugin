@@ -252,7 +252,7 @@
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
     "AssemblyVersion": "1.0.0.12",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.12/Moodles.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.12/Moodles.zip"
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/blob/main/Plugins/Moodles/1.0.0.12/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/blob/main/Plugins/Moodles/1.0.0.12/latest.zip"
   }
 ]
