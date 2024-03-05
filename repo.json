@@ -69,7 +69,7 @@
     "Tags": [ "UI" ],
     "DalamudApiLevel": 9,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/1.8.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/1.8.0.1/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/icon.png",
     "Punchline": "可自定义的环形热键栏",
     "Changelog": ""
