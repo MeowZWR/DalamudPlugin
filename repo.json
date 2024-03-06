@@ -165,7 +165,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.2100/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.3.0.15/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.2100/latest.zip",
-    "Changelog": ""
+    "Changelog": "想体验0.3版，请在插件管理器右键此插件，勾选接受测试版本插件。"
   },
   {
     "Author": "Caraxi",
