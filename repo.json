@@ -251,8 +251,8 @@
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
-    "AssemblyVersion": "1.0.0.121",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.121/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.121/latest.zip"
+    "AssemblyVersion": "1.0.0.130",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.130/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.130/latest.zip"
   }
 ]
