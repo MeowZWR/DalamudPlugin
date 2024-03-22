@@ -253,7 +253,10 @@
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
     "AssemblyVersion": "1.0.0.140",
+    "TestingAssemblyVersion": "1.0.0.142",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.140/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.140/latest.zip"
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.142/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.140/latest.zip",
+    "Changelog": "wozaiha佬改的可以通过mare给别人贴了"
   }
 ]
