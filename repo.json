@@ -190,16 +190,16 @@
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
     "AssemblyVersion": "0.2.3.101",
-    "TestingAssemblyVersion": "0.2.3.190",
+    "TestingAssemblyVersion": "0.2.4.0",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "Tags": [ "gpose", "brio", "posing", "animation" ],
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.3.101/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.3.190/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.3.101/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
-    "Changelog": "老是炸，回退到国际服相同版本。\n有资产库的版本放到测试里了\n-Dalamud设置里打开“获取测试版本”。\n-插件安装器右键插件标题勾选“接收测试版本插件”可玩（炸）。"
+    "Changelog": "Net8测试。\n切换到canary再更新。"
   },
   {
     "Author": "Asgard",
