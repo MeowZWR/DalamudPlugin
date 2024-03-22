@@ -252,11 +252,11 @@
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
-    "AssemblyVersion": "1.0.0.143",
-    "TestingAssemblyVersion": "1.0.0.143",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.143/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.143/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.143/latest.zip",
+    "AssemblyVersion": "1.0.0.144",
+    "TestingAssemblyVersion": "1.0.0.144",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.144/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.144/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Moodles/1.0.0.144/latest.zip",
     "Changelog": "wozaiha佬改的可以通过mare给别人贴贴了"
   }
 ]
