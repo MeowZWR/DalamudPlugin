@@ -14,8 +14,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png"
   },
   {
@@ -23,17 +23,17 @@
     "Name": "Artisan",
     "Punchline": "\u4e00\u4e2a\u7b80\u5355\u7684\u751f\u4ea7\u63d2\u4ef6\u3002",
     "Description": "\u4e00\u7ad9\u5f0f\u751f\u4ea7\u63d2\u4ef6\u3002",
-    "Changelog": "- Please visit the Discord for a full list of updates.",
+    "Changelog": "net8\u6d4b\u8bd5\u3002\n\u5207\u6362\u5230canary\u518d\u66f4\u65b0\u3002",
     "Tags": [ "crafting" ],
     "InternalName": "Artisan",
     "AssemblyVersion": "3.0.4.8",
-    "TestingAssemblyVersion": "3.0.4.8",
+    "TestingAssemblyVersion": "3.0.5.1",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.1/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/icon.png"
   }
 ]
