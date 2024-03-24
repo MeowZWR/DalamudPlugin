@@ -136,7 +136,7 @@
     "Punchline": "突破FF14的限制，自定义你的角色。",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.0.1.1",
-    "TestingAssemblyVersion": "2.0.1.1",
+    "TestingAssemblyVersion": "2.0.2.0",
     "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -144,7 +144,7 @@
     "IsTestingExclusive": "False",
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.1.1/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/testing_2.0/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.1.1/latest.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/icon.png",
     "Changelog": "1.2.5.6\n- cn6.4汉化。"
