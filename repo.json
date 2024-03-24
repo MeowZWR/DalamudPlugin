@@ -147,7 +147,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/testing_2.0.2.0/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.1.1/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
-    "Changelog": ""
+    "Changelog": "Net8测试。\n切换到canary再更新。"
   },
   {
     "Author": "Chirp",
