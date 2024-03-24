@@ -155,7 +155,7 @@
     "InternalName": "Ktisis",
     "Description": "强大的姿势工具，用于在GPose集体动作中拍照。cmp姿势文件导入来自Yarukon。",
     "AssemblyVersion": "0.2.2100",
-    "TestingAssemblyVersion": "0.3.0.15",
+    "TestingAssemblyVersion": "0.3.0.16",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -163,7 +163,7 @@
     "Tags": [ "gpose", "posing", "ktisis" ],
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/icon.png",
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.2100/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.3.0.15/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.3.0.16/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.2100/latest.zip",
     "Changelog": "想体验0.3版，请在插件管理器右键此插件，勾选接受测试版本插件。"
   },
