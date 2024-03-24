@@ -199,7 +199,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Brio/0.2.4.1/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Brio/0.2.3.101/latest.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Brio/icon.png",
-    "Changelog": "修复不该被应用模型变换，修复传播复选框。\nNet8测试。\n切换到canary再更新。"
+    "Changelog": "修复不该被应用的模型变换，修复传播复选框。\nNet8测试。\n切换到canary再更新。"
   },
   {
     "Author": "Asgard",
