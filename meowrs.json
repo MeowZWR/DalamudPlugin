@@ -229,7 +229,7 @@
     "Description": "通过设置规则预设，利用与其他流行插件的集成，使得角色外观随情境的变化自动无缝切换，丰富你的游戏体验，增加沉浸感。",
     "InternalName": "DynamicBridge",
     "AssemblyVersion": "1.0.3.8",
-    "TestingAssemblyVersion": "1.0.5.1",
+    "TestingAssemblyVersion": "1.0.5.2",
     "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -238,11 +238,11 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.5.1/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.5.2/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0",
-    "Changelog": "使用独立分配。\nNet8测试。\n切换到canary再更新。"
+    "Changelog": "实验性Moodles支持。\nNet8测试。\n切换到canary再更新。"
   },
   {
     "Author": "kawaii",
