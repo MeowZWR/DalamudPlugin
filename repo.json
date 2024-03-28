@@ -147,7 +147,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/testing_2.0.2.0/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.1.1/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
-    "Changelog": "Net8测试。\n切换到canary再更新。"
+    "Changelog": "NET8"
   },
   {
     "Author": "Chirp",
@@ -165,7 +165,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.2100/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.3.0.16/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.2100/latest.zip",
-    "Changelog": "想体验0.3版，请在插件管理器右键此插件，勾选接受测试版本插件。"
+    "Changelog": "NET8"
   },
   {
     "Author": "Caraxi",
@@ -190,16 +190,16 @@
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
     "AssemblyVersion": "0.2.3.101",
-    "TestingAssemblyVersion": "0.2.4.1",
+    "TestingAssemblyVersion": "0.3.0",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "Tags": [ "gpose", "brio", "posing", "animation" ],
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.3.101/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.4.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.2.3.101/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
-    "Changelog": "修复不该被应用的模型变换，修复传播复选框。\nNet8测试。\n切换到canary再更新。"
+    "Changelog": "NET8"
   },
   {
     "Author": "Asgard",
@@ -242,7 +242,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.3.8/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0",
-    "Changelog": "实验性Moodles支持。\nNet8测试。\n切换到canary再更新。"
+    "Changelog": "NET8"
   },
   {
     "Author": "kawaii",
@@ -255,10 +255,10 @@
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
     "AssemblyVersion": "1.0.0.146",
-    "TestingAssemblyVersion": "1.0.0.146",
+    "TestingAssemblyVersion": "1.0.0.150",
     "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.146/Moodles.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.146/Moodles.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.150/Moodles.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.146/Moodles.zip",
-    "Changelog": "不处理应该已经消失的buff by wozaiha."
+    "Changelog": "NET8"
   }
 ]
