@@ -254,11 +254,11 @@
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
-    "AssemblyVersion": "1.0.0.146",
-    "TestingAssemblyVersion": "1.0.0.150",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.146/Moodles.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.150/Moodles.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.146/Moodles.zip",
+    "AssemblyVersion": "1.0.0.151",
+    "TestingAssemblyVersion": "1.0.0.151",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.151/Moodles.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.151/Moodles.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.151/Moodles.zip",
     "Changelog": "NET8"
   }
 ]
