@@ -28,12 +28,12 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 |[TPie](https://github.com/Tischel/TPie)|高可配置性的环形热键栏|1.8.0.1|CN6.5*|√|
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.3|CN6.5*|-|
 
-## 不和谐
+## 胖次
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
 |[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.5.8|CN6.5*|√|使用KadoMaws@SugarEnergy的汉化文件|
-|[Artisan](https://github.com/PunishXIV/Artisan)||3.0.5.1|CN6.5*|√|
+|[Artisan](https://github.com/PunishXIV/Artisan)||3.0.5.5|CN6.5*|√|
 
 ## 停止更新
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
