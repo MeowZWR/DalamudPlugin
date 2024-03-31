@@ -26,14 +26,14 @@
     "Changelog": "net8\u6d4b\u8bd5\u3002\n\u5207\u6362\u5230canary\u518d\u66f4\u65b0\u3002",
     "Tags": [ "crafting" ],
     "InternalName": "Artisan",
-    "AssemblyVersion": "3.0.5.5",
-    "TestingAssemblyVersion": "3.0.5.5",
+    "AssemblyVersion": "3.0.5.6",
+    "TestingAssemblyVersion": "3.0.5.6",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.5/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.5/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
     "IconUrl": "https://love.puni.sh/resources/artisan.png"
   }
 ]
