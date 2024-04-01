@@ -189,17 +189,17 @@
     "Name": "Brio",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.3.0.4",
-    "TestingAssemblyVersion": "0.3.0.4",
+    "AssemblyVersion": "0.3.0.5",
+    "TestingAssemblyVersion": "0.3.0.5",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "Tags": [ "gpose", "brio", "posing", "animation" ],
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0.4/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.0.5/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
-    "Changelog": "NET8"
+    "Changelog": "修复加载MCDF的问题；\n尝试修复崩溃问题；\n处理附件错误 by @AsgardXIV in #48。"
   },
   {
     "Author": "Asgard",
