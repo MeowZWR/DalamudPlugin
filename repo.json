@@ -59,22 +59,6 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.5/latest.zip"
   },
   {
-    "Author": "Tischel",
-    "Name": "TPieCN",
-    "InternalName": "TPieCN",
-    "AssemblyVersion": "1.8.0.1",
-    "Description": "高可配置性的环形热键栏，可以通过绑定热键进行切换。\n可以使用动作、物品、套装和宏。",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Tischel/TPie",
-    "Tags": [ "UI" ],
-    "DalamudApiLevel": 9,
-    "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/1.8.0.1/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/icon.png",
-    "Punchline": "可自定义的环形热键栏",
-    "Changelog": ""
-  },
-  {
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
     "Description": "根据坐标移动装修物品，解除游戏限制。",
