@@ -173,17 +173,17 @@
     "Name": "Brio",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.3.1.0",
-    "TestingAssemblyVersion": "0.3.1.0",
+    "AssemblyVersion": "0.3.1.1",
+    "TestingAssemblyVersion": "0.3.1.1",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "Tags": [ "gpose", "brio", "posing", "animation" ],
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/0.3.1.1/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
-    "Changelog": "同步上游0.3.1.0版本；\n尝试修复国服6.5相关sig。"
+    "Changelog": "国服6.51的sig。"
   },
   {
     "Author": "Asgard",
