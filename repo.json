@@ -5,7 +5,7 @@
     "Description": "运行时mod加载和管理器。",
     "InternalName": "Penumbra",
     "AssemblyVersion": "1.0.1.3",
-    "TestingAssemblyVersion": "1.0.2.6",
+    "TestingAssemblyVersion": "1.0.2.7",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -15,10 +15,10 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.0.1.3/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/1.0.2.6/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download//1.0.2.7/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.0.1.3/Penumbra.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": ""
+    "Changelog": "1.0.2.7：独立分配不会再丢玩家角色了，大概。"
   },
   {
     "Author": "Ottermandias",
