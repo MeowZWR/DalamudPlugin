@@ -14,7 +14,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|1.0.1.0|CN6.5*|√|国服适配|
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|1.0.2.6|CN6.5*|√|国服适配|
 |[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.2.1.3|CN6.5*|√|国服适配|
 |[Customize+](https://github.com/Aether-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|2.0.3.1|CN6.5*|√|
 |[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.9.3.0|CN6.5*|√|
@@ -31,7 +31,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.5.8|CN6.5*|√|使用KadoMaws@SugarEnergy的汉化文件|
+|[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.7.3|CN6.5*|√|使用KadoMaws@SugarEnergy的汉化文件|
 |[Artisan](https://github.com/PunishXIV/Artisan)||3.0.5.6|CN6.5*|√|
 
 ## 停止更新

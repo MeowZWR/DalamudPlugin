@@ -5,7 +5,7 @@
     "Punchline": "\u771f\u6b63\u7684\u6b7b\u7075\u672f\u58eb\u4e00\u5b9a\u5bf9\u6df1\u5c42\u8ff7\u5bab\u4e86\u5982\u6307\u638c...\u7136\u800c\u6709\u7684\u4eba\u5374\u5728\u4f7f\u7528\u79d1\u6280\uff01",
     "Description": "\u6df1\u5c42\u8ff7\u5bab\u52a9\u624b\u3002\u663e\u793a\u5de1\u903b\u602a\u3001\u4ec7\u6068\u3001\u89c6\u7ebf\u548c\u4e00\u5207\u5176\u4ed6\u4e1c\u897f\u7684\u96f7\u8fbe\u89c6\u56fe\u3002",
     "InternalName": "NecroLens",
-    "AssemblyVersion": "1.0.5.8",
+    "AssemblyVersion": "1.0.7.3",
     "RepoUrl": "https://github.com/Jukkales/NecroLens",
     "ApplicableVersion": "any",
     "Tags": [ "potd", "hoh", "eo", "esp", "radar", "sonar", "deep", "dungeon" ],
@@ -13,9 +13,9 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.5.8/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.3/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png"
   },
   {
