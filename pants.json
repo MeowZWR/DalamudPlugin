@@ -34,6 +34,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
-    "IconUrl": "https://love.puni.sh/resources/artisan.png"
+    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Artisan/icon.png"
   }
 ]
