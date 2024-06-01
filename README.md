@@ -21,7 +21,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/
 |[Moodles](https://github.com/kawaii/Moodles)|使用格式、持续时间和其他参数来设计应用你自己的状态效果。|1.0.0.15|CN6.5*|√|国服特供功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制 |2.1.0.8|CN6.5*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|强大的姿势工具，在集体动作中使用。|0.2.22<br>测0.3.0.16|CN6.5*|√|已原生支持cmp|
-|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.3.1.3|CN6.55|√|国服适配|
+|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.3.1.4|CN6.55|√|国服适配|
 |[XAT.Plugin](https://github.com/AsgardXIV/XAT)|创建编辑动作和镜头控制|2023.10.3.2301|CN6.5*|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.2|CN6.5*|√|
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.3|CN6.5*|-|
