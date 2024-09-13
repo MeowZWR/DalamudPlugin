@@ -161,7 +161,7 @@
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
     "AssemblyVersion": "0.10.1.1",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/SimpleHeels/0.10.1.1/latest.zip",
