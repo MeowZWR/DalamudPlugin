@@ -128,9 +128,9 @@
     "IsTestingExclusive": "False",
     "Tags": [ "Anamnesis", "Customization", "Appearance", "Character", "Risa" ],
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.6.2/Release.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.6.2/Release.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/CustomizePlus/2.0.6.2/Release.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/CustomizePlus/2.0.6.2/Release.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/CustomizePlus/2.0.6.2/Release.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/CustomizePlus/2.0.6.2/Release.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
     "Changelog": ""
   },
