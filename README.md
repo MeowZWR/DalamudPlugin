@@ -15,7 +15,7 @@ https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/globa
 |--------|----|:------:|:------:|:------:|----|
 |[Penumbra](https://github.com/xivdev/Penumbra)|运行时mod加载和管理器|1.2.1.4|7.0*|√||
 |[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.3.1.1|7.0*|√||
-|[Customize+](https://github.com/Aether-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|2.0.3.1|CN6.5*|×|
+|[Customize+](https://github.com/Aether-Tools/CustomizePlus)|允许你创建和应用Anamnesis样式的身体缩放，并在游戏角色身上实时保持|2.0.6.2|7.0*|√|
 |[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|另一个高跟鞋插件，具有一些特色功能。|0.9.3.2|CN6.5*|×|
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据设置的各种条件来自动更改角色外观、缩放、称号|1.0.5.9|CN6.5*|×|
 |[Moodles](https://github.com/kawaii/Moodles)|使用格式、持续时间和其他参数来设计应用你自己的状态效果。|1.0.0.15|CN6.5*|×|国服特供功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
