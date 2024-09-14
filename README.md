@@ -22,12 +22,12 @@ https://plogon.meowrs.com/global
 |[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|调整穿着高跟鞋以及做情感动作时的位置偏移|0.10.1.1|7.0*|√|
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|1.0.5.9|CN6.5*|×|
 |[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|1.0.0.15|CN6.5*|×|国服特供功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
-|[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.8|CN6.5*|×|
+|[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.9|7.0*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.22<br>测0.3.0.16|CN6.5*|×||
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.1.0|7.05|√||
 |[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)|情感动作模组管理与集体动作套件|1.0.5|7.05|×|
-|[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.2|CN6.5*|×|
-|[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.3|CN6.5*|-|
+|[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.6|7.0*|√|
+|[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.4|7.0*|-|
 
 ## 胖次
 ```
