@@ -23,7 +23,7 @@ https://plogon.meowrs.com/global
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|1.0.5.9|CN6.5*|×|
 |[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|1.0.0.15|CN6.5*|×|国服特供功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.9|7.0*|√|
-|[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.22<br>测0.3.0.16|CN6.5*|×||
+|[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.24<br>测0.3.1.0|7.0*|√||
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.1.0|7.05|√||
 |[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)|情感动作模组管理与集体动作套件|1.0.5|7.05|×|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.6|7.0*|√|
