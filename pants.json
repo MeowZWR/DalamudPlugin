@@ -13,10 +13,10 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.3/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/NecroLens/1.0.7.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/NecroLens/1.0.7.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/NecroLens/1.0.7.3/latest.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/NecroLens/icon.png"
   },
   {
     "Author": "Taurenkey (Puni.sh)",
@@ -31,9 +31,9 @@
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.5.6/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Artisan/icon.png"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Artisan/3.0.5.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Artisan/3.0.5.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Artisan/3.0.5.6/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Artisan/icon.png"
   }
 ]

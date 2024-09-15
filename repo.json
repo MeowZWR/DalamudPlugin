@@ -18,7 +18,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Penumbra/1.2.1.4/Penumbra.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Penumbra/1.2.1.4/Penumbra.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Penumbra/1.2.1.4/Penumbra.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Penumbra//icon.png",
     "Changelog": ""
   },
   {
@@ -38,7 +38,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Glamourer/1.3.1.1/Glamourer.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Glamourer/1.3.1.1/Glamourer.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Glamourer/1.3.1.1/Glamourer.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/icon.png",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Glamourer/icon.png",
     "Changelog": ""
   },
   {
@@ -51,13 +51,13 @@
     "RepoUrl": "https://github.com/Eternita-S/AntiAfkKick",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/icon.png",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/AntiAfkKick-Dalamud/icon.png",
     "ImageUrls": [],
     "IsHide": "False",
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/2.1.0.6/latest.zip"
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/AntiAfkKick-Dalamud/2.1.0.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/AntiAfkKick-Dalamud/2.1.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/AntiAfkKick-Dalamud/2.1.0.6/latest.zip"
   },
   {
     "Author": "LeonBlade",
@@ -71,10 +71,10 @@
     "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/1.6.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/1.6.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/1.6.6/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/icon.png",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/BDTHPlugin/icon.png",
     "Changelog": ""
   },
   {
@@ -89,9 +89,9 @@
     "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/SkipCutscene/1.2.2.4/latest.zip",
     "IconUrl": ""
   },
   {
@@ -104,14 +104,14 @@
     "ApplicableVersion": "any",
     "CategoryTags": [ "utility" ],
     "DalamudApiLevel": 10,
-    "ImageUrls": [ "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/image1.png" ],
+    "ImageUrls": [ "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Cammy/image1.png" ],
     "IsHide": false,
     "IsTestingExclusive": false,
     "AssemblyVersion": "2.1.0.9",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/2.1.0.9/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/2.1.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/2.1.0.9/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/icon.png",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Cammy/2.1.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Cammy/2.1.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Cammy/2.1.0.9/latest.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Cammy/icon.png",
     "Changelog": ""
   },
   {
@@ -132,7 +132,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/CustomizePlus/2.0.6.2/Release.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/CustomizePlus/2.0.6.2/Release.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/CustomizePlus/2.0.6.2/Release.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/CustomizePlus/icon.png",
     "Changelog": ""
   },
   {
@@ -147,10 +147,10 @@
     "DalamudApiLevel": 10,
     "IsHide": "False",
     "Tags": [ "gpose", "posing", "ktisis" ],
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/icon.png",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.24/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.3.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/0.2.24/latest.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Ktisis/icon.png",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Ktisis/0.2.24/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Ktisis/0.3.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Ktisis/0.2.24/latest.zip",
     "Changelog": ""
   },
   {
@@ -185,7 +185,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Brio/0.4.1.0/Brio.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Brio/0.4.1.0/Brio.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Brio/0.4.1.0/Brio.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Brio/icon.png",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Brio/icon.png",
     "Changelog": ""
   },
   {
@@ -199,13 +199,13 @@
     "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/icon.png",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/DynamicBridge/icon.png",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.6.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.6.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/DynamicBridge/1.0.6.3/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/DynamicBridge/1.0.6.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/DynamicBridge/1.0.6.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/DynamicBridge/1.0.6.3/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0",
     "Changelog": ""
