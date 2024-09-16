@@ -219,7 +219,7 @@
     "Punchline": "可怕的负面情绪现在以debuff的形式出现了，库啵！",
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "AssemblyVersion": "1.0.0.2701",
     "TestingAssemblyVersion": "1.0.0.2701",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2701/Moodles.zip",
