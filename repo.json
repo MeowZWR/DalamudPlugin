@@ -220,11 +220,33 @@
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 9,
-    "AssemblyVersion": "1.0.0.27",
-    "TestingAssemblyVersion": "1.0.0.27",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.27/Moodles.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.27/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.27/Moodles.zip",
+    "AssemblyVersion": "1.0.0.2701",
+    "TestingAssemblyVersion": "1.0.0.2701",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2701/Moodles.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2701/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2701/Moodles.zip",
     "Changelog": ""
+  },
+  {
+    "Author": "Krisan Thyme & MrPolarbear",
+    "Name": "IllusioVitae",
+    "Punchline": "Illusion of Life",
+    "Description": "情感动作模组管理与集体动作套件。",
+    "InternalName": "IVPlugin",
+    "AssemblyVersion": "1.0.5",
+    "TestingAssemblyVersion": "1.0.5",
+    "RepoUrl": "https://github.com/KrisanThyme/Illusio-Vitae",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Illusio-Vitae/1.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Illusio-Vitae/1.0.5/latest.zip",
+    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Illusio-Vitae/icon.png",
+    "Tags": [
+      "gpose",
+      "posing",
+      "animation",
+      "concept matrix",
+      "cmtool"
+    ]
   }
 ]

@@ -25,7 +25,7 @@ https://plogon.meowrs.com/global
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.9|7.0*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.24|7.0*|√|有测试版本0.3.1.0|
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.1.0|7.05|√||
-|[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)|情感动作模组管理与集体动作套件|1.0.5|7.05|×|
+|[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)|情感动作模组管理与集体动作套件|1.0.5|7.05|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.6|7.0*|√|
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.4|7.0*|-|
 
