@@ -42,5 +42,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/Dalamud.SkipCutscene/main/repo.json",
     "plugins": [ "SkipCutscene" ]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Illusio-Vitae/cn/repo.json",
+    "plugins": [ "IVPlugin" ]
   }
 ]
