@@ -38,5 +38,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/repo.json",
     "plugins": [ "BDTHPlugin" ]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Dalamud.SkipCutscene/main/repo.json",
+    "plugins": [ "SkipCutscene" ]
   }
 ]
