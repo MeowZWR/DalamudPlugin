@@ -1,18 +1,17 @@
 # DalamudPlugins
-国际服插件汉化测试。
-## 仓库地址
+FF14国服插件汉化。（感谢来世、獭爹、wozaiha佬的帮助，啵啵。）   
+国际服汉化看[这里](https://github.com/MeowZWR/DalamudPlugin/tree/global)
+
+## 仓库链接
 可能要有梯子：
 ```
-https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/repo.json
+https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
 ```
 可能不要梯子：
 ```
-https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/global/meowrs.json
+https://plogon.meowrs.com/cn
 ```
 ## 插件介绍
-```
-https://plogon.meowrs.com/global
-```
 
 |插件名称|介绍|汉化版本|游戏版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
@@ -48,3 +47,7 @@ https://plogon.meowrs.com/pants
 |~~[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)~~|~~突破分辨率限制，144p显示器也能拍8K图~~|~~1.0.0.0~~|~~CN6.4*~~|~~√~~|主库插件|
 |~~[TPie](https://github.com/Tischel/TPie)~~|~~高可配置性的环形热键栏~~|~~1.8.0.1~~|~~CN6.5*~~|~~√~~|已进主库|
 |~~[XAT.Plugin](https://github.com/AsgardXIV/XAT)~~|~~创建编辑动作和镜头控制~~|~~2023.10.3.2301~~|~~CN6.5*~~|~~√~~|Brio已集成|
+
+## Credits
+
+Workflow modified from [SeaOfStars](https://github.com/Ottermandias/SeaOfStars).
