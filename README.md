@@ -1,4 +1,5 @@
 # DalamudPlugins
+
 FF14国服插件汉化。（感谢来世、獭爹、wozaiha佬的帮助，啵啵。）   
 国际服汉化看[这里](https://github.com/MeowZWR/DalamudPlugin/tree/global)
 
@@ -50,4 +51,4 @@ https://plogon.meowrs.com/pants
 
 ## Credits
 
-Workflow modified from [SeaOfStars](https://github.com/Ottermandias/SeaOfStars).
+Workflows modified from [SeaOfStars](https://github.com/Ottermandias/SeaOfStars).
