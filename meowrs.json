@@ -113,25 +113,25 @@
   {
     "Author": "Asgard, Minmoose and Contributors",
     "Name": "Brio",
-    "Punchline": "集体动作增强。",
+    "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.4.1.0",
-    "TestingAssemblyVersion": "0.4.1.0",
-    "RepoUrl": "https://github.com/AsgardXIV/Brio",
+    "AssemblyVersion": "0.4.2",
+    "TestingAssemblyVersion": "0.4.2",
+    "RepoUrl": "https://github.com/Etheirys/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/global0.4.2/Brio.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/global0.4.2/Brio.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/global0.4.2/Brio.zip",
+    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
       "brio",
       "posing",
-      "animation"
-    ],
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Brio/0.4.1.0/Brio.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Brio/0.4.1.0/Brio.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Brio/0.4.1.0/Brio.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/Brio/icon.png",
-    "Changelog": ""
+      "animation",
+      "Sea Of Stars"
+    ]
   },
   {
     "Author": "Chirp",
