@@ -36,8 +36,8 @@ https://plogon.meowrs.com/pants
 
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.7.3|CN6.5*|√|使用KadoMaws@SugarEnergy的汉化文件|
-|[Artisan](https://github.com/PunishXIV/Artisan)||3.0.5.6|CN6.5*|√|
+|[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.7.12|CN6.5*|√|使用KadoMaws@SugarEnergy的汉化文件|
+|[Artisan](https://github.com/PunishXIV/Artisan)||4.0.1.8|CN6.5*|√|
 
 ## 停止更新
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
