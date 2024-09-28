@@ -13,10 +13,10 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.12/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.12/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.12/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png"
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.12/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.12/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.12/latest.zip",
+    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png"
   },
   {
     "Author": "Taurenkey (Puni.sh)",
@@ -31,9 +31,9 @@
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Artisan/icon.png"
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
+    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Artisan/icon.png"
   }
 ]
