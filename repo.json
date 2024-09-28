@@ -29,8 +29,8 @@
   {
     "Author": "Ottermandias",
     "Name": "Glamourer",
-    "Punchline": "改变和保存玩家外观。",
-    "Description": "为玩家提供更改保存自定义外貌和装备外观的功能。\n将预览选项添加到了Penumbra的“模组-更改项目”选项卡中。\n需要安装并启用Penumbra才能工作。",
+    "Punchline": "Change and save appearance of players.",
+    "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
     "Tags": [
       "Appearance",
       "Glamour",
@@ -47,7 +47,7 @@
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.3.1.100",
     "TestingAssemblyVersion": "1.3.1.100",
-    "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
+    "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
@@ -165,9 +165,9 @@
     "RepoUrl": "https://github.com/MeowZWR/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 10,
-    "AssemblyVersion": "1.0.0.2701",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2701/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2701/Moodles.zip",
+    "AssemblyVersion": "1.0.0.2702",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2702/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2702/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
