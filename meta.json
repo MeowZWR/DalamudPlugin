@@ -4,7 +4,7 @@
     "plugins": [ "Penumbra" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/cn/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/main/repo.json",
     "plugins": [ "Glamourer" ]
   },
   {
