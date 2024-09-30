@@ -278,9 +278,9 @@
     "RepoUrl": "https://github.com/KrisanThyme/Illusio-Vitae",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/icon.png",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
+    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/icon.png",
     "Tags": [
       "gpose",
       "posing",
