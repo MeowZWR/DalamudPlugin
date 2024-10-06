@@ -45,9 +45,9 @@
       "Sea Of Stars"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.3.1.100",
-    "TestingAssemblyVersion": "1.3.1.100",
-    "RepoUrl": "https://github.com/Ottermandias/Glamourer",
+    "AssemblyVersion": "1.3.2.1",
+    "TestingAssemblyVersion": "1.3.2.1",
+    "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
@@ -55,9 +55,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.1.100/Glamourer.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.1.100/Glamourer.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.1.100/Glamourer.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.2.1/Glamourer.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.2.1/Glamourer.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.2.1/Glamourer.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/main/images/icon.png"
   },
   {
