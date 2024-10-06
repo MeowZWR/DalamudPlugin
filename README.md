@@ -17,9 +17,9 @@ https://plogon.meowrs.com/global
 
 |插件名称|介绍|汉化版本|游戏版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时模组加载和管理器|1.2.1.4|7.0*|√||
-|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.3.1.1|7.0*|√||
-|[Customize+](https://github.com/Aether-Tools/CustomizePlus)|通过编辑骨骼参数来定制角色|2.0.6.2|7.0*|√|
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时模组加载和管理器|1.2.1.5|7.0*|√||
+|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.3.2.0|7.0*|√||
+|[Customize+](https://github.com/Aether-Tools/CustomizePlus)|通过编辑骨骼参数来定制角色|2.0.6.5|7.0*|√|
 |[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|调整穿着高跟鞋以及做情感动作时的位置偏移|0.10.1.1|7.0*|√|
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|1.0.6.4|7.0*|√|
 |[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|1.0.0.27|7.0*|√|月海同步功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
