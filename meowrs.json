@@ -6,7 +6,7 @@
     "Description": "运行时模组加载和管理器。",
     "InternalName": "Penumbra",
     "AssemblyVersion": "1.2.1.502",
-    "TestingAssemblyVersion": "1.2.1.700",
+    "TestingAssemblyVersion": "1.2.1.800",
     "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -19,7 +19,7 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.2.1.502/Penumbra.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/testing_1.2.1.700/Penumbra.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/testing_1.2.1.800/Penumbra.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.2.1.502/Penumbra.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",
     "Tags": [
@@ -46,7 +46,7 @@
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.3.2.1",
-    "TestingAssemblyVersion": "1.3.2.1",
+    "TestingAssemblyVersion": "1.3.2.100",
     "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -57,7 +57,7 @@
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.2.1/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.2.1/Glamourer.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.2.1/Glamourer.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/testing_1.3.2.100/Glamourer.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/main/images/icon.png"
   },
   {
