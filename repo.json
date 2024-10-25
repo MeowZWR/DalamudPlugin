@@ -139,7 +139,7 @@
     "InternalName": "Ktisis",
     "Description": "集体动作姿势编辑工具。初次使用记得设置→Language→选择简体中文。",
     "AssemblyVersion": "0.2.26",
-    "TestingAssemblyVersion": "0.3.2",
+    "TestingAssemblyVersion": "0.3.2.1",
     "RepoUrl": "https://github.com/MeowZWR/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -152,7 +152,7 @@
     ],
     "IconUrl": "https://github.com/MeowZWR/Ktisis/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/refs/heads/main/Plugins/Ktisis/0.3.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/refs/heads/main/Plugins/Ktisis/0.3.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip"
   },
   {
