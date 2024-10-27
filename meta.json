@@ -12,7 +12,7 @@
     "plugins": [ "SimpleHeels" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/CustomizePlus/cn/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/CustomizePlus-CN/cn/repo.json",
     "plugins": [ "CustomizePlus" ]
   },
   {
