@@ -88,7 +88,7 @@
     "Punchline": "突破FF14的限制，自定义你的角色。",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.0.7.100",
-    "TestingAssemblyVersion": "2.0.7.101",
+    "TestingAssemblyVersion": "2.0.7.103",
     "RepoUrl": "https://github.com/MeowZWR/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -100,7 +100,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.100/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.100/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/testing_2.0.7.101/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/testing_2.0.7.103/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/CustomizePlus-CN/cn/Data/icon.png",
     "Tags": [
       "Anamnesis",
