@@ -166,9 +166,9 @@
     "RepoUrl": "https://github.com/MeowZWR/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 10,
-    "AssemblyVersion": "1.0.0.2702",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2702/Moodles.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2702/Moodles.zip",
+    "AssemblyVersion": "1.0.0.2800",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2800/Moodles.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2800/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
@@ -215,11 +215,11 @@
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "2.1.0.9",
-    "TestingAssemblyVersion": "2.1.0.9",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
+    "AssemblyVersion": "2.1.0.10",
+    "TestingAssemblyVersion": "2.1.0.10",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": ""
   },
