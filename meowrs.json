@@ -139,12 +139,12 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "集体动作姿势编辑工具。初次使用记得设置→Language→选择简体中文。",
-    "AssemblyVersion": "0.2.26",
-    "TestingAssemblyVersion": "0.3.3.0",
+    "AssemblyVersion": "0.2.27.100",
+    "TestingAssemblyVersion": "0.3.4.0",
     "RepoUrl": "https://github.com/MeowZWR/Ktisis",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "TestingDalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
+    "TestingDalamudApiLevel": 11,
     "Tags": [
       "gpose",
       "posing",
@@ -152,9 +152,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/refs/heads/main/Plugins/Ktisis/0.3.3.0/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip"
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Ktisis/0.3.4.0/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip"
   },
   {
     "Author": "kawaii",
