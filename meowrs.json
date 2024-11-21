@@ -165,7 +165,7 @@
     "Punchline": "可怕的负面情绪现在以debuff的形式出现了，库啵！",
     "RepoUrl": "https://github.com/MeowZWR/Moodles",
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "AssemblyVersion": "1.0.0.2800",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2800/Moodles.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2800/Moodles.zip",
@@ -209,7 +209,8 @@
     "CategoryTags": [
       "utility"
     ],
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
+    "TestingDalamudApiLevel": 11,
     "ImageUrls": [
       "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/image1.png"
     ],
