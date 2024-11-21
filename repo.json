@@ -228,7 +228,8 @@
     "Name": "Burning Down the House",
     "Description": "根据坐标移动装修物品，解除游戏限制。",
     "InternalName": "BDTHPlugin",
-    "AssemblyVersion": "1.6.6",
+    "AssemblyVersion": "1.6.8",
+    "TestingAssemblyVersion": "1.6.8",
     "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -240,13 +241,13 @@
       "furnishing",
       "LeonBlade"
     ],
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/icon.png",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/icon.png",
     "Changelog": ""
   },
   {
