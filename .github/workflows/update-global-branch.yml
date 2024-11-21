@@ -1,0 +1,33 @@
+name: Request Global Branch Update
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [request-update-run-action]
+
+jobs:
+  generate:
+    name: Generate repository
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: global # 指定操作的分支为 global
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          check-latest: true
+      - name: Run generator
+        run: node index.js
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git fetch origin global
+          git checkout global
+          git add meowrs.json
+          git add repo.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update global repository"
+          git push
