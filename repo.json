@@ -70,7 +70,7 @@
     "AssemblyVersion": "0.10.2.4",
     "TestingAssemblyVersion": "0.10.2.4",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.2.4/SimpleHeels.zip",
