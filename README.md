@@ -17,8 +17,8 @@ https://plogon.meowrs.com/global
 
 |插件名称|介绍|汉化版本|游戏版本|汉化情况|备注|
 |--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时模组加载和管理器|1.3.0.4|7.1*|√||
-|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.3.3.3|7.1*|√||
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时模组加载和管理器|1.3.1.2|7.1*|√||
+|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.3.4.0|7.1*|√||
 |[Customize+](https://github.com/Aether-Tools/CustomizePlus)|通过编辑骨骼参数来定制角色|2.0.7.5|7.1*|√|
 |[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|调整穿着高跟鞋以及做情感动作时的位置偏移|0.10.2.4|7.1*|√|
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|1.0.6.6|7.0*|√|
@@ -26,7 +26,6 @@ https://plogon.meowrs.com/global
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.10|7.1*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.27|7.1*|√|测试0.3.4|
 |[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.3.1|7.1*|√||
-|[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)|情感动作模组管理与集体动作套件|1.0.5|7.0*|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.8|7.1*|√|
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.4|7.0*|-|
 
@@ -49,6 +48,7 @@ https://plogon.meowrs.com/pants
 |~~[XIVWindowResizer](https://github.com/AlexCSDev/XIVWindowResizer)~~|~~突破分辨率限制，144p显示器也能拍8K图~~|~~1.0.0.0~~|~~CN6.4*~~|~~√~~|主库插件|
 |~~[TPie](https://github.com/Tischel/TPie)~~|~~高可配置性的环形热键栏~~|~~1.8.0.1~~|~~CN6.5*~~|~~√~~|已进主库|
 |~~[XAT.Plugin](https://github.com/AsgardXIV/XAT)~~|~~创建编辑动作和镜头控制~~|~~2023.10.3.2301~~|~~CN6.5*~~|~~√~~|Brio已集成|
+|~~[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)~~|~~情感动作模组管理与集体动作套件~~|~~1.0.5~~|~~7.0*~~|~~√~~|有很多争议，汉化后也一次都没用过|
 
 ## Credits
 
