@@ -166,9 +166,9 @@
     "RepoUrl": "https://github.com/MeowZWR/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 10,
-    "AssemblyVersion": "1.0.0.2702",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2702/Moodles.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/1.0.0.2702/Moodles.zip",
+    "AssemblyVersion": "2.0.0.28",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.28/Moodles.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.28/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
