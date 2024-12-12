@@ -26,14 +26,14 @@
     "Changelog": "",
     "Tags": [ "crafting" ],
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.1.8",
-    "TestingAssemblyVersion": "4.0.1.8",
+    "AssemblyVersion": "4.0.1.801",
+    "TestingAssemblyVersion": "4.0.1.801",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.8/latest.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.801/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.801/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.1.801/latest.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Artisan/icon.png"
   }
 ]
