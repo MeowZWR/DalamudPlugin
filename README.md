@@ -21,10 +21,10 @@ https://plogon.meowrs.com/cn
 |[Customize+](https://github.com/Aether-Tools/CustomizePlus)|通过编辑骨骼参数来定制角色|2.0.7.0|7.0*|√|
 |[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|调整穿着高跟鞋以及做情感动作时的位置偏移|0.10.1.1|7.0*|√|
 |[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|1.0.6.6|7.0*|√|
-|[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|1.0.0.27|7.0*|√|月海同步功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
+|[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|2.0.0.31|7.0*|√|月海同步功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
 |[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.9|7.0*|√|
 |[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.24|7.0*|√|有测试版0.3.2.0|
-|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.1.0|7.05|√||
+|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.4.6|7.05|√||
 |[IllusioVitae](https://github.com/KrisanThyme/Illusio-Vitae)|情感动作模组管理与集体动作套件|1.0.5|7.05|√|
 |[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.6|7.0*|√|
 |[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.4|7.0*|-|
