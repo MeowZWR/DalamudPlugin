@@ -71,6 +71,7 @@
     "TestingAssemblyVersion": "0.10.2.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.2.3/SimpleHeels.zip",
@@ -122,6 +123,7 @@
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/cn0.4.2/Brio.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/cn0.4.4.6/Brio.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/cn0.4.2/Brio.zip",
@@ -166,6 +168,7 @@
     "RepoUrl": "https://github.com/MeowZWR/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "AssemblyVersion": "2.0.0.31",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.31/Moodles.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.31/Moodles.zip",
@@ -184,6 +187,7 @@
     "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/raw/cn/DynamicBridge/images/icon.png",
     "ImageUrls": [],
     "IsHide": false,
@@ -210,6 +214,7 @@
       "utility"
     ],
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "ImageUrls": [
       "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Cammy/image1.png"
     ],
@@ -241,6 +246,7 @@
       "LeonBlade"
     ],
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
@@ -279,6 +285,7 @@
     "RepoUrl": "https://github.com/KrisanThyme/Illusio-Vitae",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
     "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/icon.png",
@@ -300,6 +307,7 @@
     "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/icon.png",
     "ImageUrls": [],
     "IsHide": "False",
