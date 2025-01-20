@@ -119,7 +119,7 @@
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
     "AssemblyVersion": "0.4.2",
-    "TestingAssemblyVersion": "0.4.4.6",
+    "TestingAssemblyVersion": "0.4.4.7",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
