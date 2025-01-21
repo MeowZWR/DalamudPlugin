@@ -8,7 +8,7 @@
     "plugins": [ "Glamourer" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/SimpleHeels/master/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/SimpleHeels/cn-api10/repo.json",
     "plugins": [ "SimpleHeels" ]
   },
   {
