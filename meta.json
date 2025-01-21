@@ -24,7 +24,7 @@
     "plugins": [ "Ktisis" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Moodles/7.0/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Moodles/API11CN/repo.json",
     "plugins": [ "Moodles" ]
   },
   {
