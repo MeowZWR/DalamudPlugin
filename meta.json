@@ -28,7 +28,7 @@
     "plugins": [ "Moodles" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/DynamicBridge/cn/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/DynamicBridge/cn-api10/repo.json",
     "plugins": [ "DynamicBridge" ]
   },
   {
