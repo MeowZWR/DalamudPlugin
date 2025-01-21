@@ -32,7 +32,7 @@
     "plugins": [ "DynamicBridge" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Cammy/cn/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Cammy/cn-api10/repo.json",
     "plugins": [ "Cammy" ]
   },
   {
