@@ -86,7 +86,7 @@ async function main() {
     return cleanedPlugin;
   });
 
-  // Write to meowrs.json
+  // Write to meowrs.json with original data (no cleaning)
   fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2)); // Final unchanged data
   console.log(`Wrote ${final.length} plugins to meowrs.json.`);
 
