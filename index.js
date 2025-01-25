@@ -72,11 +72,12 @@ async function main() {
     await doRepo(meta.repo, meta.plugins);
   }
 
-  // Clean the final array to remove "https://meowrs.com/"
+  // Clean the final array to remove "https://meowrs.com/" for repo.json only
   const cleanedFinal = final.map((plugin) => {
     const cleanedPlugin = { ...plugin };
     Object.keys(cleanedPlugin).forEach((key) => {
       if (typeof cleanedPlugin[key] === "string") {
+        // Clean URLs only for repo.json
         cleanedPlugin[key] = cleanedPlugin[key].replace(
           /https:\/\/meowrs.com\//g,
           ""
@@ -86,11 +87,11 @@ async function main() {
     return cleanedPlugin;
   });
 
-  // Write to meowrs.json with original data (no cleaning)
-  fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2)); // Final unchanged data
+  // Write to meowrs.json (without cleaning URLs)
+  fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2)); 
   console.log(`Wrote ${final.length} plugins to meowrs.json.`);
 
-  // Write to repo.json with cleaned URLs
+  // Write to repo.json (with cleaned URLs)
   fs.writeFileSync("./repo.json", JSON.stringify(cleanedFinal, null, 2));
   console.log(`Wrote ${cleanedFinal.length} plugins to repo.json.`);
 }
