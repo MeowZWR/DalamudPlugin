@@ -13,7 +13,7 @@ async function recoverPlugin(internalName) {
         process.exit(1);
     }
 
-    const oldRepo = JSON.parse(fs.readFileSync("./repo.json", "utf8"));
+    const oldRepo = JSON.parse(fs.readFileSync("./meowrs.json", "utf8"));
     const plugin = oldRepo.find((x) => x.InternalName === internalName);
     if (!plugin) {
         console.error(`!!! ${plugin} not found in old repo`);
