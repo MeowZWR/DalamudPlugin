@@ -1,87 +1,95 @@
 const fs = require("fs");
 
 const extraTag = "Sea Of Stars";
-const specifiedPlugins = ["Penumbra", "Glamourer", "SimpleHeels", "CustomizePlus", "Ktisis", "Brio", "DynamicBridge", "Moodles"];
+const specifiedPlugins = [
+  "Penumbra",
+  "Glamourer",
+  "SimpleHeels",
+  "CustomizePlus",
+  "Ktisis",
+  "Brio",
+  "DynamicBridge",
+  "Moodles",
+];
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
+const targetApiLevel = 10;
 const final = [];
 
-async function recoverPlugin(internalName) {
+function recoverPlugin(internalName) {
   if (!fs.existsSync("./repo.json")) {
-    console.error("!!! Tried to recover plugin when repo isn't generated");
-    process.exit(1);
+    console.error("!!! repo.json not found when recovering plugin");
+    return;
   }
 
   const oldRepo = JSON.parse(fs.readFileSync("./repo.json", "utf8"));
   const plugin = oldRepo.find((x) => x.InternalName === internalName);
-  if (!plugin) {
-    console.error(`!!! ${plugin} not found in old repo`);
-    process.exit(1);
+  if (plugin) {
+    final.push(plugin);
+    console.log(`Recovered ${internalName} from repo.json`);
+  } else {
+    console.error(`!!! Plugin "${internalName}" not found in repo.json`);
   }
-
-  final.push(plugin);
-  console.log(`Recovered ${internalName} from last manifest`);
 }
 
 async function doRepo(url, plugins) {
-  console.log(`Fetching ${url}...`);
-  const repo = await fetch(url, {
-      headers: {
-              'user-agent': 'SeaOfStars/1.0.0',
-      },
-  }).then((res) => res.json());
+  try {
+    console.log(`Fetching ${url}...`);
+    const repo = await fetch(url, {
+      headers: { "user-agent": "SeaOfStars/1.0.0" },
+    }).then((res) => res.json());
 
-  for (const internalName of plugins) {
-    const plugin = repo.find((x) => x.InternalName === internalName);
-    if (!plugin) {
-      console.warn(`!!! ${plugin} not found in ${url}`);
-      recoverPlugin(internalName);
-      continue;
-    }
-
-      //  extraTag
-      if (specifiedPlugins.includes(internalName)) {
-          const tags = plugin.Tags || [];
-          tags.push(extraTag);
-          plugin.Tags = tags;
-          console.log(`Added tag "${extraTag}" to ${internalName}`);
+    plugins.forEach((internalName) => {
+      const plugin = repo.find((x) => x.InternalName === internalName);
+      if (!plugin) {
+        console.warn(`!!! Plugin "${internalName}" not found in ${url}`);
+        recoverPlugin(internalName);
+        return;
       }
 
-    final.push(plugin);
+      if (plugin.DalamudApiLevel !== targetApiLevel) {
+        console.warn(
+          `!!! ${internalName} has DalamudApiLevel ${plugin.DalamudApiLevel}, skipping`
+        );
+        recoverPlugin(internalName);
+        return;
+      }
+
+      if (specifiedPlugins.includes(internalName)) {
+        plugin.Tags = [...(plugin.Tags || []), extraTag];
+        console.log(`Added tag "${extraTag}" to ${internalName}`);
+      }
+
+      final.push(plugin);
+    });
+  } catch (error) {
+    console.error(`!!! Failed to fetch ${url}`, error);
+    plugins.forEach(recoverPlugin);
   }
 }
 
 async function main() {
-    for (const meta of reposMeta) {
-        try {
-            await doRepo(meta.repo, meta.plugins);
-        } catch (e) {
-            console.error(`!!! Failed to fetch ${meta.repo}`);
-            console.error(e);
-            for (const plugin of meta.plugins) {
-                recoverPlugin(plugin);
-            }
-        }
-    }
+  for (const meta of reposMeta) {
+    await doRepo(meta.repo, meta.plugins);
+  }
 
-    // 写入 meowrs.json
-    fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2));
-    console.log(`Wrote ${final.length} plugins to meowrs.json.`);
+  fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2));
+  console.log(`Wrote ${final.length} plugins to meowrs.json.`);
 
-    // 清除 repo.json 中的所有 "https://meowrs.com/"
-    const cleanedFinal = final.map(plugin => {
-        const cleanedPlugin = { ...plugin };
-        for (const key in cleanedPlugin) {
-            if (typeof cleanedPlugin[key] === 'string') {
-                cleanedPlugin[key] = cleanedPlugin[key].replace(/https:\/\/meowrs.com\//g, '');
-            }
-        }
-        return cleanedPlugin;
+  const cleanedFinal = final.map((plugin) => {
+    const cleanedPlugin = { ...plugin };
+    Object.keys(cleanedPlugin).forEach((key) => {
+      if (typeof cleanedPlugin[key] === "string") {
+        cleanedPlugin[key] = cleanedPlugin[key].replace(
+          /https:\/\/meowrs.com\//g,
+          ""
+        );
+      }
     });
+    return cleanedPlugin;
+  });
 
-    // 写入 repo.json
-    fs.writeFileSync("./repo.json", JSON.stringify(cleanedFinal, null, 2));
-    console.log(`Wrote ${cleanedFinal.length} plugins to repo.json.`);
+  fs.writeFileSync("./repo.json", JSON.stringify(cleanedFinal, null, 2));
+  console.log(`Wrote ${cleanedFinal.length} plugins to repo.json.`);
 }
 
 main();
-
