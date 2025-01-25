@@ -125,7 +125,7 @@
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/cn0.4.4.601/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/cn0.4.4.601/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/cn0.4.4.6/Brio.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/cn0.4.4.601/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
@@ -170,9 +170,8 @@
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
     "AssemblyVersion": "2.0.0.34",
-    "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/2.0.0.34/Moodles.zip",
-    "DownloadLinkTesting": "https://github.com/kawaii/Moodles/releases/download/2.0.0.33/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/2.0.0.34/Moodles.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.34/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.34/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
@@ -188,6 +187,7 @@
     "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "IconUrl": "https://github.com/MeowZWR/DynamicBridge/raw/cn/DynamicBridge/images/icon.png",
     "ImageUrls": [],
     "IsHide": false,
@@ -286,6 +286,7 @@
     "RepoUrl": "https://github.com/KrisanThyme/Illusio-Vitae",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/icon.png",
