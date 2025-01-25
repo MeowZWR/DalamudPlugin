@@ -170,9 +170,9 @@
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
     "AssemblyVersion": "2.0.0.34",
-    "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/2.0.0.34/Moodles.zip",
-    "DownloadLinkTesting": "https://github.com/kawaii/Moodles/releases/download/2.0.0.33/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/2.0.0.34/Moodles.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.34/Moodles.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.33/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.34/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
@@ -267,12 +267,11 @@
       "dungeon"
     ],
     "DalamudApiLevel": 10,
-    "TestingDalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/global/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
     "IconUrl": ""
   },
   {
