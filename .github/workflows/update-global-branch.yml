@@ -2,8 +2,8 @@ name: Request Global Branch Update
 
 on:
   workflow_dispatch:
-  repository_dispatch:
-    types: [request-update-run-action]
+  #repository_dispatch:
+    #types: [request-update-run-action]
 
 jobs:
   generate:
