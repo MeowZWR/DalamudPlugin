@@ -5,6 +5,9 @@ const specifiedPlugins = ["Penumbra", "Glamourer", "SimpleHeels", "CustomizePlus
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
+// Filter plugins with DalamudApiLevel equal to 10
+const targetApiLevel = 10;
+
 async function recoverPlugin(internalName) {
   if (!fs.existsSync("./repo.json")) {
     console.error("!!! Tried to recover plugin when repo isn't generated");
@@ -14,16 +17,16 @@ async function recoverPlugin(internalName) {
   const oldRepo = JSON.parse(fs.readFileSync("./repo.json", "utf8"));
   const plugin = oldRepo.find((x) => x.InternalName === internalName);
   if (!plugin) {
-    console.error(`!!! ${plugin} not found in old repo`);
+    console.error(!!! ${plugin} not found in old repo);
     process.exit(1);
   }
 
   final.push(plugin);
-  console.log(`Recovered ${internalName} from last manifest`);
+  console.log(Recovered ${internalName} from last manifest);
 }
 
 async function doRepo(url, plugins) {
-  console.log(`Fetching ${url}...`);
+  console.log(Fetching ${url}...);
   const repo = await fetch(url, {
       headers: {
               'user-agent': 'SeaOfStars/1.0.0',
@@ -33,7 +36,14 @@ async function doRepo(url, plugins) {
   for (const internalName of plugins) {
     const plugin = repo.find((x) => x.InternalName === internalName);
     if (!plugin) {
-      console.warn(`!!! ${plugin} not found in ${url}`);
+      console.warn(!!! ${plugin} not found in ${url});
+      recoverPlugin(internalName);
+      continue;
+    }
+
+    // Check DalamudApiLevel
+    if (plugin.DalamudApiLevel !== targetApiLevel) {
+      console.warn(!!! ${internalName} has DalamudApiLevel ${plugin.DalamudApiLevel}, skipping);
       recoverPlugin(internalName);
       continue;
     }
@@ -43,7 +53,7 @@ async function doRepo(url, plugins) {
           const tags = plugin.Tags || [];
           tags.push(extraTag);
           plugin.Tags = tags;
-          console.log(`Added tag "${extraTag}" to ${internalName}`);
+          console.log(Added tag "${extraTag}" to ${internalName});
       }
 
     final.push(plugin);
@@ -55,7 +65,7 @@ async function main() {
         try {
             await doRepo(meta.repo, meta.plugins);
         } catch (e) {
-            console.error(`!!! Failed to fetch ${meta.repo}`);
+            console.error(!!! Failed to fetch ${meta.repo});
             console.error(e);
             for (const plugin of meta.plugins) {
                 recoverPlugin(plugin);
@@ -63,11 +73,11 @@ async function main() {
         }
     }
 
-    // 写入 meowrs.json
+    // Write to meowrs.json
     fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2));
-    console.log(`Wrote ${final.length} plugins to meowrs.json.`);
+    console.log(Wrote ${final.length} plugins to meowrs.json.);
 
-    // 清除 repo.json 中的所有 "https://meowrs.com/"
+    // Remove all occurrences of "https://meowrs.com/" from repo.json
     const cleanedFinal = final.map(plugin => {
         const cleanedPlugin = { ...plugin };
         for (const key in cleanedPlugin) {
@@ -78,10 +88,9 @@ async function main() {
         return cleanedPlugin;
     });
 
-    // 写入 repo.json
+    // Write to repo.json
     fs.writeFileSync("./repo.json", JSON.stringify(cleanedFinal, null, 2));
-    console.log(`Wrote ${cleanedFinal.length} plugins to repo.json.`);
+    console.log(Wrote ${cleanedFinal.length} plugins to repo.json.);
 }
 
 main();
-
