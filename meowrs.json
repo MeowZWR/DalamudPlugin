@@ -46,7 +46,7 @@
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.3.5.101",
-    "TestingAssemblyVersion": "1.3.5.400",
+    "TestingAssemblyVersion": "1.3.5.500",
     "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
@@ -57,7 +57,7 @@
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.5.101/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.5.101/Glamourer.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/testing_1.3.5.400/Glamourer.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/testing_1.3.5.500/Glamourer.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/main/images/icon.png"
   },
   {
