@@ -22,6 +22,8 @@ jobs:
           node-version: 20
           check-latest: true
       - name: Run generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.MEOWRSTRIGGER }}
         run: node index.js
       - name: Commit changes
         run: |
