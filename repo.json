@@ -80,7 +80,8 @@
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
-    ]
+    ],
+    "DownloadCount": 7089
   },
   {
     "Author": "Risa",
@@ -134,7 +135,8 @@
       "posing",
       "animation",
       "Sea Of Stars"
-    ]
+    ],
+    "DownloadCount": 9048
   },
   {
     "Author": "Chirp",
@@ -156,7 +158,8 @@
     "IconUrl": "https://github.com/MeowZWR/Ktisis/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/refs/heads/main/Plugins/Ktisis/0.3.3.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.26/latest.zip",
+    "DownloadCount": 0
   },
   {
     "Author": "kawaii",
@@ -175,7 +178,8 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.37/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
-    ]
+    ],
+    "DownloadCount": 8729
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -195,7 +199,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 63049,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -226,7 +230,8 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
-    "Changelog": ""
+    "Changelog": "",
+    "DownloadCount": 153549
   },
   {
     "Author": "LeonBlade",
@@ -253,7 +258,8 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/1.6.6/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/BDTHPlugin/icon.png",
-    "Changelog": ""
+    "Changelog": "",
+    "DownloadCount": 0
   },
   {
     "Author": "a08381",
@@ -272,7 +278,8 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.4/latest.zip",
-    "IconUrl": ""
+    "IconUrl": "",
+    "DownloadCount": 0
   },
   {
     "Author": "Krisan Thyme & MrPolarbear",
@@ -294,7 +301,8 @@
       "animation",
       "concept matrix",
       "cmtool"
-    ]
+    ],
+    "DownloadCount": 8382
   },
   {
     "Author": "NightmareXIV",
@@ -312,6 +320,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
+    "DownloadCount": 185360
   }
 ]
