@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [request-update-run-action]
+  schedule:
+    - cron: '0 19 * * *'
 
 jobs:
   generate:
