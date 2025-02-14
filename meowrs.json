@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7098
+    "DownloadCount": 7121
   },
   {
     "Author": "Risa",
@@ -136,7 +136,7 @@
       "animation",
       "Sea Of Stars"
     ],
-    "DownloadCount": 9086
+    "DownloadCount": 9165
   },
   {
     "Author": "Chirp",
@@ -179,7 +179,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 8766
+    "DownloadCount": 8840
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -199,7 +199,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
-    "DownloadCount": 63060,
+    "DownloadCount": 63115,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -231,7 +231,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 153566
+    "DownloadCount": 153698
   },
   {
     "Author": "LeonBlade",
@@ -302,7 +302,7 @@
       "concept matrix",
       "cmtool"
     ],
-    "DownloadCount": 8382
+    "DownloadCount": 8383
   },
   {
     "Author": "NightmareXIV",
@@ -321,6 +321,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 185375
+    "DownloadCount": 185434
   }
 ]
