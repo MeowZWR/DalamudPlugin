@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7121
+    "DownloadCount": 7138
   },
   {
     "Author": "Risa",
@@ -136,7 +136,7 @@
       "animation",
       "Sea Of Stars"
     ],
-    "DownloadCount": 9165
+    "DownloadCount": 9195
   },
   {
     "Author": "Chirp",
@@ -179,7 +179,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 8840
+    "DownloadCount": 8861
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -189,7 +189,7 @@
     "InternalName": "DynamicBridge",
     "AssemblyVersion": "1.0.6.601",
     "TestingAssemblyVersion": "1.0.6.601",
-    "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
+    "RepoUrl": "https://github.com/MeowZWR/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/raw/cn/DynamicBridge/images/icon.png",
@@ -199,7 +199,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.6.601/DynamicBridge.zip",
-    "DownloadCount": 63115,
+    "DownloadCount": 2148,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -231,7 +231,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 153698
+    "DownloadCount": 153781
   },
   {
     "Author": "LeonBlade",
@@ -321,6 +321,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 185434
+    "DownloadCount": 185481
   }
 ]
