@@ -159,7 +159,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Ktisis/0.3.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
-    "DownloadCount": 2293
+    "DownloadCount": 2294
   },
   {
     "Author": "kawaii",
@@ -185,8 +185,8 @@
     "Punchline": "可以根据设置的各种条件来自动更改角色外观。",
     "Description": "通过设置规则预设，利用与其他流行插件的集成，使得角色外观随情境的变化自动无缝切换，丰富你的游戏体验，增加沉浸感。",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": null,
-    "TestingAssemblyVersion": null,
+    "AssemblyVersion": "1.0.7.1",
+    "TestingAssemblyVersion": "1.0.7.1",
     "RepoUrl": "https://github.com/MeowZWR/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
@@ -230,7 +230,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 153792
+    "DownloadCount": 153793
   },
   {
     "Author": "LeonBlade",
