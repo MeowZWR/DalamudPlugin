@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7139
+    "DownloadCount": 7145
   },
   {
     "Author": "Risa",
@@ -136,7 +136,7 @@
       "animation",
       "Sea Of Stars"
     ],
-    "DownloadCount": 9201
+    "DownloadCount": 9233
   },
   {
     "Author": "Chirp",
@@ -179,7 +179,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 8867
+    "DownloadCount": 8889
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -231,7 +231,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.9/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 153793
+    "DownloadCount": 153831
   },
   {
     "Author": "LeonBlade",
@@ -321,6 +321,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 185486
+    "DownloadCount": 185509
   }
 ]
