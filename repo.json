@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29901,
+    "DownloadCount": 29904,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28720,
+    "DownloadCount": 28723,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
@@ -67,21 +67,21 @@
     "Description": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "Punchline": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "RepoUrl": "https://github.com/MeowZWR/SimpleHeels",
-    "AssemblyVersion": "0.10.5.0",
-    "TestingAssemblyVersion": "0.10.5.0",
+    "AssemblyVersion": "0.10.5.1",
+    "TestingAssemblyVersion": "0.10.5.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.5.0/SimpleHeels.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.5.0/SimpleHeels.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.5.0/SimpleHeels.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.5.1/SimpleHeels.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.5.1/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.5.1/SimpleHeels.zip",
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7145
+    "DownloadCount": 7146
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9787,
+    "DownloadCount": 9788,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/cn_2.0.7.14/CustomizePlus.zip",
@@ -136,7 +136,7 @@
       "animation",
       "Sea Of Stars"
     ],
-    "DownloadCount": 9233
+    "DownloadCount": 9237
   },
   {
     "Author": "Chirp",
@@ -177,7 +177,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 8889
+    "DownloadCount": 8892
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -230,7 +230,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 153831
+    "DownloadCount": 153866
   },
   {
     "Author": "LeonBlade",
@@ -258,7 +258,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/icon.png",
     "Changelog": "",
-    "DownloadCount": 774233
+    "DownloadCount": 774312
   },
   {
     "Author": "a08381",
