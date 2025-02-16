@@ -15,29 +15,30 @@ https://plogon.meowrs.com/global
 
 ## 插件介绍
 
-|插件名称|介绍|汉化版本|游戏版本|汉化情况|备注|
-|--------|----|:------:|:------:|:------:|----|
-|[Penumbra](https://github.com/xivdev/Penumbra)|运行时模组加载和管理器|1.3.1.2|7.1*|√||
-|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|1.3.4.0|7.1*|√||
-|[Customize+](https://github.com/Aether-Tools/CustomizePlus)|通过编辑骨骼参数来定制角色|2.0.7.5|7.1*|√|
-|[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|调整穿着高跟鞋以及做情感动作时的位置偏移|0.10.2.4|7.1*|√|
-|[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|1.0.6.6|7.0*|√|
-|[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|1.0.0.28|7.1*|√|月海同步功能来自[wozaiha](https://github.com/wozaiha/Moodles)|
-|[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|2.1.0.10|7.1*|√|
-|[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|0.2.27|7.1*|√|测试0.3.4|
-|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|0.4.3.1|7.1*|√||
-|[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|1.6.8|7.1*|√|
-|[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|1.2.2.4|7.0*|-|
+|插件名称|介绍|支持版本|汉化情况|备注|
+|--------|----|:------:|:------:|----|
+|[Penumbra](https://github.com/xivdev/Penumbra)|运行时模组加载和管理器|国际服 7.1*|√||
+|[Glamourer](https://github.com/Ottermandias/Glamourer)|改变和保存玩家外观|国际服 7.1*|√||
+|[Customize+](https://github.com/Aether-Tools/CustomizePlus)|通过编辑骨骼参数来定制角色|国际服 7.1*|√|
+|[SimpleHeels](https://github.com/Caraxi/SimpleHeels)|调整穿着高跟鞋以及做情感动作时的位置偏移|国际服 7.1*|√|
+|[DynamicBridge](https://github.com/NightmareXIV/DynamicBridge)|根据各种条件自动更改角色外观、缩放、称号|国际服 7.1*|√|
+|[Moodles](https://github.com/kawaii/Moodles)|自定义各种状态效果|国际服 7.1*|√|月海同步功能来自翼佬[wozaiha](https://github.com/wozaiha/Moodles)|
+|[Brio](https://github.com/AsgardXIV/Brio)|在集体动作模式中控制参与的角色|国际服 7.1*|√||
+|[Ktisis](https://github.com/ktisis-tools/Ktisis)|集体动作姿势编辑工具|国际服 7.1*|√|有测试版|
+|[AQuestReborn](https://github.com/Sebane1/AQuestReborn)|自定义任务|国际服 7.1*|√|
+|[Cammy](https://github.com/UnknownX7/Cammy)|游戏相机设置修改器，解除游戏限制|国际服 7.1*|√|
+|[Burning Down the House](https://github.com/LeonBlade/BDTHPlugin)|根据坐标移动装修物品，解除游戏限制|7.1*|√|
+|[SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene)|辍学|国际服 7.1*|-|
 
 ## 胖次
 ```
 https://plogon.meowrs.com/pants
 ```
 
-|插件名称|介绍|汉化版本|游戏版本|汉化情况|备注|
-|--------|----|:------:|:------:|:------:|----|
-|[NecroLens](https://github.com/Jukkales/NecroLens)||1.0.7.12|7.0*|√|使用KadoMaws@SugarEnergy的汉化文件|
-|[Artisan](https://github.com/PunishXIV/Artisan)||4.0.1.8|7.0*|√|
+|插件名称|介绍|游戏版本|汉化情况|备注|
+|--------|----|:------:|:------:|----|
+|[NecroLens](https://github.com/Jukkales/NecroLens)||国际服 7.1*|√|使用KadoMaws@SugarEnergy的汉化文件|
+|[Artisan](https://github.com/PunishXIV/Artisan)||国际服 7.1*|√|
 
 ## 停止更新
 |插件名称|介绍|汉化版本|国服版本|汉化情况|备注|
