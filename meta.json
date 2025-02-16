@@ -8,7 +8,7 @@
     "plugins": [ "Glamourer" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/SimpleHeels/cn-api10/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/SimpleHeels/master/repo.json",
     "plugins": [ "SimpleHeels" ]
   },
   {
@@ -16,7 +16,7 @@
     "plugins": [ "CustomizePlus" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Brio/cn-api10/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Brio/cn-0.4.4.x/repo.json",
     "plugins": [ "Brio" ]
   },
   {
@@ -28,11 +28,15 @@
     "plugins": [ "Moodles" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/DynamicBridge/cn-api10/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/DynamicBridge/cn/repo.json",
     "plugins": [ "DynamicBridge" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Cammy/cn-api10/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/AQuestReborn/cn/repo.json",
+    "plugins": [ "AQuestReborn" ]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Cammy/cn/repo.json",
     "plugins": [ "Cammy" ]
   },
   {
