@@ -32,6 +32,10 @@
     "plugins": [ "DynamicBridge" ]
   },
   {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/AQuestReborn/cn/repo.json",
+    "plugins": [ "AQuestReborn" ]
+  },
+  {
     "repo": "https://raw.githubusercontent.com/MeowZWR/Cammy/cn/repo.json",
     "plugins": [ "Cammy" ]
   },
