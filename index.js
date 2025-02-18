@@ -5,7 +5,7 @@ const specifiedPlugins = ["Penumbra", "Glamourer", "SimpleHeels", "CustomizePlus
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
-const targetApiLevel = 10;
+const targetApiLevel = 11;
 
 // Get the total download count for a GitHub repo's releases
 async function getDownloadCount(repoUrl) {
