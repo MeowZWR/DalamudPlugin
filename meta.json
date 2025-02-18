@@ -16,7 +16,7 @@
     "plugins": [ "CustomizePlus" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Brio/global-0.4.4.x/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Brio/global/repo.json",
     "plugins": [ "Brio" ]
   },
   {
