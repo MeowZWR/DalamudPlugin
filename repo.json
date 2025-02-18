@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 29996,
+    "DownloadCount": 29999,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28778,
+    "DownloadCount": 28780,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7184
+    "DownloadCount": 7185
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9863,
+    "DownloadCount": 9864,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/cn_2.0.7.14/CustomizePlus.zip",
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 9365
+    "DownloadCount": 9367
   },
   {
     "Author": "Chirp",
@@ -162,7 +162,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Ktisis/0.3.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
-    "DownloadCount": 2316
+    "DownloadCount": 2318
   },
   {
     "Author": "kawaii",
@@ -201,7 +201,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.1-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.1-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.1-cn/DynamicBridge.zip",
-    "DownloadCount": 2160,
+    "DownloadCount": 2161,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -225,7 +225,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4,
+    "DownloadCount": 5,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.2-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.2-cn/AQuestReborn.zip",
@@ -257,7 +257,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 2581
+    "DownloadCount": 2582
   },
   {
     "Author": "LeonBlade",
@@ -266,7 +266,7 @@
     "InternalName": "BDTHPlugin",
     "AssemblyVersion": "1.6.8",
     "TestingAssemblyVersion": "1.6.8",
-    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "RepoUrl": "https://github.com/MeowZWR/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
       "bdth",
@@ -285,7 +285,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/icon.png",
     "Changelog": "",
-    "DownloadCount": 774819
+    "DownloadCount": 23
   },
   {
     "Author": "a08381",
@@ -301,9 +301,9 @@
     "DalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.5/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.5/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/SkipCutscene/1.2.2.5/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "IconUrl": "",
     "DownloadCount": 0
   },
@@ -336,10 +336,10 @@
     "Punchline": "防止挂机被自动踢下线，安装后生效，没设置项。",
     "Description": "",
     "InternalName": "AntiAfkKick-Dalamud",
-    "AssemblyVersion": "2.1.0.6",
+    "AssemblyVersion": "2.1.0.7",
     "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/AntiAfkKick-Dalamud/icon.png",
     "ImageUrls": [],
     "IsHide": "False",
@@ -347,6 +347,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 0
+    "DownloadCount": 185734
   }
 ]
