@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30024,
+    "DownloadCount": 30033,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -45,19 +45,19 @@
       "Sea Of Stars"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.3.6.0",
-    "TestingAssemblyVersion": "1.3.6.0",
+    "AssemblyVersion": "1.3.6.1",
+    "TestingAssemblyVersion": "1.3.6.1",
     "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28801,
+    "DownloadCount": 28810,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Glamourer-CN/releases/download/cn_1.3.6.0/Glamourer.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.6.1-cn/Glamourer.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.6.1-cn/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.6.1-cn/Glamourer.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/main/images/icon.png"
   },
   {
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7196
+    "DownloadCount": 7197
   },
   {
     "Author": "Risa",
@@ -259,7 +259,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 2597
+    "DownloadCount": 2601
   },
   {
     "Author": "LeonBlade",
@@ -349,6 +349,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 185757
+    "DownloadCount": 185762
   }
 ]
