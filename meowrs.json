@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 30262,
+    "DownloadCount": 30328,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 28983,
+    "DownloadCount": 29027,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.6.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.6.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 7259
+    "DownloadCount": 7279
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 9878,
+    "DownloadCount": 9890,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.15-cn/CustomizePlus.zip",
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 9457
+    "DownloadCount": 9486
   },
   {
     "Author": "Chirp",
@@ -162,7 +162,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Ktisis/0.3.4.0/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
-    "DownloadCount": 2357
+    "DownloadCount": 2371
   },
   {
     "Author": "kawaii",
@@ -180,7 +180,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 9038
+    "DownloadCount": 9084
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -201,7 +201,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.1-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.1-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.1-cn/DynamicBridge.zip",
-    "DownloadCount": 2188,
+    "DownloadCount": 2193,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -225,7 +225,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 20,
+    "DownloadCount": 26,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.2-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.2-cn/AQuestReborn.zip",
@@ -257,7 +257,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 2673
+    "DownloadCount": 2695
   },
   {
     "Author": "LeonBlade",
@@ -285,7 +285,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.8/BDTHPlugin.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/icon.png",
     "Changelog": "",
-    "DownloadCount": 91
+    "DownloadCount": 113
   },
   {
     "Author": "a08381",
@@ -347,6 +347,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 185865
+    "DownloadCount": 185903
   }
 ]
