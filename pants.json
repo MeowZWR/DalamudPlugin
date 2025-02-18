@@ -15,10 +15,10 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.14/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.14/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/1.0.7.14/latest.zip",
-    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/NecroLens/icon.png"
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.14/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.14/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.14/latest.zip",
+    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/icon.png"
   },
   {
     "Author": "Taurenkey (Puni.sh)",
@@ -34,9 +34,9 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "TestingDalamudApiLevel": 11,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.2.10/latest.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.2.10/latest.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/4.0.2.10/latest.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Artisan/icon.png"
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.2.10/latest.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.2.10/latest.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.2.10/latest.zip",
+    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Artisan/main/Plugins/Artisan/icon.png"
   }
 ]
