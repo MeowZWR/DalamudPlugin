@@ -32,7 +32,7 @@
     "plugins": [ "DynamicBridge" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/AQuestReborn/cn/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/AQuestReborn/global/repo.json",
     "plugins": [ "AQuestReborn" ]
   },
   {
