@@ -310,29 +310,6 @@
     "DownloadCount": 3303
   },
   {
-    "Author": "Krisan Thyme & MrPolarbear",
-    "Name": "IllusioVitae",
-    "Punchline": "Illusion of Life",
-    "Description": "情感动作模组管理与集体动作套件。",
-    "InternalName": "IVPlugin",
-    "AssemblyVersion": "1.0.5",
-    "TestingAssemblyVersion": "1.0.5",
-    "RepoUrl": "https://github.com/KrisanThyme/Illusio-Vitae",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/1.0.5/latest.zip",
-    "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Illusio-Vitae/icon.png",
-    "Tags": [
-      "gpose",
-      "posing",
-      "animation",
-      "concept matrix",
-      "cmtool"
-    ],
-    "DownloadCount": 8384
-  },
-  {
     "Author": "NightmareXIV",
     "Name": "AntiAfkKick",
     "Punchline": "防止挂机被自动踢下线，安装后生效，没设置项。",

@@ -48,10 +48,6 @@
     "plugins": [ "SkipCutscene" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Illusio-Vitae/cn/repo.json",
-    "plugins": [ "IVPlugin" ]
-  },
-  {
     "repo": "https://raw.githubusercontent.com/MeowZWR/AntiAfkKick/master/repo.json",
     "plugins": [ "AntiAfkKick-Dalamud" ]
   }
