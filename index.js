@@ -1,7 +1,6 @@
 const fs = require("fs");
 
-const extraTag = "Sea Of Stars";
-const specifiedPlugins = ["Penumbra", "Glamourer", "SimpleHeels", "CustomizePlus", "Ktisis", "Brio", "DynamicBridge", "Moodles"];
+const extraTag = "Pants";
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
@@ -50,15 +49,15 @@ async function getDownloadCount(repoUrl) {
 }
 
 async function recoverPlugin(internalName) {
-    if (!fs.existsSync("./repo.json")) {
-        console.error("!!! Tried to recover plugin when repo isn't generated");
+    if (!fs.existsSync("./pants.json")) {
+        console.error("!!! Tried to recover plugin when pants.json isn't generated");
         process.exit(1);
     }
 
-    const oldRepo = JSON.parse(fs.readFileSync("./meowrs.json", "utf8"));
+    const oldRepo = JSON.parse(fs.readFileSync("./pants.json", "utf8"));
     const plugin = oldRepo.find((x) => x.InternalName === internalName);
     if (!plugin) {
-        console.error(`!!! ${plugin} not found in old repo`);
+        console.error(`!!! ${internalName} not found in old repo`);
         process.exit(1);
     }
     // If DownloadCount already exists, keep the original value
@@ -94,7 +93,7 @@ async function doRepo(url, plugins) {
     for (const internalName of plugins) {
         const plugin = repo.find((x) => x.InternalName === internalName);
         if (!plugin) {
-            console.warn(`!!! ${plugin} not found in ${url}`);
+            console.warn(`!!! ${internalName} not found in ${url}`);
             recoverPlugin(internalName);
             continue;
         }
@@ -106,13 +105,11 @@ async function doRepo(url, plugins) {
             continue;
         }
 
-        //  extraTag
-        if (specifiedPlugins.includes(internalName)) {
-            const tags = plugin.Tags || [];
-            tags.push(extraTag);
-            plugin.Tags = tags;
-            console.log(`Added tag "${extraTag}" to ${internalName}`);
-        }
+        // Add extraTag
+        const tags = plugin.Tags || [];
+        tags.push(extraTag);
+        plugin.Tags = tags;
+        console.log(`Added tag "${extraTag}" to ${internalName}`);
 
         // Get download count
         if (repoUrl) {
@@ -146,21 +143,8 @@ async function main() {
         }
     }
         
-    fs.writeFileSync("./meowrs.json", JSON.stringify(final, null, 2));
-    console.log(`Wrote ${final.length} plugins to meowrs.json.`);
-
-    const cleanedFinal = final.map(plugin => {
-        const cleanedPlugin = { ...plugin };
-        for (const key in cleanedPlugin) {
-            if (typeof cleanedPlugin[key] === 'string') {
-                cleanedPlugin[key] = cleanedPlugin[key].replace(/https:\/\/meowrs.com\//g, '');
-            }
-        }
-        return cleanedPlugin;
-    });
-
-    fs.writeFileSync("./repo.json", JSON.stringify(cleanedFinal, null, 2));
-    console.log(`Wrote ${cleanedFinal.length} plugins to repo.json.`);
+    fs.writeFileSync("./pants.json", JSON.stringify(final, null, 2));
+    console.log(`Wrote ${final.length} plugins to pants.json.`);
 }
 
 main();
