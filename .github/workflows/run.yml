@@ -6,7 +6,9 @@ on:
     types: [request-update-run-action]
   schedule:
     - cron: '0 19 * * *'
-
+concurrency: 
+  group: repo-update
+  cancel-in-progress: false
 jobs:
   generate:
     name: Generate repository
