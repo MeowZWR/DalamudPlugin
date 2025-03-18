@@ -4,7 +4,7 @@
     "plugins": [ "Artisan" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Necrolens/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/Necrolens/cn/repo.json",
     "plugins": [ "Necrolens" ]
   },
   {
