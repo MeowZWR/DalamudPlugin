@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [request-update-pants-action]
-  #schedule:
-    #- cron: '30 19 * * *'  # Run at 19:30 UTC, offset from the main workflow
+  schedule:
+    - cron: '30 19 * * *'  # Run at 19:30 UTC, offset from the main workflow
 
 concurrency: 
   group: repo-update
@@ -38,18 +38,3 @@ jobs:
           git add pants.json
           git diff --cached --quiet || git commit -m "Update pants repository"
           git push origin pants
-
-      - name: Checkout main branch
-        uses: actions/checkout@v4
-        with:
-          ref: main  # Checkout the main branch
-
-      - name: Copy pants.json from pants branch to main branch
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git fetch origin pants
-          git checkout pants -- pants.json
-          git add pants.json
-          git diff --cached --quiet || git commit -m "Sync pants.json from pants branch"
-          git push origin main
