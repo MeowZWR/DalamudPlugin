@@ -5,7 +5,7 @@
   },
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/Necrolens/cn/repo.json",
-    "plugins": [ "Necrolens" ]
+    "plugins": [ "NecroLens" ]
   },
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/WrathCombo/cn/pluginmaster.json",
