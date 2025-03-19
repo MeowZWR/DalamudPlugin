@@ -1,0 +1,55 @@
+name: Pants Update
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [request-update-pants-action]
+  #schedule:
+    #- cron: '30 19 * * *'  # Run at 19:30 UTC, offset from the main workflow
+
+concurrency: 
+  group: repo-update
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate pants repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pants branch
+        uses: actions/checkout@v4
+        with:
+          ref: pants  # Checkout the pants branch
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          check-latest: true
+
+      - name: Run generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.MEOWRSTRIGGER }}
+        run: node index.js
+
+      - name: Update pants.json in pants branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add pants.json
+          git diff --cached --quiet || git commit -m "Update pants repository"
+          git push origin pants
+
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Checkout the main branch
+
+      - name: Copy pants.json from pants branch to main branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git fetch origin pants
+          git checkout pants -- pants.json
+          git add pants.json
+          git diff --cached --quiet || git commit -m "Sync pants.json from pants branch"
+          git push origin main
