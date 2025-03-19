@@ -8,7 +8,7 @@
     "plugins": [ "NecroLens" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/WrathCombo/cn/pluginmaster.json",
+    "repo": "https://raw.githubusercontent.com/MeowZWR/WrathCombo/cn/repo.json",
     "plugins": [ "WrathCombo" ]
   }
 ]
