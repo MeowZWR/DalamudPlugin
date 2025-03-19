@@ -5,6 +5,7 @@ const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
 const targetApiLevel = 11;
+const mirrorPrefix = "https://meowrs.com/";
 
 // Get the total download count for a GitHub repo's releases
 async function getDownloadCount(repoUrl) {
@@ -27,7 +28,6 @@ async function getDownloadCount(repoUrl) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
 
-        // Output current API limit information
         const remaining = response.headers.get('X-RateLimit-Remaining');
         const resetTime = response.headers.get('X-RateLimit-Reset');
         const resetTimeInUTC8 = new Date(resetTime * 1000).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
@@ -48,6 +48,10 @@ async function getDownloadCount(repoUrl) {
     return totalDownloads;
 }
 
+function ensureMirrorUrl(url) {
+    return url.startsWith(mirrorPrefix) ? url : mirrorPrefix + url;
+}
+
 async function recoverPlugin(internalName) {
     if (!fs.existsSync("./pants.json")) {
         console.error("!!! Tried to recover plugin when pants.json isn't generated");
@@ -60,12 +64,10 @@ async function recoverPlugin(internalName) {
         console.error(`!!! ${internalName} not found in old repo`);
         process.exit(1);
     }
-    // If DownloadCount already exists, keep the original value
     if (!plugin.DownloadCount) {
         plugin.DownloadCount = 0;
     }
-    
-    // Download count handling
+
     if (plugin.RepositoryUrl) {
         try {
             const downloadCount = await getDownloadCount(plugin.RepositoryUrl);
@@ -77,6 +79,10 @@ async function recoverPlugin(internalName) {
     } else {
         console.warn(`No RepositoryUrl for ${internalName}, download count not available`);
     }
+
+    plugin.DownloadLinkInstall = ensureMirrorUrl(plugin.DownloadLinkInstall);
+    plugin.DownloadLinkUpdate = ensureMirrorUrl(plugin.DownloadLinkUpdate);
+    plugin.DownloadLinkTesting = ensureMirrorUrl(plugin.DownloadLinkTesting);
 
     final.push(plugin);
     console.log(`Recovered ${internalName} from last manifest`);
@@ -105,13 +111,11 @@ async function doRepo(url, plugins) {
             continue;
         }
 
-        // Add extraTag
         const tags = plugin.Tags || [];
         tags.push(extraTag);
         plugin.Tags = tags;
         console.log(`Added tag "${extraTag}" to ${internalName}`);
 
-        // Get download count
         if (repoUrl) {
             try {
                 const downloadCount = await getDownloadCount(repoUrl);
@@ -125,6 +129,10 @@ async function doRepo(url, plugins) {
             console.warn(`No RepoUrl for ${internalName}, download count not available`);
             plugin.DownloadCount = 0;
         }
+
+        plugin.DownloadLinkInstall = ensureMirrorUrl(plugin.DownloadLinkInstall);
+        plugin.DownloadLinkUpdate = ensureMirrorUrl(plugin.DownloadLinkUpdate);
+        plugin.DownloadLinkTesting = ensureMirrorUrl(plugin.DownloadLinkTesting);
 
         final.push(plugin);
     }
@@ -142,7 +150,7 @@ async function main() {
             }
         }
     }
-        
+    
     fs.writeFileSync("./pants.json", JSON.stringify(final, null, 2));
     console.log(`Wrote ${final.length} plugins to pants.json.`);
 }
