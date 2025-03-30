@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41908,
+    "DownloadCount": 41909,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 23744
+    "DownloadCount": 23745
   },
   {
     "Author": "Chirp",
@@ -150,8 +150,8 @@
     "TestingAssemblyVersion": "0.3.4.0",
     "RepoUrl": "https://github.com/MeowZWR/Ktisis",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
-    "TestingDalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
     "Tags": [
       "gpose",
       "posing",
@@ -162,7 +162,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/Plugins/Ktisis/0.3.4.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/v0.2.27.100/latest.zip",
-    "DownloadCount": 4804
+    "DownloadCount": 4822
   },
   {
     "Author": "kawaii",
@@ -188,20 +188,20 @@
     "Punchline": "可以根据设置的各种条件来自动更改角色外观。",
     "Description": "通过设置规则预设，利用与其他流行插件的集成，使得角色外观随情境的变化自动无缝切换，丰富你的游戏体验，增加沉浸感。",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": "1.0.7.4",
-    "TestingAssemblyVersion": "1.0.7.4",
+    "AssemblyVersion": "1.0.7.5",
+    "TestingAssemblyVersion": "1.0.7.5",
     "RepoUrl": "https://github.com/MeowZWR/DynamicBridge",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
-    "TestingDalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
     "IconUrl": "https://github.com/MeowZWR/DynamicBridge/raw/cn/DynamicBridge/images/icon.png",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.4-cn/DynamicBridge.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.4-cn/DynamicBridge.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.4-cn/DynamicBridge.zip",
-    "DownloadCount": 3980,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.5-cn/DynamicBridge.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.5-cn/DynamicBridge.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.5-cn/DynamicBridge.zip",
+    "DownloadCount": 3990,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
