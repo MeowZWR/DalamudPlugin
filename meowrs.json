@@ -21,7 +21,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/testing_1.3.5.2-cn/Penumbra.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",    
+    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",
     "Changelog": "1.3.5.2-cn模组图片预览功能-风险自负",
     "Tags": [
       "Sea Of Stars"
@@ -140,7 +140,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 24828
+    "DownloadCount": 24830
   },
   {
     "Author": "Chirp",
@@ -183,7 +183,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 13196
+    "DownloadCount": 13197
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -228,7 +228,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3723,
+    "DownloadCount": 3724,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
