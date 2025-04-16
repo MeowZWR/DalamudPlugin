@@ -19,9 +19,10 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/testing_1.3.5.2-cn/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",
+    "Changelog": "1.3.5.2-cn模组图片预览功能-风险自负",
     "Tags": [
       "Sea Of Stars"
     ]
