@@ -6,7 +6,7 @@
     "Description": "运行时模组加载和管理器。",
     "InternalName": "Penumbra",
     "AssemblyVersion": "1.3.5.0",
-    "TestingAssemblyVersion": "1.3.5.2",
+    "TestingAssemblyVersion": "1.3.5.3",
     "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
@@ -19,10 +19,10 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/testing_1.3.5.2-cn/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/testing_1.3.5.3-cn/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.0-cn/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",
-    "Changelog": "1.3.5.2-cn模组图片预览功能-风险自负",
+    "Changelog": "1.3.5.3-cn模组图片预览功能-风险自负",
     "Tags": [
       "Sea Of Stars"
     ]
