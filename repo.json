@@ -140,7 +140,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 24832
+    "DownloadCount": 24844
   },
   {
     "Author": "Chirp",
@@ -183,7 +183,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 13198
+    "DownloadCount": 13200
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -228,7 +228,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3724,
+    "DownloadCount": 3728,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
@@ -260,7 +260,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 7463
+    "DownloadCount": 7464
   },
   {
     "Author": "LeonBlade",
@@ -308,7 +308,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 4377
+    "DownloadCount": 4380
   },
   {
     "Author": "NightmareXIV",
