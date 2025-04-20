@@ -5,22 +5,22 @@
     "Punchline": "运行时模组加载和管理器。",
     "Description": "运行时模组加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.3.5.6",
-    "TestingAssemblyVersion": "1.3.5.6",
+    "AssemblyVersion": "1.3.5.7",
+    "TestingAssemblyVersion": "1.3.5.7",
     "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45683,
+    "DownloadCount": 45772,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.6-cn/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.6-cn/Penumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.6-cn/Penumbra.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.7-cn/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.7-cn/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.5.7-cn/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 24978
+    "DownloadCount": 24984
   },
   {
     "Author": "Chirp",
@@ -182,7 +182,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 13252
+    "DownloadCount": 13253
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -227,7 +227,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3769,
+    "DownloadCount": 3771,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
@@ -259,7 +259,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 7518
+    "DownloadCount": 7519
   },
   {
     "Author": "LeonBlade",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 4417
+    "DownloadCount": 4420
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 6305
+    "DownloadCount": 6307
   }
 ]
