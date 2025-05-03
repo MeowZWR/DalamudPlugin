@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 50839,
+    "DownloadCount": 50961,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 25711
+    "DownloadCount": 25763
   },
   {
     "Author": "Chirp",
@@ -182,7 +182,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 13493
+    "DownloadCount": 13507
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -227,7 +227,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 3996,
+    "DownloadCount": 4008,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
@@ -259,7 +259,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.10/Cammy.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/global/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 7783
+    "DownloadCount": 7803
   },
   {
     "Author": "LeonBlade",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 4605
+    "DownloadCount": 4616
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 6441
+    "DownloadCount": 6447
   }
 ]
