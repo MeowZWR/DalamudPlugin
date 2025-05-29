@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 53144,
+    "DownloadCount": 53211,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -21,7 +21,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.6.8-cn/Penumbra.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.6.8-cn/Penumbra.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.3.6.8-cn/Penumbra.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/master/images/icon.png",
+    "IconUrl": "https://static.meowrs.com/Plugins/Penumbra/icon.png",
     "Tags": [
       "Sea Of Stars"
     ]
@@ -53,12 +53,12 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41402,
+    "DownloadCount": 41427,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.8.6-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.8.6-cn/Glamourer.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.3.8.6-cn/Glamourer.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/main/images/icon.png"
+    "IconUrl": "https://static.meowrs.com/Plugins/Glamourer/icon.png"
   },
   {
     "Author": "Caraxi",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 13791
+    "DownloadCount": 13831
   },
   {
     "Author": "Risa",
@@ -97,13 +97,13 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 18567,
+    "DownloadCount": 18619,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.17-cn/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.17-cn/CustomizePlus.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.17-cn/CustomizePlus.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/CustomizePlus-CN/cn/Data/icon.png",
+    "IconUrl": "https://static.meowrs.com/Plugins/CustomizePlus/icon.png",
     "Tags": [
       "Anamnesis",
       "Customization",
@@ -128,7 +128,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.5.1.2-global/Brio.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.5.1.2-global/Brio.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.5.1.2-global/Brio.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
+    "IconUrl": "https://static.meowrs.com/Plugins/Brio/Icon.png",
     "Tags": [
       "gpose",
       "brio",
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 27046
+    "DownloadCount": 27138
   },
   {
     "Author": "Chirp",
@@ -158,11 +158,11 @@
       "ktisis",
       "Sea Of Stars"
     ],
-    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/raw/main/icon.png",
+    "IconUrl": "https://static.meowrs.com/Plugins/Ktisis/icon.png",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
-    "DownloadCount": 5650
+    "DownloadCount": 5665
   },
   {
     "Author": "kawaii",
@@ -194,14 +194,14 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
-    "IconUrl": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/raw/cn/DynamicBridge/images/icon.png",
+    "IconUrl": "https://static.meowrs.com/Plugins/DynamicBridge/icon.png",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.6-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.6-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.6-cn/DynamicBridge.zip",
-    "DownloadCount": 4523,
+    "DownloadCount": 4538,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -283,9 +283,9 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
-    "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/icon.png",
+    "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 5285
+    "DownloadCount": 5307
   },
   {
     "Author": "a08381",
