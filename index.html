@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 Not Found</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(45deg, #ff6b6b, #f0e130);
+      color: #fff;
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      max-width: 340px;
+    }
+    h1 {
+      font-size: 8rem;
+      margin: 0;
+      font-weight: bold;
+      line-height: 1;
+    }
+    p {
+      font-size: 1.5rem;
+      margin: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .buttons {
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+    }
+    .button-group {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      margin-bottom: 0.5rem;
+    }
+    .main-btn {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      border: 2px solid #fff;
+      padding: 0 1.5rem;
+      border-radius: 5px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 200px;
+      height: 36px;
+      text-align: center;
+      box-sizing: border-box;
+      transition: all 0.2s;
+      background: none;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .main-btn:hover {
+      background: #fff;
+      color: #333;
+    }
+    .main-btn .btn-text {
+      display: inline;
+    }
+    .main-btn .success-gradient {
+      display: none;
+    }
+    .button-group.success .main-btn {
+      background: #f5f5f5;
+      border-color: #f5f5f5;
+      color: transparent;
+    }
+    .button-group.success .main-btn .btn-text {
+      display: none;
+    }
+    .button-group.success .main-btn .success-gradient {
+      display: inline-block;
+      background-image: linear-gradient(45deg, #6e6e6e, #6e6e6e);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      -webkit-text-fill-color: transparent;
+      text-fill-color: transparent;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    .copy-btn {
+      position: absolute;
+      right: 30px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      width: 36px;
+      height: 36px;
+      padding: 0;
+      cursor: pointer;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 4px;
+      transition: all 0.2s;
+      z-index: 2;
+    }
+    .copy-btn:hover {
+      border: 2px solid #fff;
+    }
+    .copy-icon {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+    }
+    .success-icon {
+      display: none;
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+    }
+    .copy-btn.success .copy-icon {
+      display: none;
+    }
+    .copy-btn.success .success-icon {
+      display: block;
+    }
+    @media (max-width: 400px) {
+      .container { max-width: 98vw; }
+      .main-btn { min-width: 120px; font-size: 1rem; }
+      .copy-btn { right: 30px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>404</h1>
+    <p>哎呀！这个页面什么都没有。</p>
+    <div class="buttons">
+      <div class="button-group">
+        <a class="main-btn" href="/cn">
+          <span class="btn-text">我找国服插件</span>
+          <span class="success-gradient">复制成功</span>
+        </a>
+        <button class="copy-btn" onclick="copyToClipboard(this, 'https://plogon.meowrs.com/cn', '我找国服插件')">
+          <svg class="copy-icon" viewBox="0 0 16 16">
+            <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25v-7.5Z"/>
+            <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25v-7.5Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25h-7.5Z"/>
+          </svg>
+          <svg class="success-icon" viewBox="0 0 16 16">
+            <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"/>
+          </svg>
+        </button>
+      </div>
+      <div class="button-group">
+        <a class="main-btn" href="/pants">
+          <span class="btn-text">让我看看底库</span>
+          <span class="success-gradient">复制成功</span>
+        </a>
+        <button class="copy-btn" onclick="copyToClipboard(this, 'https://plogon.meowrs.com/pants', '让我看看底库')">
+          <svg class="copy-icon" viewBox="0 0 16 16">
+            <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25v-7.5Z"/>
+            <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25v-7.5Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25h-7.5Z"/>
+          </svg>
+          <svg class="success-icon" viewBox="0 0 16 16">
+            <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"/>
+          </svg>
+        </button>
+      </div>
+      <div class="button-group">
+        <a class="main-btn" href="/global">
+          <span class="btn-text">我玩国际服的</span>
+          <span class="success-gradient">复制成功</span>
+        </a>
+        <button class="copy-btn" onclick="copyToClipboard(this, 'https://plogon.meowrs.com/global', '我玩国际服的')">
+          <svg class="copy-icon" viewBox="0 0 16 16">
+            <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25v-7.5Z"/>
+            <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25v-7.5Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25h-7.5Z"/>
+          </svg>
+          <svg class="success-icon" viewBox="0 0 16 16">
+            <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  <script>
+    function copyToClipboard(button, text, originalText) {
+      const buttonGroup = button.closest('.button-group');
+      const link = buttonGroup.querySelector('.main-btn');
+      const btnText = link.querySelector('.btn-text');
+      const successGradient = link.querySelector('.success-gradient');
+      
+      navigator.clipboard.writeText(text).then(() => {
+        button.classList.add('success');
+        buttonGroup.classList.add('success');
+        btnText && (btnText.style.display = 'none');
+        successGradient && (successGradient.style.display = 'inline-block');
+        
+        setTimeout(() => {
+          button.classList.remove('success');
+          buttonGroup.classList.remove('success');
+          btnText && (btnText.style.display = 'inline');
+          successGradient && (successGradient.style.display = 'none');
+        }, 2000);
+      }).catch(err => {
+        console.error('复制失败:', err);
+      });
+    }
+  </script>
+</body>
+</html> 

@@ -1,0 +1,14 @@
+[
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Artisan/main/repo.json",
+      "plugins": [ "Artisan" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Necrolens/cn/repo.json",
+      "plugins": [ "NecroLens" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/WrathCombo/cn/repo.json",
+      "plugins": [ "WrathCombo" ]
+    }
+  ]

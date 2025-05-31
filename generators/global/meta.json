@@ -1,0 +1,54 @@
+[
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Penumbra-CN/cn/repo.json",
+      "plugins": [ "Penumbra" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Glamourer-CN/cn/repo.json",
+      "plugins": [ "Glamourer" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/SimpleHeels/master/repo.json",
+      "plugins": [ "SimpleHeels" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/CustomizePlus-CN/cn/repo.json",
+      "plugins": [ "CustomizePlus" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Brio/global/repo.json",
+      "plugins": [ "Brio" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Ktisis/cn/repo.json",
+      "plugins": [ "Ktisis" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Moodles/7.0/repo.json",
+      "plugins": [ "Moodles" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/DynamicBridge/cn/repo.json",
+      "plugins": [ "DynamicBridge" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/AQuestReborn/global/repo.json",
+      "plugins": [ "AQuestReborn" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Cammy/cn/repo.json",
+      "plugins": [ "Cammy" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/BDTHPlugin/cn/repo.json",
+      "plugins": [ "BDTHPlugin" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Dalamud.SkipCutscene/main/repo.json",
+      "plugins": [ "SkipCutscene" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/AntiAfkKick/master/repo.json",
+      "plugins": [ "AntiAfkKick-Dalamud" ]
+    }
+  ]
