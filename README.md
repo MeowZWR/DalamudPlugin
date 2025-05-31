@@ -4,14 +4,18 @@ FF14国服插件汉化。（感谢来世、獭爹、wozaiha佬的帮助，啵啵
 国际服汉化看[这里](https://github.com/MeowZWR/DalamudPlugin/tree/global)
 
 ## 仓库链接
-可能要有梯子：
+可能要有梯子（原始链接）：
 ```
 https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
 ```
-可能不要梯子：
+可能不要梯子（加速链接）：
 ```
 https://plogon.meowrs.com/cn
 ```
+▸ 小声：  
+目前每日有8.87k个用户使用加速链接（小水管有点受不了）；  
+建议能直连GitHub的用户优先使用原始链接（并从Dalamud中移除加速链接）。
+
 ## 插件介绍
 
 |插件名称|介绍|发布版本|游戏版本|汉化情况|备注|
