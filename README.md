@@ -12,9 +12,13 @@ https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
 ```
 https://plogon.meowrs.com/cn
 ```
-▸ 小声：  
-目前每日有8.87k个用户使用加速链接（小水管有点受不了）；  
-建议能直连GitHub的用户优先使用原始链接（并从Dalamud中移除加速链接）。
+![24小时独立用户](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Fvisitors24)
+![24小时请求总数](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Frequests24)
+![24小时提供的数据](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Fbandwidth24)
+
+**国服7.2更新时将放弃对JSON文件的直接加速，如果您正在使用以下链接，请及时更换。**
+- `https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/meowrs.json`
+- `https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/pants.json`
 
 ## 插件介绍
 
