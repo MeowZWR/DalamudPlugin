@@ -12,7 +12,6 @@ https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
 ```
 https://plogon.meowrs.com/cn
 ```
-![24小时独立用户](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Fvisitors24)
 ![24小时请求总数](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Frequests24)
 ![24小时提供的数据](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Fbandwidth24)
 
