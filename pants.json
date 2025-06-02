@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.2.10/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.2.10/latest.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 5111
+    "DownloadCount": 5145
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.15-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.15-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 1756
+    "DownloadCount": 1803
   },
   {
     "Author": "Team Wrath",
@@ -74,6 +74,6 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.0.16-cn/WrathCombo.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
     "Changelog": "机翻自用，不懂循环，仅供娱乐。\n请使用由[44451516]或[guilyou]大佬发布的专业汉化版本，有更多的：\n- 循环优化\n- 个性功能",
-    "DownloadCount": 515
+    "DownloadCount": 526
   }
 ]
