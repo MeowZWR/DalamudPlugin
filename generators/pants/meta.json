@@ -10,5 +10,9 @@
     {
       "repo": "https://raw.githubusercontent.com/MeowZWR/WrathCombo/cn/repo.json",
       "plugins": [ "WrathCombo" ]
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/MeowZWR/IINACT/cn/repo.json",
+      "plugins": [ "IINACT" ]
     }
   ]
