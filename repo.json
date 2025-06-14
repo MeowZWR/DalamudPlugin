@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 54290,
+    "DownloadCount": 54386,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 41912,
+    "DownloadCount": 41964,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.1-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.1-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 14185
+    "DownloadCount": 14220
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 19173,
+    "DownloadCount": 19219,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.20-cn/CustomizePlus.zip",
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 28037
+    "DownloadCount": 28079
   },
   {
     "Author": "Chirp",
@@ -162,7 +162,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
-    "DownloadCount": 5879
+    "DownloadCount": 5907
   },
   {
     "Author": "kawaii",
@@ -201,7 +201,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
-    "DownloadCount": 4662,
+    "DownloadCount": 4686,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -257,7 +257,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.12-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 8469
+    "DownloadCount": 8482
   },
   {
     "Author": "LeonBlade",
@@ -285,7 +285,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 5613
+    "DownloadCount": 5663
   },
   {
     "Author": "a08381",
