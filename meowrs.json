@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 54446,
+    "DownloadCount": 54490,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 28126
+    "DownloadCount": 28162
   },
   {
     "Author": "Chirp",
@@ -182,7 +182,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 14089
+    "DownloadCount": 14095
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -227,7 +227,7 @@
     "TestingDalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4527,
+    "DownloadCount": 4531,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.5/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 5111
+    "DownloadCount": 5126
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 6868
+    "DownloadCount": 6872
   }
 ]
