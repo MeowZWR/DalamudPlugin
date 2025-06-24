@@ -1,6 +1,6 @@
 [
     {
-      "repo": "https://raw.githubusercontent.com/MeowZWR/Artisan/main/repo.json",
+      "repo": "https://raw.githubusercontent.com/MeowZWR/Artisan/cn/repo.json",
       "plugins": [ "Artisan" ]
     },
     {
