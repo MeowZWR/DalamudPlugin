@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 54827,
+    "DownloadCount": 54829,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 42194,
+    "DownloadCount": 42196,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.2-cn/Glamourer.zip",
@@ -67,16 +67,16 @@
     "Description": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "Punchline": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "RepoUrl": "https://github.com/MeowZWR/SimpleHeels",
-    "AssemblyVersion": "0.10.6.2",
-    "TestingAssemblyVersion": "0.10.6.2",
+    "AssemblyVersion": "0.10.7.3",
+    "TestingAssemblyVersion": "0.10.7.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.6.2/SimpleHeels.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.6.2/SimpleHeels.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.6.2/SimpleHeels.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.7.3/SimpleHeels.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.7.3/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/SimpleHeels/releases/download/0.10.7.3/SimpleHeels.zip",
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
@@ -305,7 +305,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 5195
+    "DownloadCount": 5196
   },
   {
     "Author": "NightmareXIV",
