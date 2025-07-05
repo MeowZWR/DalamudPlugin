@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 62907,
+    "DownloadCount": 63040,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 47119,
+    "DownloadCount": 47214,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 17239
+    "DownloadCount": 17296
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 23108,
+    "DownloadCount": 23181,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.20-cn/CustomizePlus.zip",
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 33965
+    "DownloadCount": 34099
   },
   {
     "Author": "Chirp",
@@ -162,7 +162,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.6-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
-    "DownloadCount": 7906
+    "DownloadCount": 7953
   },
   {
     "Author": "kawaii, Glyceri",
@@ -182,7 +182,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 17166
+    "DownloadCount": 17255
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -203,7 +203,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
-    "DownloadCount": 5470,
+    "DownloadCount": 5485,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -259,7 +259,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.12-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 12505
+    "DownloadCount": 12587
   },
   {
     "Author": "LeonBlade",
@@ -287,7 +287,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 8772
+    "DownloadCount": 8831
   },
   {
     "Author": "a08381",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 8832
+    "DownloadCount": 8900
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 7539
+    "DownloadCount": 7570
   }
 ]
