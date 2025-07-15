@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.3.43-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.3.43-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 16531
+    "DownloadCount": 16567
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.22-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.22-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 3426
+    "DownloadCount": 3434
   },
   {
     "Author": "Team Wrath",
@@ -60,8 +60,8 @@
     "Punchline": "将连击与互斥技能整合至单个按键——功能远不止于此。",
     "Description": "化繁为简，一击千变！借鉴PvP技能设计理念，我们将单一动作拓展为完整连招体系。可能是基础的1-2-3式连击，也可能是精密的职业循环系统。根据你的战斗需求，打造专属输出节奏。",
     "InternalName": "WrathCombo",
-    "AssemblyVersion": "1.0.1.14",
-    "TestingAssemblyVersion": "1.0.1.14",
+    "AssemblyVersion": "1.0.1.15",
+    "TestingAssemblyVersion": "1.0.1.15",
     "RepoUrl": "https://github.com/MeowZWR/WrathCombo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,12 +69,12 @@
     ],
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.14-cn/WrathCombo.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.14-cn/WrathCombo.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.14-cn/WrathCombo.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.15-cn/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.15-cn/WrathCombo.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.15-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "机翻自用，不懂循环，仅供娱乐。",
-    "DownloadCount": 2598
+    "DownloadCount": 2653
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.10/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.10/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.10/IINACT.zip",
-    "DownloadCount": 275
+    "DownloadCount": 279
   }
 ]
