@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 65057,
+    "DownloadCount": 65068,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 50935,
+    "DownloadCount": 50960,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.3-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.4.0.3-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 17863
+    "DownloadCount": 17870
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24085,
+    "DownloadCount": 24100,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.20-cn/CustomizePlus.zip",
@@ -119,15 +119,15 @@
     "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.5.2",
-    "TestingAssemblyVersion": "0.5.2",
+    "AssemblyVersion": "0.5.2.1",
+    "TestingAssemblyVersion": "0.5.2.1",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-cn/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-cn/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-cn/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.5.2.1-cn/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.5.2.1-cn/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.5.2.1-cn/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 35999
+    "DownloadCount": 36238
   },
   {
     "Author": "Chirp",
@@ -162,7 +162,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/Ktisis/releases/download/0.3.6-cn/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.28-cn/latest.zip",
-    "DownloadCount": 8379
+    "DownloadCount": 8382
   },
   {
     "Author": "kawaii, Glyceri",
@@ -182,7 +182,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 18040
+    "DownloadCount": 18044
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -203,7 +203,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.7.7-cn/DynamicBridge.zip",
-    "DownloadCount": 5697,
+    "DownloadCount": 5701,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -259,7 +259,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.12-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 13277
+    "DownloadCount": 13280
   },
   {
     "Author": "LeonBlade",
@@ -287,7 +287,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 9594
+    "DownloadCount": 9601
   },
   {
     "Author": "a08381",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 9542
+    "DownloadCount": 9546
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 7815
+    "DownloadCount": 7816
   }
 ]
