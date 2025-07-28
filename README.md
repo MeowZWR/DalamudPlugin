@@ -62,3 +62,9 @@ https://plogon.meowrs.com/pants
 ## Credits
 
 Workflows modified from [SeaOfStars](https://github.com/Ottermandias/SeaOfStars).
+
+</br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeowZWR&repo=DalamudPlugin-cn&style=for-the-badge&label=Profile+Views+(Since+2025-07-28)&color=blue" alt="Profile Views" />
+  <br><br>
+</div>
