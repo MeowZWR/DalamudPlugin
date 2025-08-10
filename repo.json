@@ -119,16 +119,16 @@
     "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.5.1.2",
-    "TestingAssemblyVersion": "0.5.1.2",
+    "AssemblyVersion": "0.5.2",
+    "TestingAssemblyVersion": "0.5.2",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.5.1.2-global/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.5.1.2-global/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.5.1.2-global/Brio.zip",
-    "IconUrl": "https://static.meowrs.com/Plugins/Brio/Icon.png",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-global/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-global/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-global/Brio.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
       "brio",
@@ -137,9 +137,11 @@
       "animation",
       "xat",
       "cutscene",
+      "utility",
+      "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 41672
+    "DownloadCount": 41673
   },
   {
     "Author": "Chirp",
@@ -257,7 +259,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.12-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 13727
+    "DownloadCount": 13729
   },
   {
     "Author": "LeonBlade",
@@ -285,7 +287,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 10187
+    "DownloadCount": 10189
   },
   {
     "Author": "a08381",
