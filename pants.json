@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.3.46-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.3.46-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 20815
+    "DownloadCount": 0
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.22-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.7.22-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 3807
+    "DownloadCount": 0
   },
   {
     "Author": "Team Wrath",
@@ -74,14 +74,14 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.17-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "机翻自用，不懂循环，仅供娱乐。",
-    "DownloadCount": 4557
+    "DownloadCount": 4580
   },
   {
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.8.3.10",
-    "TestingAssemblyVersion": "2.8.3.10",
+    "AssemblyVersion": "2.8.3.11",
+    "TestingAssemblyVersion": "2.8.3.11",
     "Description": "一个在类ACT环境中运行FFXIV_ACT_Plugin的插件，包含为现代.NET重写的Overlay Plugin",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MeowZWR/IINACT",
@@ -97,9 +97,9 @@
     "Punchline": "A parsing plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.10/IINACT.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.10/IINACT.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.10/IINACT.zip",
-    "DownloadCount": 398
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.11/IINACT.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.11/IINACT.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.8.3.11/IINACT.zip",
+    "DownloadCount": 407
   }
 ]
