@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 66511,
+    "DownloadCount": 37395,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 52988,
+    "DownloadCount": 0,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.0.4-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.0.4-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 18377
+    "DownloadCount": 0
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24957,
+    "DownloadCount": 0,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.26-cn/CustomizePlus.zip",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
-    "DownloadCount": 8708
+    "DownloadCount": 0
   },
   {
     "Author": "kawaii",
