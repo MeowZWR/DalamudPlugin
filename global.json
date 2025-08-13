@@ -5,22 +5,22 @@
     "Punchline": "运行时模组加载和管理器。",
     "Description": "运行时模组加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.5.0.2",
-    "TestingAssemblyVersion": "1.5.0.2",
+    "AssemblyVersion": "1.5.0.4",
+    "TestingAssemblyVersion": "1.5.0.4",
     "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 66553,
+    "DownloadCount": 66560,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.0.2-cn/Penumbra.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.0.2-cn/Penumbra.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.0.2-cn/Penumbra.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.0.4-cn/Penumbra.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.0.4-cn/Penumbra.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.0.4-cn/Penumbra.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Penumbra/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 53044,
+    "DownloadCount": 53055,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.0.4-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.0.4-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 18384
+    "DownloadCount": 18385
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 24983,
+    "DownloadCount": 24986,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.7.26-cn/CustomizePlus.zip",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
-    "DownloadCount": 8717
+    "DownloadCount": 8721
   },
   {
     "Author": "kawaii",
@@ -252,7 +252,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 13788
+    "DownloadCount": 13791
   },
   {
     "Author": "LeonBlade",
