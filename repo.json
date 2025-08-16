@@ -139,7 +139,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 42583
+    "DownloadCount": 42710
   },
   {
     "Author": "Chirp",
@@ -182,7 +182,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 18556
+    "DownloadCount": 18576
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -287,7 +287,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 10335
+    "DownloadCount": 10370
   },
   {
     "Author": "a08381",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 10079
+    "DownloadCount": 10102
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 8141
+    "DownloadCount": 8184
   }
 ]
