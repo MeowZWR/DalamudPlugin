@@ -272,7 +272,7 @@
       "furnishing",
       "LeonBlade"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
@@ -280,7 +280,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 10156
+    "DownloadCount": 10519
   },
   {
     "Author": "a08381",
