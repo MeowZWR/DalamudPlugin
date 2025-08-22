@@ -119,15 +119,15 @@
     "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.5.2",
-    "TestingAssemblyVersion": "0.5.2",
+    "AssemblyVersion": "0.5.2.2",
+    "TestingAssemblyVersion": "0.5.2.2",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-global/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-global/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.5.2-global/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.5.2.2-global/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.5.2.2-global/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.5.2.2-global/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 43321
+    "DownloadCount": 43322
   },
   {
     "Author": "Chirp",
