@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 45069
+    "DownloadCount": 45142
   },
   {
     "Author": "Chirp",
@@ -307,7 +307,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 10777
+    "DownloadCount": 10798
   },
   {
     "Author": "NightmareXIV",
@@ -326,6 +326,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.6/latest.zip",
-    "DownloadCount": 8621
+    "DownloadCount": 8635
   }
 ]
