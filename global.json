@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 55230,
+    "DownloadCount": 55231,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 19196
+    "DownloadCount": 19197
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 26258,
+    "DownloadCount": 26266,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.8.2-cn/CustomizePlus.zip",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
-    "DownloadCount": 9198
+    "DownloadCount": 9200
   },
   {
     "Author": "kawaii",
@@ -183,8 +183,8 @@
     "Punchline": "可以根据设置的各种条件来自动更改角色外观。",
     "Description": "通过设置规则预设，利用与其他流行插件的集成，使得角色外观随情境的变化自动无缝切换，丰富你的游戏体验，增加沉浸感。",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": "1.0.8.1",
-    "TestingAssemblyVersion": "1.0.8.1",
+    "AssemblyVersion": "1.0.8.2",
+    "TestingAssemblyVersion": "1.0.8.2",
     "RepoUrl": "https://github.com/MeowZWR/DynamicBridge",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -193,9 +193,9 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.1-cn/DynamicBridge.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.1-cn/DynamicBridge.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.1-cn/DynamicBridge.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
     "DownloadCount": 6137,
     "LastUpdated": "0",
     "Changelog": "",
@@ -252,7 +252,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 14513
+    "DownloadCount": 14517
   },
   {
     "Author": "LeonBlade",
@@ -280,7 +280,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.6.9-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 11110
+    "DownloadCount": 11113
   },
   {
     "Author": "a08381",
