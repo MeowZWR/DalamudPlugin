@@ -4,7 +4,7 @@ const extraTag = "Pants";
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
-const targetApiLevel = 12;
+const targetApiLevel = 13;
 const mirrorPrefix = "https://meowrs.com/";
 
 // Get the total download count for a GitHub repo's releases
