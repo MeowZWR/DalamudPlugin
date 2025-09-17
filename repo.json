@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 71733,
+    "DownloadCount": 71887,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 57196,
+    "DownloadCount": 57312,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 20401
+    "DownloadCount": 20466
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 27755,
+    "DownloadCount": 27834,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.8.2-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 47098
+    "DownloadCount": 47248
   },
   {
     "Author": "Chirp",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
-    "DownloadCount": 9843
+    "DownloadCount": 9876
   },
   {
     "Author": "kawaii, Glyceri",
@@ -177,7 +177,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 19216
+    "DownloadCount": 19232
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -198,7 +198,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
-    "DownloadCount": 6476,
+    "DownloadCount": 6490,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -254,7 +254,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 15833
+    "DownloadCount": 15908
   },
   {
     "Author": "LeonBlade",
@@ -282,7 +282,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.1-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 12141
+    "DownloadCount": 12240
   },
   {
     "Author": "a08381",
@@ -290,6 +290,7 @@
     "Description": "坏孩子辍学。",
     "InternalName": "SkipCutscene",
     "AssemblyVersion": "1.2.3.0",
+    "TestingAssemblyVersion": "1.2.3.0",
     "RepoUrl": "https://github.com/MeowZWR/Dalamud.SkipCutscene",
     "ApplicableVersion": "any",
     "Tags": [
@@ -298,11 +299,11 @@
     "DalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0-cn/latest.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0-cn/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0-cn/latest.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 10829
+    "DownloadCount": 10832
   },
   {
     "Author": "NightmareXIV",
@@ -321,6 +322,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 8944
+    "DownloadCount": 8993
   }
 ]
