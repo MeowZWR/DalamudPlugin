@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 76616,
+    "DownloadCount": 76648,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60740,
+    "DownloadCount": 60762,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 25783
+    "DownloadCount": 25813
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 32836,
+    "DownloadCount": 32864,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.8.3-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 52194
+    "DownloadCount": 52218
   },
   {
     "Author": "Chirp",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.10-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
-    "DownloadCount": 11247
+    "DownloadCount": 11256
   },
   {
     "Author": "kawaii, Glyceri",
@@ -170,14 +170,14 @@
     "AcceptsFeedback": false,
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "AssemblyVersion": "2.0.0.46",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.46/Moodles.zip",
+    "AssemblyVersion": "2.0.0.47",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.47/Moodles.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.33/Moodles.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.46/Moodles.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Moodles/releases/download/2.0.0.47/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 21423
+    "DownloadCount": 21441
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -198,7 +198,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.2-cn/DynamicBridge.zip",
-    "DownloadCount": 7085,
+    "DownloadCount": 7089,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -254,7 +254,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 18163
+    "DownloadCount": 18183
   },
   {
     "Author": "LeonBlade",
@@ -282,7 +282,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.1-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 14916
+    "DownloadCount": 14941
   },
   {
     "Author": "a08381",
@@ -303,7 +303,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 13792
+    "DownloadCount": 13820
   },
   {
     "Author": "NightmareXIV",
@@ -322,6 +322,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 10187
+    "DownloadCount": 10195
   }
 ]
