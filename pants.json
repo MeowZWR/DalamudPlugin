@@ -28,8 +28,8 @@
     "Punchline": "真正的死灵术士一定对深层迷宫了如指掌...然而有的人却在使用科技！",
     "Description": "深层迷宫助手。显示巡逻怪、仇恨、视线和一切其他东西的雷达视图。",
     "InternalName": "NecroLens",
-    "AssemblyVersion": "1.0.8.0",
-    "TestingAssemblyVersion": "1.0.8.0",
+    "AssemblyVersion": "1.0.8.9",
+    "TestingAssemblyVersion": "1.0.8.9",
     "RepoUrl": "https://github.com/MeowZWR/NecroLens",
     "ApplicableVersion": "any",
     "Tags": [
@@ -48,9 +48,9 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.0-cn/NecroLens.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.0-cn/NecroLens.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.0-cn/NecroLens.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.9-cn/NecroLens.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.9-cn/NecroLens.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.9-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
     "DownloadCount": 8722
   },
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.3-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "1.0.2.3-cn\n\n- 同步上游版本1.0.2.14\n- 补充“青魔法师”、“赤魔法师”、“PVP”、“多变迷宫”、“新月岛”翻译。",
-    "DownloadCount": 14674
+    "DownloadCount": 14679
   },
   {
     "Author": "Usagi",
