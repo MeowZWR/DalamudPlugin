@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 42335
+    "DownloadCount": 42359
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 10959
+    "DownloadCount": 10970
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.4-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "1.0.2.4-cn\n\n同步上游 v1.0.2.15\n\n[核心]\n修复了判断玩家是否在Boss遭遇战中的核心逻辑。\n（主要修复了团队副本Boss的问题）\n开场连击（和其他仅限Boss的选项）现在在木桩上也能正常工作。\n\n[机工士]\n所有工具技能现在都在新的工具部分下，需要启用才能继续使用。\n优化了超荷和工具逻辑。\n\n[骑士]\n修复了在队伍减伤功能中武装戍卫在圣光幕帘之前被使用的问题。\n\n[武僧]\n所有增益功能的HP%滑块和Boss检查已移动，需要重新设置。\n改进了逻辑，使其更容易维护。\n为AOE震脚添加了HP%滑块。\n将HP%滑块和Boss检查移动到单体目标和AOE增益部分。\n改进了红莲极意逻辑。\n移除了回复技能需要增益激活的要求，防止浪费。\n\n[龙骑士]\n为增益添加了HP%滑块和Boss检查。\n\n[黑魔法师]\n修复了最大法力值改变时整个循环中断的问题。\n（应该只适用于深层迷宫和一些野外任务）",
-    "DownloadCount": 15573
+    "DownloadCount": 15626
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.3.1/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.3.1/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.3.1/IINACT.zip",
-    "DownloadCount": 1202
+    "DownloadCount": 1205
   }
 ]
