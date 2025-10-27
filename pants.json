@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 43754
+    "DownloadCount": 43828
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 11639
+    "DownloadCount": 11685
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.6-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "1.0.2.6-cn\n\n<同步上游 v1.0.2.17>\n[自动循环]\n更彻底地阻止了自动循环产生的治疗行动被重新定向。\n[赤魔法师]\n允许回刺近战连击功能继续未強化的近战连击。\n[武僧]\n添加了必杀技的延迟使用机制，防止完全浪费。\n改进了在义结金兰效果下红莲极意的插入窗口检查。\n阻止在红莲极意使用后立即使用乾坤斗气弹。\n改进了必杀技范围、轮脉检查和兽魂代码，使其更容易维护。\n[黑魔法师]\n修复了冰澈的重复使用问题。\n[蝰蛇剑士]\n改进了蛇尾术和祖灵之蛇逻辑，使其不再受延迟影响。\n为AOE添加了祖灵之蛇插入。\n为简单模式添加了紧急自我治疗。\n[武士]\n调整了基础连击代码，使其能够更好地响应当前位置。\n为明镜止水添加了彼岸花检查逻辑。\n[机工士]\n改进了整备和超荷的野火使用可靠性。",
-    "DownloadCount": 16733
+    "DownloadCount": 17025
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.3.1/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.3.1/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.3.1/IINACT.zip",
-    "DownloadCount": 1242
+    "DownloadCount": 1245
   }
 ]
