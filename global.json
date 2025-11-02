@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 84536,
+    "DownloadCount": 84548,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 62527,
+    "DownloadCount": 62532,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 34301
+    "DownloadCount": 34303
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 37038,
+    "DownloadCount": 37051,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.8.4-cn/CustomizePlus.zip",
@@ -114,15 +114,15 @@
     "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.6.0.2",
-    "TestingAssemblyVersion": "0.6.0.2",
+    "AssemblyVersion": "0.6.0.3",
+    "TestingAssemblyVersion": "0.6.0.3",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.0.2-cn/Brio.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.0.2-cn/Brio.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.0.2-cn/Brio.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.0.3-cn/Brio.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.0.3-cn/Brio.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.0.3-cn/Brio.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 64802
+    "DownloadCount": 64809
   },
   {
     "Author": "Chirp",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.11-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.29-cn/latest.zip",
-    "DownloadCount": 12173
+    "DownloadCount": 12174
   },
   {
     "Author": "kawaii",
@@ -252,7 +252,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 19384
+    "DownloadCount": 19385
   },
   {
     "Author": "LeonBlade",
@@ -280,7 +280,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.1-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 16420
+    "DownloadCount": 16423
   },
   {
     "Author": "a08381",
@@ -320,6 +320,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.9-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 10800
+    "DownloadCount": 10802
   }
 ]
