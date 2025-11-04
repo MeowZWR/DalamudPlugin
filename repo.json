@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 84775,
+    "DownloadCount": 84797,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -45,8 +45,8 @@
       "Sea Of Stars"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.5.1.2",
-    "TestingAssemblyVersion": "1.5.1.2",
+    "AssemblyVersion": "1.5.1.4",
+    "TestingAssemblyVersion": "1.5.1.4",
     "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -55,9 +55,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 62603,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.2-cn/Glamourer.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.4-cn/Glamourer.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.4-cn/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.4-cn/Glamourer.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Glamourer/icon.png"
   },
   {
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 67039
+    "DownloadCount": 67043
   },
   {
     "Author": "Chirp",
