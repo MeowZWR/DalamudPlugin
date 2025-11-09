@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 45299
+    "DownloadCount": 45380
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 13260
+    "DownloadCount": 13407
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.8-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Bump\n\n<同步上游 v1.0.2.18>\n[核心]\n新增设置：可选择是否显示“目标高亮”功能。\n（无论颜色是否为透明，若关闭则不再运行相关代码）\n修复目标高亮框不再吞噬鼠标输入。\n为高亮器新增“舞伴”标记。\n[自动循环]\n改进了近战时的换目标逻辑。\n[武士]\n进一步优化了“明镜止水”连击。\n简化并改进了AOE连击的底层逻辑。\n修复了“雪风”独立连击。\n[蝰蛇剑士]\n修复了“祖灵之蛇”的插入会干扰“强碎灵蛇”的问题。\n[机工士]\n简化了单体场景下“超荷”的使用。\n在超荷前的工具检查中加入了“热弹”。\n为“虹吸弹”和“弹射”添加了溢出保护，在超荷期间优先使用更可能溢出的那个。\n[占星术士]\n为“地星”新增目标选择。\n“光速爆发”功能现在会检查“占卜”是否已启用。\n[贤者]\n修复“简单AOE治疗连击”中的护盾检查。\n修复“简单AOE输出：魂灵风息+活化”功能，仅在两者均可用时才会触发。\n修复“进阶AOE治疗连击”中的“魂灵风息”等级检查。\n修复“活化”以允许在较低等级下的使用。\n[忍者]\n改进“忍术”的跟踪，以减轻延迟问题。\n（不影响“简单结印”功能）",
-    "DownloadCount": 18765
+    "DownloadCount": 18828
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
-    "DownloadCount": 1555
+    "DownloadCount": 1582
   }
 ]
