@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.1-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 45984
+    "DownloadCount": 45989
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 14139
+    "DownloadCount": 14142
   },
   {
     "Author": "Team Wrath",
@@ -60,8 +60,8 @@
     "Punchline": "将连击与互斥技能整合至单个按键——功能远不止于此。",
     "Description": "化繁为简，一击千变！借鉴PvP技能设计理念，我们将单一技能拓展为完整连招体系。可能是基础的1-2-3式连击，也可能是精密的职业循环系统。根据你的战斗需求，打造专属输出节奏。",
     "InternalName": "WrathCombo",
-    "AssemblyVersion": "1.0.2.9",
-    "TestingAssemblyVersion": "1.0.2.9",
+    "AssemblyVersion": "1.0.2.10",
+    "TestingAssemblyVersion": "1.0.2.10",
     "RepoUrl": "https://github.com/MeowZWR/WrathCombo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,12 +69,12 @@
     ],
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.9-cn/WrathCombo.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.9-cn/WrathCombo.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.9-cn/WrathCombo.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.10-cn/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.10-cn/WrathCombo.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.10-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
-    "Changelog": "1.0.2.9-cn\n\n<同步上游 v1.0.2.19>\n[自动循环]\n根据你的减益状态，在M8S中将风之狼/石之狼标记为无敌。\n离开副本内容时启用和禁用自动循环的选项现在可以正确工作，即使只启用了其中一个选项。\n[机工士]\n改进并更新了关于后式自走人偶、工具、超荷和枪管加热使用的逻辑。\n为枪管加热添加了额外选项。\n为虹吸弹和弹射添加了溢出保护。\n[武僧]\n修改了太阳震脚下的第一个位置攻击。\n为回复技能添加了范围检查。\n[钐镰客]\n添加了90级开场连击。\n[忍者]\n将上次更新中与忍术延迟相关的修复扩展到了天地人和简单结印功能。",
-    "DownloadCount": 20228
+    "Changelog": "Bump\n\n<同步上游v1.0.2.20>\n[核心]\n修复了队伍外NPC的识别范围，使其更广泛，希望能包括更多治疗职业任务NPC。\n[自动循环]\n添加了对朝圣者之路深层迷宫中Boss身上光/暗减益的回避。\n修复了M8S中风之狼/石之狼的无敌判定。\n[暗黑骑士]\n修复了所有连击中的雪仇，现在能正确检查所有使用条件。\n[骑士]\n修复了基于战女神之怒的基础连击处理，现在也能正确替换王权剑。\n[吟游诗人]\n修复了多持续伤害选项，现在会先检查持续伤害是否已启用。\n[黑魔法师]\n将崩溃改为始终作为移动选项，而不仅仅是在三连咏唱之前（并且是可选的）。",
+    "DownloadCount": 20232
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
-    "DownloadCount": 1680
+    "DownloadCount": 1683
   }
 ]
