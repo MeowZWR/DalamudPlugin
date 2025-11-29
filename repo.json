@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 95993,
+    "DownloadCount": 95998,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 39863,
+    "DownloadCount": 39898,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.9.1-cn/CustomizePlus.zip",
@@ -114,15 +114,15 @@
     "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.6.0.3",
-    "TestingAssemblyVersion": "0.6.0.3",
+    "AssemblyVersion": "0.6.1.1",
+    "TestingAssemblyVersion": "0.6.1.1",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.6.0.3-cn/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.6.0.3-cn/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.6.0.3-cn/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.6.1.1-cn/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.6.1.1-cn/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.6.1.1-cn/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 72030
+    "DownloadCount": 72032
   },
   {
     "Author": "Chirp",
