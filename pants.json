@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.6-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.6-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 48510
+    "DownloadCount": 49125
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.10-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 14783
+    "DownloadCount": 14831
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.11-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Bump\n\n<同步上游 v1.0.2.21>\n[核心]\n为BossMod的自定义队列添加了冲突检查。\n为某些可能导致问题的游戏设置添加了冲突检查。\n在两歧塔中，当目标无法被复活时，阻止任何复活技能。\n[自动循环]\n为利维亚桑添加了无敌判定。\n[重定向]\n移除了一个可能导致在禁用功能后重定向仍然持续或变得过时的属性。\n[内容]\n添加了新的\"内容特定行动：任务\"部分。\n将弓箭手低等级职业任务修复移至此部分。\n添加了幻术师高等级职业任务\"独角兽之力\"的修复。\n[绘灵法师]\n修复了低等级彩绘的使用。\n[绝枪战士]\n修复了恶魔切在低等级时导致高级AOE连击卡住的问题。\n修复了低等级AOE循环中无情使用的不一致问题。\n[骑士]\n添加了保护重定向功能。\n[黑魔法师]\n添加了更多范围检查，防止浪费即刻咏唱和超出范围使用三连咏唱。\n[机工士]\n添加了新的尽早使用野火起手的连击选项。\n[武士]\n添加了照破溢出保护。\n改进了爆发时的剑压储备。\n[武僧]\n允许在AOE中通过震脚预备必杀技。",
-    "DownloadCount": 23036
+    "DownloadCount": 23115
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.4.4/IINACT.zip",
-    "DownloadCount": 1822
+    "DownloadCount": 1833
   }
 ]
