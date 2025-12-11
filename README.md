@@ -1,7 +1,6 @@
 # DalamudPlugins
 
-FF14国服插件汉化。（感谢来世、獭爹、wozaiha佬的帮助，啵啵。）   
-国际服汉化看[这里](https://github.com/MeowZWR/DalamudPlugin/tree/global)
+FF14国服插件汉化。（感谢来世、獭爹、wozaiha佬的帮助，啵啵。）
 
 ## 仓库链接
 可能要有梯子（原始链接）：
@@ -14,10 +13,6 @@ https://plogon.meowrs.com/cn
 ```
 ![24小时请求总数](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Frequests24)
 ![24小时提供的数据](https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.meowrs.com%2Fbandwidth24)
-
-**国服7.3更新时将放弃对JSON文件的直接加速，如果您正在使用以下链接，请及时更换。**
-- `https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/meowrs.json`
-- `https://meowrs.com/https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/pants.json`
 
 ## 插件介绍
 
