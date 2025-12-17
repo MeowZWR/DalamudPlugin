@@ -67,21 +67,21 @@
     "Description": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "Punchline": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "RepoUrl": "https://github.com/MeowZWR/SimpleHeels",
-    "AssemblyVersion": "0.11.0.18",
-    "TestingAssemblyVersion": "0.11.0.18",
+    "AssemblyVersion": "0.11.0.19",
+    "TestingAssemblyVersion": "0.11.0.19",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "TestingDalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.18/SimpleHeels.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.18/SimpleHeels.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.18/SimpleHeels.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.19/SimpleHeels.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.19/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.19/SimpleHeels.zip",
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 38606
+    "DownloadCount": 38608
   },
   {
     "Author": "Risa",
