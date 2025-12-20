@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 104538,
+    "DownloadCount": 104629,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 72200,
+    "DownloadCount": 72239,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.6-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.6-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 40361
+    "DownloadCount": 40378
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45329,
+    "DownloadCount": 45354,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.0.9.2-cn/CustomizePlus.zip",
@@ -114,15 +114,15 @@
     "Punchline": "增强集体动作体验。",
     "Description": "在集体动作模式中控制参与的角色。",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.6.1.4",
-    "TestingAssemblyVersion": "0.6.1.4",
+    "AssemblyVersion": "0.6.2.1",
+    "TestingAssemblyVersion": "0.6.2.1",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.1.4-cn/Brio.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.1.4-cn/Brio.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.1.4-cn/Brio.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.2.1-cn/Brio.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.2.1-cn/Brio.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Brio/releases/download/0.6.2.1-cn/Brio.zip",
     "IconUrl": "https://meowrs.com/https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 79348
+    "DownloadCount": 79422
   },
   {
     "Author": "Chirp",
@@ -177,7 +177,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 25474
+    "DownloadCount": 25491
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
