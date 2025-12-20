@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 104779,
+    "DownloadCount": 104793,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 72300,
+    "DownloadCount": 72354,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.7-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.7-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 40633
+    "DownloadCount": 40661
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 45580,
+    "DownloadCount": 45620,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.0.0-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 79811
+    "DownloadCount": 79860
   },
   {
     "Author": "Chirp",
@@ -177,7 +177,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 25529
+    "DownloadCount": 25531
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -198,7 +198,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.6-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.6-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.6-cn/DynamicBridge.zip",
-    "DownloadCount": 7808,
+    "DownloadCount": 7821,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -240,21 +240,21 @@
     "CategoryTags": [
       "utility"
     ],
-    "DalamudApiLevel": 13,
-    "TestingDalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "ImageUrls": [
       "https://static.meowrs.com/Plugins/Cammy/image1.png"
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "2.1.0.13",
-    "TestingAssemblyVersion": "2.1.0.13",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.13-cn/Cammy.zip",
+    "AssemblyVersion": "2.1.0.14",
+    "TestingAssemblyVersion": "2.1.0.14",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.14-cn/Cammy.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.14-cn/Cammy.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.0.14-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 20305
+    "DownloadCount": 20312
   },
   {
     "Author": "LeonBlade",
@@ -303,7 +303,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.0/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 16426
+    "DownloadCount": 16431
   },
   {
     "Author": "NightmareXIV",
