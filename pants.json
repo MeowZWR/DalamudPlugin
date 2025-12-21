@@ -10,17 +10,17 @@
       "Pants"
     ],
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.15",
-    "TestingAssemblyVersion": "4.0.4.15",
+    "AssemblyVersion": "4.0.4.16",
+    "TestingAssemblyVersion": "4.0.4.16",
     "RepoUrl": "https://github.com/MeowZWR/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.15-cn/Artisan.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.15-cn/Artisan.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.15-cn/Artisan.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.16-cn/Artisan.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.16-cn/Artisan.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.16-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 56535
+    "DownloadCount": 56652
   },
   {
     "Author": "Jukka",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.12-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Bump\n\n<同步上游 v1.0.3.0>",
-    "DownloadCount": 25757
+    "DownloadCount": 25766
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.2/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.2/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.2/IINACT.zip",
-    "DownloadCount": 2080
+    "DownloadCount": 2082
   }
 ]
