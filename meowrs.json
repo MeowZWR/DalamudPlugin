@@ -5,8 +5,8 @@
     "Punchline": "运行时模组加载和管理器。",
     "Description": "运行时模组加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.5.1.11",
-    "TestingAssemblyVersion": "1.5.1.11",
+    "AssemblyVersion": "1.5.1.12",
+    "TestingAssemblyVersion": "1.5.1.12",
     "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.1.11-cn/Penumbra.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.1.11-cn/Penumbra.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.1.11-cn/Penumbra.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.1.12-cn/Penumbra.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.1.12-cn/Penumbra.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Penumbra-CN/releases/download/1.5.1.12-cn/Penumbra.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Penumbra/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 41597
+    "DownloadCount": 41598
   },
   {
     "Author": "Risa",
@@ -177,7 +177,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 25743
+    "DownloadCount": 25744
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
