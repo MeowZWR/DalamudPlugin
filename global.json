@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 110217,
+    "DownloadCount": 110229,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 77704,
+    "DownloadCount": 77710,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.8-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.8-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 43116
+    "DownloadCount": 43119
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 48652,
+    "DownloadCount": 48660,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.0.0-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 85898
+    "DownloadCount": 85906
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.30-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.15-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.30-cn/latest.zip",
-    "DownloadCount": 14293
+    "DownloadCount": 14295
   },
   {
     "Author": "kawaii",
@@ -252,7 +252,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.14-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 22490
+    "DownloadCount": 22494
   },
   {
     "Author": "LeonBlade",
@@ -280,7 +280,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.2-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 18800
+    "DownloadCount": 18815
   },
   {
     "Author": "a08381",
@@ -309,7 +309,7 @@
     "Punchline": "防止挂机被自动踢下线，安装后生效，没设置项。",
     "Description": "",
     "InternalName": "AntiAfkKick-Dalamud",
-    "AssemblyVersion": "2.1.0.10",
+    "AssemblyVersion": "2.1.0.11",
     "RepoUrl": "https://github.com/MeowZWR/AntiAfkKick",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -317,9 +317,9 @@
     "ImageUrls": [],
     "IsHide": "False",
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.10-cn/antiafkkick-dalamud.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.10-cn/antiafkkick-dalamud.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.10-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 11376
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
+    "DownloadCount": 11386
   }
 ]
