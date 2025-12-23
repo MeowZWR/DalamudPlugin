@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.16-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.16-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 59593
+    "DownloadCount": 59743
   },
   {
     "Author": "Jukka",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.2.14-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "1.0.2.14-cn\n\n<同步上游v1.0.3.1>\n[界面]\n修复了设置中的调试文件按钮。\n[自动循环]\n修复了自动复活和自动治疗不生效的问题。\n开场连击期间将不再自动复活。\n[IPC]\n贡献者：所有相关的枚举已移至WrathCombo.API。\n[忍者]\n回退了其中一个延迟修复，该修复使印更容易受到其他插件的干扰。\n修复了印在失败时现在能正确重置。\n[学者]\n如果等级过低，为需要以太超流的行动添加了开场连击跳过。\n[坦克]\n所有一键队伍减伤现在会在重复使用前正确检查雪仇。\n所有亲疏自行的敌人数量滑块现在上限为5——在某些地方增加，在其他地方减少。\n[骑士]\n更新了所有减伤选项，使其更符合现代坦克。\n在所有减伤位置添加了壁垒。\n如果冲刺技能已被使用，为开场连击添加了跳过。\n[战士]\n如果冲刺技能已被使用，为开场连击添加了跳过。\n[白魔法师]\n更新了7.4版本的开场连击。\n[赤魔法师]\n添加了移动检查，防止在移动时使用短兵相接。\n[召唤师]\n为简单模式单体目标添加了控制冲刺范围的选项——现在默认仅为近战范围。\n[武士]\n修复了允许重复使用彼岸花的问题。\n[蝰蛇剑士]\n降低了蛇灵气的优先级，使其低于祖灵之蛇插入。",
-    "DownloadCount": 26920
+    "DownloadCount": 26995
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.2/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.2/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.2/IINACT.zip",
-    "DownloadCount": 2168
+    "DownloadCount": 2169
   }
 ]
