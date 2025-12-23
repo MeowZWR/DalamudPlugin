@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 110262,
+    "DownloadCount": 110264,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 77738,
+    "DownloadCount": 77739,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.8-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.5.1.8-cn/Glamourer.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 85946
+    "DownloadCount": 85952
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -280,7 +280,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.2-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 18868
+    "DownloadCount": 18876
   },
   {
     "Author": "a08381",
@@ -301,7 +301,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.1/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.1/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 18709
+    "DownloadCount": 18710
   },
   {
     "Author": "NightmareXIV",
@@ -320,6 +320,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 11450
+    "DownloadCount": 11455
   }
 ]
