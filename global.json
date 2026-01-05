@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 114283,
+    "DownloadCount": 114284,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -67,16 +67,16 @@
     "Description": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "Punchline": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "RepoUrl": "https://github.com/MeowZWR/SimpleHeels",
-    "AssemblyVersion": "0.11.0.22",
-    "TestingAssemblyVersion": "0.11.0.22",
+    "AssemblyVersion": "0.11.0.26",
+    "TestingAssemblyVersion": "0.11.0.26",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.22/SimpleHeels.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.22/SimpleHeels.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.22/SimpleHeels.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.26/SimpleHeels.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.26/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.26/SimpleHeels.zip",
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
@@ -320,6 +320,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 13334
+    "DownloadCount": 13336
   }
 ]
