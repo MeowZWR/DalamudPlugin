@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.25-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.25-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 72574
+    "DownloadCount": 73022
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 18846
+    "DownloadCount": 18935
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.0-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Bump\n\n<同步上游>\n\nv1.0.3.4\n\n[核心]\n修复了崩溃问题。\n添加了设置以抑制来自/wrath auto切换命令的反馈。\n修复了近战范围检查，现在再次正确考虑偏移设置。\n修复了近战范围检查，使其在PvP中正常工作。\n改进了击晕行动，现在不会对无法被击晕的目标重复使用。\n修复了持续伤害行动的冲突。\n为重新定向所有敌对行动添加了冲突。\n修复了开场连击，现在能更好地处理长施法时间。\n添加了VFX检测。\n改进了全屏攻击检测，现在还包括检查队伍成员附近的集合标记VFX。\n通过检查玩家身上的各种VFX提供坦克死刑检测。\n（大多数晓月之途的坦克死刑和集合标记应该能被检测到——请报告那些未被检测到的[以及旧版本的]）\n\n[自动循环]\n修复了地面目标行动未正确放置的问题。\n修复了如果使用时不启用\"始终设置硬目标\"选项而没有目标的问题。\n改进了与重新定向行动的兼容性。\n在可能的情况下优先清除死亡宣告状态。\n\n[IPC]\n公开了新的自动循环配置选项。\n\n[坦克]\n⚠️ 连击内减伤已被移动并彻底改造！\n彻底改造了减伤！\n不再所有减伤都对HP做出反应！\n添加了坦克死刑减伤！\n减伤选项现在在它们自己的部分中，位于进阶连击下方，\n每个进阶连击都有一个\"包含减伤\"的选项。\n减伤现在分为针对小怪和Boss的减伤。\n注意：简单模式使用所有推荐值代替这些选项。\n添加了AOE基础连击。\n\n[舞者]\n修复了低等级和未就绪的提拉纳使用可能导致循环卡住的问题。\n\n[绝枪战士]\n移除了现在无关的Scuffed功能。\n修复了2.4倍技能速度的问题，主要在音速破和超高速上。\n修复了烈牙可能破坏主连击的问题。\n修复了AOE在低等级时不使用爆发击的问题。\n修复了更快的开场连击导致爆破领域错位的问题。\n修复了爆发击和命运之环无论设置如何都被使用的问题。\n为2.5技能速度用户添加了优先无情选项。\n为进阶AOE连击中的音速破添加了正常或延迟选项。\n更新了烈牙功能和简单模式，使其逻辑与进阶连击匹配。\n修复了简单模式中插言、下踢和续剑不被使用的问题。\n\n[武士]\n改进了明镜止水，在战斗中不再检查范围，使在移动目标上使用更容易。\n修复了开场连击，根据剑压和范围跳过行动。\n更新了基础连击，允许选择优先事项。\n\n[钐镰客]\n在基础连击中包含死亡之影维护。\n将收获月从远程持续输出逻辑中分离。\n\n[机工士]\n添加了储备整备的选项。\n\n[赤魔法师]\n修复了简单模式中近战连击不被使用的问题。\n修复了开场连击，现在根据范围和即刻咏唱就绪状态跳过步骤。\n\n[学者]\n修复了简单模式中能量吸收不被使用的问题。\n\n[白魔法师]\n修复了简单模式中多持续伤害不被使用的问题。\n\n[内容]\n⚠️ 博兹雅：枪刃士和战士选项已移动！\n博兹雅：移除了现有的枪刃士和战士选项，现在将它们应用于所有坦克。\n\n v1.0.3.5\n\n [自动循环]\n修复了自动循环在登录或目标死亡后可能崩溃的问题。\n\n[绝枪战士]\n修复了音速破被禁用时会阻止崛起之心被使用的问题，即使崛起之心已启用。",
-    "DownloadCount": 32219
+    "DownloadCount": 32415
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
-    "DownloadCount": 3365
+    "DownloadCount": 3406
   }
 ]
