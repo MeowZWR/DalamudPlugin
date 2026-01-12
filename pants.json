@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.25-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.25-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 73596
+    "DownloadCount": 73696
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 19059
+    "DownloadCount": 19071
   },
   {
     "Author": "Team Wrath",
@@ -60,8 +60,8 @@
     "Punchline": "将连击与互斥技能整合至单个按键——功能远不止于此。",
     "Description": "化繁为简，一击千变！借鉴PvP技能设计理念，我们将单一技能拓展为完整连招体系。可能是基础的1-2-3式连击，也可能是精密的职业循环系统。根据你的战斗需求，打造专属输出节奏。",
     "InternalName": "WrathCombo",
-    "AssemblyVersion": "1.0.3.1",
-    "TestingAssemblyVersion": "1.0.3.1",
+    "AssemblyVersion": "1.0.3.2",
+    "TestingAssemblyVersion": "1.0.3.2",
     "RepoUrl": "https://github.com/MeowZWR/WrathCombo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,12 +69,12 @@
     ],
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.1-cn/WrathCombo.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.1-cn/WrathCombo.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.1-cn/WrathCombo.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.2-cn/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.2-cn/WrathCombo.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.2-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
-    "Changelog": "Bump\n\n<同步至上游版本v1.0.3.7>\n\nv1.0.3.6\n\n[核心]\n添加了自定义队列设置，可在自动循环下实现更好的队列管理。\n修复了开场连击选择不会立即更改的问题。\n改进了坦克Buster检测，识别了更多VFX并支持跨团队坦克Buster。\n移除了性能模式设置。\n此功能主要导致的问题多于解决的问题，大多数FPS下降已在源头修复，或通过自动循环或全局节流设置更好地处理。\n\n[自动循环]\n修复了即使设置为手动目标时仍会切换硬目标的问题。\n允许自动循环队列行动并添加了队列窗口设置。\n\n[蝰蛇剑士]\n重做了强碎灵蛇和飞蛇之尾，以在爆发中更好地优先和执行。\n添加了真北滑块。\n\n[骑士]\n在减伤中添加了第二个无敌选项，用于紧急使用。\n修复了圣灵远程持续输出选项未进行等级检查的问题。\n\n[枪刃士]\n在减伤中添加了第二个无敌选项，用于紧急使用。\n为无情添加了Boss回避选项。\n\n[占星术士]\n更新了伤害卡牌优先级。\n更新了各种配置的默认值。\n将中间学派添加到单体目标治疗连击中。\n为单体目标DPS连击添加了多持续伤害功能。\n\n[白魔法师]\n更新了各种配置的默认值。\n为单体目标DPS连击添加了多持续伤害功能。\n修复了庇护所和礼仪之铃的重新定向，使其能从治疗连击中正确重新定向。\n\n[学者]\n更新了各种配置的默认值。\n为单体目标DPS连击添加了多持续伤害功能。\n更改了毁坏替换为魔炎法的选项，以更好地满足保留技能供手动使用的需求。\n\n[贤者]\n更新了各种配置的默认值。\n为单体目标DPS连击添加了多持续伤害功能。\n\n[赤魔法师]\n修复了开场连击期间不等待状态传播的小问题。\n移除了近战连击UI中的自动循环警告。\n\n[吟游诗人]\n改进了AOE连击，现在在2个目标上完全有收益。\n改进了单体目标AOE中的持续伤害维护功能，为Boss、小怪和Boss小怪设置了单独的阈值，并添加了刷新时间滑块。\n添加了一键持续伤害功能。\n\n[绘灵法师]\n添加了移动时不使用星空构想的选项。\n\n[武僧]\n修复了当游戏中该技能的动作更改被关闭时的脉轮问题。\n添加了真北充能滑块。\n\n[武士]\n添加了在开场连击中跳过必杀剑·晓天的选项。\n添加了真北充能滑块。\n\n[机工士]\n修复了整备储备的检查。\n为自动弩添加了虹吸弹和弹射检查。\n\n[龙骑士]\n修复了贯穿尖以正确检查其是否在使用范围内。\n添加了真北充能滑块。\n\n[钐镰客]\n添加了真北充能滑块。\n\n[暗黑骑士]\n修复了可能导致开场连击在血溅上卡住的问题。\n\n[舞者]\n改进了开场连击的拉怪时机。\n\n[PvP]\n绘灵法师：添加了将所有彩绘集于一键的功能。\n白魔法师：添加了炽天强袭可用时被闪飒替换的功能。\n\nv1.0.3.7 最新版本\n\n[核心]\n解决了新的自定义手动队列窗口功能即使在禁用时也会干扰队列的问题。",
-    "DownloadCount": 32688
+    "Changelog": "Merge remote-tracking branch 'upstream/main' into cn",
+    "DownloadCount": 33017
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
-    "DownloadCount": 3473
+    "DownloadCount": 3475
   }
 ]
