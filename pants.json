@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.30-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.30-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 79196
+    "DownloadCount": 79230
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 19348
+    "DownloadCount": 19351
   },
   {
     "Author": "Team Wrath",
@@ -60,8 +60,8 @@
     "Punchline": "将连击与互斥技能整合至单个按键——功能远不止于此。",
     "Description": "化繁为简，一击千变！借鉴PvP技能设计理念，我们将单一技能拓展为完整连招体系。可能是基础的1-2-3式连击，也可能是精密的职业循环系统。根据你的战斗需求，打造专属输出节奏。",
     "InternalName": "WrathCombo",
-    "AssemblyVersion": "1.0.3.3",
-    "TestingAssemblyVersion": "1.0.3.3",
+    "AssemblyVersion": "1.0.3.4",
+    "TestingAssemblyVersion": "1.0.3.4",
     "RepoUrl": "https://github.com/MeowZWR/WrathCombo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,12 +69,12 @@
     ],
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.3-cn/WrathCombo.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.3-cn/WrathCombo.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.3-cn/WrathCombo.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.4-cn/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.4-cn/WrathCombo.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.4-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
-    "Changelog": "Bump\n\n<同步上游 v1.0.3.10>\nv1.0.3.9\n\n[核心]\n添加了允许用新行动覆盖队列中行动的设置。\n修复了自定义队列尝试队列oGCD的问题。\n修复了M9S优先Boss小怪不被视为Boss的问题。\n改进了坦克Buster检测，识别了更多VFX。\n特别是M9S和范式崩坏之塔的。\n\n[自动循环]\n减少了AOE目标选择中的目标切换，现在使用单体目标的目标模式作为平局决胜。\n修复了地面目标行动在AOE连击中不被使用的问题。\n\n[IPC]\n公开了现有的AutoRotationConfigOption值BypassQuest和BypassFATE。\n\n[输出职业]\n为简单模式添加了减伤使用。\n修复了有充能次数的技能重复使用的问题。\n（在蝰蛇剑士、武僧、武士、龙骑士、钐镰客、枪刃士、机工士、黑魔法师中）\n\n[贤者]\n修复了单体目标的两目标持续伤害维护功能。\n\n[吟游诗人]\n修正了某些AOE/单体目标技能的使用，根据附近敌人数量相互交换，无论连击如何。\n特别是广域群射<>影噬箭，以及死亡箭雨<>失血箭/碎心箭。\n\n[赤魔法师]\n添加了使用闪雷或疾风作为拉怪法术的选项。\n\n[忍者]\n修复了简单印功能，现在能正确检查印状态，并在无论是否通灵之术时都传递该状态。\n修复了低等级断绝在没有增益（尚未解锁）时不使用的问题。\n\n[骑士]\n为开场连击添加了不使用接近技能的选项。\n添加了在近战范围内优先沥血剑而非悔罪连击的选项。\n\n[战士]\n修复了复仇的ID，解决了在戮罪之前重叠使用的问题。\n\n[蝰蛇剑士]\n添加了强碎灵蛇/强碎灵蝰保护功能。\n为真北添加了仅强碎灵蛇选项。\n为强碎灵蛇连击添加了保持位置的选项。\n为蛇灵气添加了Boss回避选项和HP%滑块。\n为飞蛇之尾和背击獠齿添加了跳过，防止如果这些技能被手动使用导致开场连击锁定。\n\n[武僧]\n改进了震脚的使用，为其提供了更大的使用窗口。\n\n[武士]\n添加了照破-奥义斩浪功能。\n为明镜止水添加了HP%滑块，在指定生命值以下时使用。\n为剑压消耗技能添加了更好的处决逻辑。\n为天道五剑添加了跳过，防止如果该技能被手动使用导致开场连击锁定。\n为开场连击添加了目标要求，防止在加载到副本时浪费。\n\n[龙骑士]\n修正了近战范围检查。\n为天龙点睛添加了目标要求和范围检查，现在允许在爆发外使用。\n\n[钐镰客]\n调整了开场连击中勾刃的使用，使其更加动态，移除了其选项。\n为神秘环添加了Boss回避选项和HP%滑块。\n\n[枪刃士]\n添加了近战范围检查。\n\n[机工士]\n调整了枪管加热和超荷，以更好地与爆发窗口对齐。\n\n[黑魔法师]\n添加了火炎到炽炎和冰结到冰澈功能。\n\n[暗黑骑士]\n为开场连击的腐秽大地和腐秽黑暗步骤添加了跳过，如果它们已在开场连击早期被手动使用，则简单地不使用它们。\n\n[新月岛]\n舞者：修复了新自定义队列下舞蹈不触发的问题。\n\nv1.0.3.10 最新版本\n\n[重新定向]\n现在会记住在队列行动时重新定向的目标。\n修复了2个或更多行动重新定向一个行动时只有其中一个保持工作的问题。\n\n[自动循环]\n修复了如果启用覆盖队列设置时行动会在队列中被覆盖导致意外循环行为的问题。\n修复了一些低等级问题，如果在AOE行动范围内但没有解锁AOE行动。\n\n[舞者]\n停止为百花争艳就绪而保留标准舞步。\n修复了剑舞可能在未启用设置时被使用的问题。\n\n[白魔法师]\n将治疗和救疗从同一个独立重新定向选项中解耦，每个行动现在都有自己的设置。",
-    "DownloadCount": 36010
+    "Changelog": "Bump\n\nv1.0.3.11\n\n[核心]\n修复了在启用冲突预设时，导致插件无法正常加载的问题。\n\n[自动循环]\n修复了当基础技能未就绪时，导致自动循环任务卡死/挂起的问题。",
+    "DownloadCount": 36042
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
-    "DownloadCount": 3587
+    "DownloadCount": 3588
   }
 ]
