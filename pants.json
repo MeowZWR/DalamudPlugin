@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.30-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.30-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 79678
+    "DownloadCount": 79881
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 19402
+    "DownloadCount": 19426
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.4-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Bump\n\nv1.0.3.11\n\n[核心]\n修复了在启用冲突预设时，导致插件无法正常加载的问题。\n\n[自动循环]\n修复了当基础技能未就绪时，导致自动循环任务卡死/挂起的问题。",
-    "DownloadCount": 37027
+    "DownloadCount": 37221
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.9.5.6/IINACT.zip",
-    "DownloadCount": 3602
+    "DownloadCount": 3605
   }
 ]
