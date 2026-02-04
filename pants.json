@@ -20,7 +20,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.32-cn/Artisan.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.32-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 85814
+    "DownloadCount": 86027
   },
   {
     "Author": "Jukka",
@@ -52,7 +52,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.11-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 19718
+    "DownloadCount": 19743
   },
   {
     "Author": "Team Wrath",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.5-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Bump\n\n同步上游 v1.0.3.12\n\n[核心]\n移除了队列行动抑制设置。\n该设置所需的根本原因已通过其他方式解决。\n（同时移除了在处理oGCD期间动作队列窗口时热键栏上的可见闪烁）\n改进了技能的范围检查，更好地包含垂直度检查。\n（同时为PvP添加了许多这些检查）\n添加了对额外直线集合标记和坦克直线Buster的检测。\n添加了更多状态检查的安全性。\n添加了检测更广泛VFX的能力。\n（最值得注意的是：团队副本中的集合标记）\n贡献者：移除了阻止使用调试器的调试优化项目设置。\n\n[自动循环]\n为M10S中的低生命值Boss添加了无敌检测。\n\n[坦克]\n添加了鼠标悬停冲刺功能，冲刺到你悬停的敌人，或距离你的冲刺范围内最近的敌人。\n调整了非Boss减伤，如果正在移动，在前15秒内不再使用。\n\n[治疗职业]\n修复了主要为Boss小怪的单体目标循环中多持续伤害的问题。\n\n[蝰蛇剑士]\n将飞蛇之尾从飞蛇之牙超出范围选项中分离出来，创建了它自己类似的选项。\n修复了开场连击步骤跳过逻辑。\n\n[武士]\n修复了开场连击步骤跳过逻辑。\n为开场连击添加了选择跳过哪些必杀剑·晓天步骤或两者的选项。\n也为彼岸花添加了开场连击步骤跳过逻辑，仅用于防止卡住。\n调整了奥义斩浪的移动检查，仅在技能有施法的一半时进行。\n修复了6米爆发窗口中的明镜止水。\n添加了逻辑以考虑爆发外照破溢出。\n\n[龙骑士]\n修复了未选择爆发时幻象冲的使用。\n重新排序了武神枪周围的技能使用优先级。\n调整了超出范围技能的优先级。\n为武神枪添加了目标HP%滑块以防止浪费。\n\n[武僧]\n为预拉开场连击步骤添加了倒计时检查。\n\n[战士]\n为泰然自若添加了额外的HP%滑块，在检测到坦克Buster时以不同的阈值使用它。\n添加了双重防击退预防功能，当你有原初的解放的击退抗性时阻止亲疏自行。\n\n[吟游诗人]\n修复了主要为Boss小怪的单体目标循环中多持续伤害的问题。\n\n[机工士]\n调整了枪管加热在野火附近使用，以减少漂移。\n修复了超荷使用没有紧接着一个接一个，破坏连击的问题。",
-    "DownloadCount": 39728
+    "DownloadCount": 39832
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.1/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.1/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.1/IINACT.zip",
-    "DownloadCount": 3998
+    "DownloadCount": 4009
   }
 ]
