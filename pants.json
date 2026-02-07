@@ -10,17 +10,17 @@
       "Pants"
     ],
     "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.32",
-    "TestingAssemblyVersion": "4.0.4.32",
+    "AssemblyVersion": "4.0.4.36",
+    "TestingAssemblyVersion": "4.0.4.36",
     "RepoUrl": "https://github.com/MeowZWR/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.32-cn/Artisan.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.32-cn/Artisan.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.32-cn/Artisan.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.36-cn/Artisan.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.36-cn/Artisan.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.36-cn/Artisan.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 86412
+    "DownloadCount": 86417
   },
   {
     "Author": "Jukka",
@@ -74,7 +74,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.7-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "1.0.3.7-cn\n\n懒得写",
-    "DownloadCount": 40284
+    "DownloadCount": 40302
   },
   {
     "Author": "Usagi",
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.3/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.3/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.3/IINACT.zip",
-    "DownloadCount": 4132
+    "DownloadCount": 4137
   }
 ]
