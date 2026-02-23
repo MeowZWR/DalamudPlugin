@@ -60,8 +60,8 @@
     "Punchline": "将连击与互斥技能整合至单个按键——功能远不止于此。",
     "Description": "化繁为简，一击千变！借鉴PvP技能设计理念，我们将单一技能拓展为完整连招体系。可能是基础的1-2-3式连击，也可能是精密的职业循环系统。根据你的战斗需求，打造专属输出节奏。",
     "InternalName": "WrathCombo",
-    "AssemblyVersion": "1.0.3.7",
-    "TestingAssemblyVersion": "1.0.3.7",
+    "AssemblyVersion": "1.0.3.10",
+    "TestingAssemblyVersion": "1.0.3.10",
     "RepoUrl": "https://github.com/MeowZWR/WrathCombo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,11 +69,11 @@
     ],
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.7-cn/WrathCombo.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.7-cn/WrathCombo.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.7-cn/WrathCombo.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.10-cn/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.10-cn/WrathCombo.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.3.10-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
-    "Changelog": "1.0.3.7-cn\n\n懒得写",
+    "Changelog": "1.0.3.10-cn\n\nv1.0.3.17 最新版本\n\n[核心]\n修复了中断和击晕设置再次正确遵循中断延迟设置的问题。\n\n[自动循环]\n添加了设置：仅在Boss战外使用最大距离设置。\n\n[IPC]\n公开了新的 AutoRotationConfigOption 值 IgnoreRangeInBoss（即上述设置）。\n\n[武僧]\n⚠️ 基础连击现在替换的技能与之前不同。\n为每个增益分别添加了新的 HP% 滑块配置。\n改进了奇数分钟（以及偶数分钟第二段）震脚的使用。\n修复了乾坤斗气弹在偶数分钟窗口中的正确使用逻辑。\n移除了基础连击与进阶/简单连击之间的冲突。\n\n[钐镰客]\n为开场连击添加了目标要求。\n\n[黑魔法师]\n修复了爆炎与崩溃之间的移动优先级。\n\n[新月岛]\n修复了分叉塔未被识别为新月岛行动区域的问题。\n角斗士：修复了战斗外防御的重复使用问题。\n\nv1.0.3.16\n\n[核心]\n更新了内容检测，以更准确识别 PvP 和野外副本。\n为坦克Buster和全屏攻击的 VFX 检测添加了副本限制。\n（修复了部分分散标记被误判为坦克Buster的问题，因在团队副本中该标记用于分散）\n\n[自动循环]\n改进了暂停逻辑，现在在进入战斗时会解除暂停。\n（修复了单次战斗外屏障错误导致自动循环在灭团前一直不工作的问题）\n（进入场地后游戏本身似乎会解除，你也可以手动开战来解除）\n\n[IPC]\n修复了无效租约导致 SetCurrentJobAutoRotationReady 报错的问题。\n\n[绘灵法师]\n重构以便于维护。\n移除了严格的爆发窗口逻辑，使其更灵活。\n为单体目标添加了神圣之白功能，当会命中超过 1 个目标时使用。\n添加了重锤敲章移动选项，改进了保留充能用于移动的逻辑。\n添加了消耗Boss选项，根据Boss剩余生命消耗充能。\n\n[贤者]\n修复了均衡未被正确检查的问题。\n\n[忍者]\n改进了雷遁之术逻辑，防止在爆发前浪费。\n\n[钐镰客]\n为勾刃和强化勾刃添加了增益与移动检查逻辑。\n添加了仅使用强化勾刃的选项。\n为多种行动补充了缺失的范围检查。\n\n[蝰蛇剑士]\n添加了逻辑：在未启用普通真北使用时，防止真北被保留。\n\n[黑魔法师]\n改进了三连咏唱和即刻咏唱的逻辑，在魔泉时段附近（移动除外）不使用。\n更新了爆炎和悖论的逻辑。\n将爆炎添加为移动选项。",
     "DownloadCount": 42478
   },
   {
@@ -100,6 +100,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.3/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.3/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.3/IINACT.zip",
-    "DownloadCount": 4423
+    "DownloadCount": 4424
   }
 ]
