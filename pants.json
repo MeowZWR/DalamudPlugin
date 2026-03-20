@@ -80,8 +80,8 @@
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.10.0.6",
-    "TestingAssemblyVersion": "2.10.0.6",
+    "AssemblyVersion": "2.10.0.7",
+    "TestingAssemblyVersion": "2.10.0.7",
     "Description": "一个在类ACT环境中运行FFXIV_ACT_Plugin的插件，包含为现代.NET重写的Overlay Plugin",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MeowZWR/IINACT",
@@ -97,9 +97,9 @@
     "Punchline": "A parsing plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.6/IINACT.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.6/IINACT.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.6/IINACT.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.7/IINACT.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.7/IINACT.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.0.7/IINACT.zip",
     "DownloadCount": 4623
   }
 ]
