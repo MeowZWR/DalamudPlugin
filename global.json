@@ -67,16 +67,16 @@
     "Description": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "Punchline": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "RepoUrl": "https://github.com/MeowZWR/SimpleHeels",
-    "AssemblyVersion": "0.11.0.26",
-    "TestingAssemblyVersion": "0.11.0.26",
+    "AssemblyVersion": "0.11.0.27",
+    "TestingAssemblyVersion": "0.11.0.27",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.26/SimpleHeels.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.26/SimpleHeels.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.26/SimpleHeels.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.27/SimpleHeels.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.27/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.0.27/SimpleHeels.zip",
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 55736,
+    "DownloadCount": 55738,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.0-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 111410
+    "DownloadCount": 111412
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -252,7 +252,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.14-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 25785
+    "DownloadCount": 25786
   },
   {
     "Author": "LeonBlade",
