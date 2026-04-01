@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 136543,
+    "DownloadCount": 136555,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -46,18 +46,18 @@
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.6.0.2",
-    "TestingAssemblyVersion": "1.6.0.2",
+    "TestingAssemblyVersion": "1.6.0.3",
     "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 91864,
+    "DownloadCount": 91908,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.2-cn/Glamourer.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.2-cn/Glamourer.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/testing_1.6.0.3-cn/Glamourer.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Glamourer/icon.png"
   },
   {
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 53717
+    "DownloadCount": 53721
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58030,
+    "DownloadCount": 58034,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.1-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 111978
+    "DownloadCount": 111981
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.30-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.16.4-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.30-cn/latest.zip",
-    "DownloadCount": 16739
+    "DownloadCount": 16741
   },
   {
     "Author": "kawaii, Glyceri",
@@ -198,7 +198,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.7-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.7-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.7-cn/DynamicBridge.zip",
-    "DownloadCount": 10022,
+    "DownloadCount": 10024,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -303,7 +303,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.1/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.1/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 22122
+    "DownloadCount": 22124
   },
   {
     "Author": "NightmareXIV",
