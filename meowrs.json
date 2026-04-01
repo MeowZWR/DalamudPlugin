@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 136586,
+    "DownloadCount": 136872,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 92031,
+    "DownloadCount": 92849,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.2-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.2-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 53731
+    "DownloadCount": 53811
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 58049,
+    "DownloadCount": 58179,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.1-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 111989
+    "DownloadCount": 112050
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.30-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.16.4-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.30-cn/latest.zip",
-    "DownloadCount": 16743
+    "DownloadCount": 16753
   },
   {
     "Author": "kawaii, Glyceri",
@@ -177,7 +177,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 31495
+    "DownloadCount": 31500
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -198,7 +198,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.7-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.7-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.7-cn/DynamicBridge.zip",
-    "DownloadCount": 10027,
+    "DownloadCount": 10063,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -254,7 +254,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.0.14-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 25877
+    "DownloadCount": 25886
   },
   {
     "Author": "LeonBlade",
@@ -282,7 +282,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.2-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 24496
+    "DownloadCount": 24513
   },
   {
     "Author": "a08381",
@@ -303,7 +303,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.1/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.1/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 22124
+    "DownloadCount": 22135
   },
   {
     "Author": "NightmareXIV",
@@ -322,6 +322,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.11-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 14894
+    "DownloadCount": 14904
   }
 ]
