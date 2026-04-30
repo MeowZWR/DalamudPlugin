@@ -1,9 +1,5 @@
 [
     {
-      "repo": "https://raw.githubusercontent.com/MeowZWR/Artisan/cn/repo.json",
-      "plugins": [ "Artisan" ]
-    },
-    {
       "repo": "https://raw.githubusercontent.com/MeowZWR/Necrolens/cn/repo.json",
       "plugins": [ "NecroLens" ]
     },
