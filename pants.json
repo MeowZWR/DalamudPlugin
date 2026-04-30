@@ -1,28 +1,5 @@
 [
   {
-    "Author": "Taurenkey (Puni.sh)",
-    "Name": "Artisan",
-    "Punchline": "一个“简单”的生产插件。",
-    "Description": "一站式生产插件。非常适合对生产循环几乎没有知识的人。不需要在宏之间切换，求解器会根据实际情况动态工作。此外，还提供方便的方式来依生产清单进行制作或反复制作指定物品。",
-    "Changelog": "最后一次更新，目前不玩生产，无法及时发现问题及跟进上游更新，请切换为QiongHHHZZZ的版本。",
-    "Tags": [
-      "crafting",
-      "Pants"
-    ],
-    "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.4.38",
-    "TestingAssemblyVersion": "4.0.4.38",
-    "RepoUrl": "https://github.com/MeowZWR/Artisan",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.38-cn/Artisan.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.38-cn/Artisan.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Artisan/releases/download/4.0.4.38-cn/Artisan.zip",
-    "IconUrl": "https://static.meowrs.com/Plugins/Artisan/icon.png",
-    "DownloadCount": 100235
-  },
-  {
     "Author": "Jukka",
     "Name": "NecroLens",
     "Punchline": "真正的死灵术士一定对深层迷宫了如指掌...然而有的人却在使用科技！",
