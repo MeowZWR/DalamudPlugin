@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 144045,
+    "DownloadCount": 144088,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 98609,
+    "DownloadCount": 98653,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.7-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.7-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 58434
+    "DownloadCount": 58457
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60991,
+    "DownloadCount": 61036,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.3-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 116457
+    "DownloadCount": 116482
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -168,12 +168,12 @@
     "Punchline": "可怕的负面情绪现在以debuff的形式出现了，库啵！",
     "RepoUrl": "https://github.com/MeowZWR/Moodles",
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
-    "AssemblyVersion": "2.0.0.51",
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.51/Moodles.zip",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "AssemblyVersion": "2.0.0.52",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.52/Moodles.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.33/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.51/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Moodles/releases/download/2.0.0.52/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ],
@@ -198,7 +198,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
-    "DownloadCount": 10593,
+    "DownloadCount": 10614,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -254,7 +254,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.1.1-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 27465
+    "DownloadCount": 27475
   },
   {
     "Author": "LeonBlade",
@@ -282,7 +282,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 25108
+    "DownloadCount": 25146
   },
   {
     "Author": "a08381",
@@ -322,6 +322,6 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 15360
+    "DownloadCount": 15387
   }
 ]
