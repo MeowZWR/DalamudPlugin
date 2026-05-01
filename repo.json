@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 143369,
+    "DownloadCount": 143436,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 97896,
+    "DownloadCount": 97943,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.6-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.6-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 58160
+    "DownloadCount": 58175
   },
   {
     "Author": "Risa",
@@ -89,20 +89,20 @@
     "Description": "允许你通过直接编辑骨骼参数来定制超出FFXIV限制的角色。",
     "Punchline": "突破FF14的限制，自定义你的角色。",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "2.1.1.2",
-    "TestingAssemblyVersion": "2.1.1.2",
+    "AssemblyVersion": "2.1.1.3",
+    "TestingAssemblyVersion": "2.1.1.3",
     "RepoUrl": "https://github.com/MeowZWR/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60343,
+    "DownloadCount": 60394,
     "LastUpdate": 0,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.2-cn/CustomizePlus.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.2-cn/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.2-cn/CustomizePlus.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.3-cn/CustomizePlus.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.3-cn/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.3-cn/CustomizePlus.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/CustomizePlus/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 116127
+    "DownloadCount": 116152
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -254,7 +254,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.1.1-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 27303
+    "DownloadCount": 27318
   },
   {
     "Author": "LeonBlade",
