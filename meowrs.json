@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 143436,
+    "DownloadCount": 143506,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -45,19 +45,19 @@
       "Sea Of Stars"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.6.0.6",
-    "TestingAssemblyVersion": "1.6.0.6",
+    "AssemblyVersion": "1.6.0.7",
+    "TestingAssemblyVersion": "1.6.0.7",
     "RepoUrl": "https://github.com/MeowZWR/Glamourer-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 97943,
+    "DownloadCount": 97998,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.6-cn/Glamourer.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.6-cn/Glamourer.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.6-cn/Glamourer.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.7-cn/Glamourer.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.7-cn/Glamourer.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.0.7-cn/Glamourer.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Glamourer/icon.png"
   },
   {
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 58175
+    "DownloadCount": 58200
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 60394,
+    "DownloadCount": 60495,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.1.1.3-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 116152
+    "DownloadCount": 116178
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -254,7 +254,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.1.1-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 27318
+    "DownloadCount": 27322
   },
   {
     "Author": "LeonBlade",
