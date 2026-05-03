@@ -50,5 +50,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/AntiAfkKick/master/repo.json",
     "plugins": [ "AntiAfkKick-Dalamud" ]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/XIVWindowResizer/x/repo.json",
+    "plugins": [ "XIVWindowResizerX" ]
   }
 ]
