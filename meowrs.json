@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 164487,
+    "DownloadCount": 164500,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 113889,
+    "DownloadCount": 113894,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.6-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.6-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 61906
+    "DownloadCount": 61907
   },
   {
     "Author": "Risa",
@@ -89,20 +89,20 @@
     "Description": "允许你通过直接编辑骨骼参数来定制超出FFXIV限制的角色。",
     "Punchline": "突破FF14的限制，自定义你的角色。",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "2.2.0.0",
-    "TestingAssemblyVersion": "2.2.0.0",
+    "AssemblyVersion": "2.2.0.2",
+    "TestingAssemblyVersion": "2.2.0.2",
     "RepoUrl": "https://github.com/MeowZWR/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 68263,
+    "DownloadCount": 68269,
     "LastUpdate": 0,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.0-cn/CustomizePlus.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.0-cn/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.0-cn/CustomizePlus.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/CustomizePlus/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 128508
+    "DownloadCount": 128517
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.31.1-cn/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.3.18.1-cn/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Ktisis/releases/download/0.2.31.1-cn/latest.zip",
-    "DownloadCount": 19255
+    "DownloadCount": 19256
   },
   {
     "Author": "kawaii, Glyceri, Minmoose",
@@ -255,7 +255,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 32445
+    "DownloadCount": 32447
   },
   {
     "Author": "LeonBlade",
@@ -283,7 +283,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 30326
+    "DownloadCount": 30327
   },
   {
     "Author": "a08381",
@@ -304,7 +304,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 26264
+    "DownloadCount": 26269
   },
   {
     "Author": "NightmareXIV",
@@ -323,7 +323,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 17822
+    "DownloadCount": 17824
   },
   {
     "Author": "AlexCSDev",
