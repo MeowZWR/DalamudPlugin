@@ -29,7 +29,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.12-cn/NecroLens.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/NecroLens/releases/download/1.0.8.12-cn/NecroLens.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/NecroLens/icon.png",
-    "DownloadCount": 23156
+    "DownloadCount": 23218
   },
   {
     "Author": "Team Wrath",
@@ -51,7 +51,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.4.7-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Merge remote-tracking branch 'upstream/main' into cn",
-    "DownloadCount": 54805
+    "DownloadCount": 55036
   },
   {
     "Author": "Usagi",
@@ -77,6 +77,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.1.3/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.1.3/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.1.3/IINACT.zip",
-    "DownloadCount": 5767
+    "DownloadCount": 5806
   }
 ]
