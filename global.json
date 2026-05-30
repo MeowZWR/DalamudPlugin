@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 167777,
+    "DownloadCount": 167793,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 118749,
+    "DownloadCount": 118759,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.7-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.7-cn/Glamourer.zip",
@@ -67,21 +67,21 @@
     "Description": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "Punchline": "调整穿着高跟鞋以及做情感动作时的偏移量。",
     "RepoUrl": "https://github.com/MeowZWR/SimpleHeels",
-    "AssemblyVersion": "0.11.1.1",
-    "TestingAssemblyVersion": "0.11.1.1",
+    "AssemblyVersion": "0.11.1.5",
+    "TestingAssemblyVersion": "0.11.1.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.1.1/SimpleHeels.zip",
-    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.1.1/SimpleHeels.zip",
-    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.1.1/SimpleHeels.zip",
+    "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.1.5/SimpleHeels.zip",
+    "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.1.5/SimpleHeels.zip",
+    "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/SimpleHeels/releases/download/0.11.1.5/SimpleHeels.zip",
     "Changelog": "",
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 62409
+    "DownloadCount": 62410
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 71813,
+    "DownloadCount": 71818,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 131001
+    "DownloadCount": 131006
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -196,7 +196,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
-    "DownloadCount": 12108,
+    "DownloadCount": 12109,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -252,7 +252,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 33115
+    "DownloadCount": 33116
   },
   {
     "Author": "LeonBlade",
@@ -280,7 +280,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 31052
+    "DownloadCount": 31054
   },
   {
     "Author": "a08381",
@@ -301,7 +301,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 26784
+    "DownloadCount": 26785
   },
   {
     "Author": "NightmareXIV",
@@ -320,6 +320,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 18191
+    "DownloadCount": 18192
   }
 ]
