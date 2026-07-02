@@ -54,5 +54,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/XIVWindowResizer/x/repo.json",
     "plugins": [ "XIVWindowResizerX" ]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/XivMediaPlayer/cn/repo.json",
+    "plugins": [ "XivMediaPlayer" ]
   }
 ]
