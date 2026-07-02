@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 174265,
+    "DownloadCount": 174276,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126469,
+    "DownloadCount": 126476,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 67028
+    "DownloadCount": 67033
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 74576,
+    "DownloadCount": 74582,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
@@ -134,7 +134,7 @@
       "cutscene",
       "Sea Of Stars"
     ],
-    "DownloadCount": 135516
+    "DownloadCount": 135527
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -157,7 +157,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.31.1-cn/latest.zip",
     "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.3.19.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.31.1-cn/latest.zip",
-    "DownloadCount": 20324
+    "DownloadCount": 20327
   },
   {
     "Author": "kawaii, Glyceri, Minmoose",
@@ -178,7 +178,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 39995
+    "DownloadCount": 39997
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -199,7 +199,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
-    "DownloadCount": 12507,
+    "DownloadCount": 12508,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -255,7 +255,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 34472
+    "DownloadCount": 34474
   },
   {
     "Author": "LeonBlade",
@@ -283,7 +283,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 32477
+    "DownloadCount": 32480
   },
   {
     "Author": "a08381",
@@ -304,7 +304,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 27908
+    "DownloadCount": 27911
   },
   {
     "Author": "NightmareXIV",
@@ -344,7 +344,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 648,
+    "DownloadCount": 649,
     "LastUpdate": 1746230400,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.1-x/XIVWindowResizerX.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.1-x/XIVWindowResizerX.zip",
@@ -360,18 +360,18 @@
       "Texturing"
     ],
     "InternalName": "XivMediaPlayer",
-    "AssemblyVersion": "0.1.2.10",
-    "TestingAssemblyVersion": "0.1.2.10",
+    "AssemblyVersion": "0.1.2.11",
+    "TestingAssemblyVersion": "0.1.2.11",
     "RepoUrl": "https://github.com/MeowZWR/XivMediaPlayer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 5,
+    "DownloadCount": 9,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.10-cn/XivMediaPlayer.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.10-cn/XivMediaPlayer.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.10-cn/XivMediaPlayer.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
     "IconUrl": ""
   }
 ]
