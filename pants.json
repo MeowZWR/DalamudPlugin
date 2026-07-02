@@ -51,7 +51,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.4.11-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Merge remote-tracking branch 'upstream/main' into cn",
-    "DownloadCount": 64104
+    "DownloadCount": 64107
   },
   {
     "Author": "Usagi",
@@ -77,6 +77,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.3.3/IINACT.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.3.3/IINACT.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/IINACT/releases/download/v2.10.3.3/IINACT.zip",
-    "DownloadCount": 8074
+    "DownloadCount": 8076
   }
 ]
