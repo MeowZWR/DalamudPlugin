@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 175109,
+    "DownloadCount": 175245,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 126786,
+    "DownloadCount": 126821,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 67196
+    "DownloadCount": 67208
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 74784,
+    "DownloadCount": 74802,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
@@ -112,17 +112,17 @@
     "Author": "Asgard, Minmoose and Contributors",
     "Name": "Brio",
     "Punchline": "增强集体动作体验！",
-    "Description": "Brio 是一套助您在集体动作中获得高级的角色编辑与操控能力的工具集。\n\n- 进阶角色姿态调整\n\t- 动中调姿\n\t- 位置微调不复位\n\t- 光影叠加与图形化摆姿模式\n- 支持创建多达 239 个集体动作角色\n- 自定义光源创建\n- 兼容 Penumbra、Glamourer 及 Customize+ 模组\n- MCDF 文件离线导入/导出至集体动作角色\n- 播放 XAT .xcp 镜头轨迹文件\n- 播放/融合集体动作角色动画\n- 主世界与集体动作内时间/天气控制\n- 切换节庆活动，最多可同时应用 4 项\n- 为集体动作角色添加/移除状态效果",
+    "Description": "Brio 是一套助您在集体动作中获得高级的角色编辑与操控能力的工具集。\n\n- 进阶角色姿态调整\n\t- 动中调姿\n\t- 位置微调不复位\n\t- 光影叠加与图形化摆姿模式\n- 支持创建多达 239 个集体动作角色\n- 自定义光源创建\n- 兼容 Penumbra、Glamourer 及 Customize+ 模组\n- MCDF 文件离线导入/导出至集体动作角色\n- 播放 XAT .xcp 镜头轨迹文件\n- 播放/融合集体动作角色动画\n- 主世界与集体动作内时间/天气控制\n- 切换节庆活动，最多可同时应用 4 项\n- 为集体动作角色添加/移除状态效果\n- 世界物体生成、动画时间轴与更多功能",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.7.2.2",
-    "TestingAssemblyVersion": "0.7.2.2",
+    "AssemblyVersion": "0.8.0.2",
+    "TestingAssemblyVersion": "0.8.0.2",
     "RepoUrl": "https://github.com/MeowZWR/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.7.2.2-cn/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.7.2.2-cn/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.7.2.2-cn/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Brio/releases/download/0.8.0.2-cn/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Brio/releases/download/0.8.0.2-cn/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Brio/releases/download/0.8.0.2-cn/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/MeowZWR/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -131,10 +131,17 @@
       "pose",
       "animation",
       "xat",
+      "camera",
+      "time",
+      "weather",
+      "festival",
+      "lights",
       "cutscene",
+      "utility",
+      "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 135941
+    "DownloadCount": 135994
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -157,7 +164,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.31.1-cn/latest.zip",
     "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.3.19.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Ktisis/releases/download/0.2.31.1-cn/latest.zip",
-    "DownloadCount": 20380
+    "DownloadCount": 20388
   },
   {
     "Author": "kawaii, Glyceri, Minmoose",
@@ -178,7 +185,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 40110
+    "DownloadCount": 40120
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -199,7 +206,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
-    "DownloadCount": 12538,
+    "DownloadCount": 12541,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -255,7 +262,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 34621
+    "DownloadCount": 34639
   },
   {
     "Author": "LeonBlade",
@@ -283,7 +290,7 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 32655
+    "DownloadCount": 32673
   },
   {
     "Author": "a08381",
@@ -304,7 +311,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 28028
+    "DownloadCount": 28036
   },
   {
     "Author": "NightmareXIV",
@@ -323,7 +330,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 19230
+    "DownloadCount": 19242
   },
   {
     "Author": "AlexCSDev",
@@ -344,7 +351,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 682,
+    "DownloadCount": 685,
     "LastUpdate": 1746230400,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.1-x/XIVWindowResizerX.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.1-x/XIVWindowResizerX.zip",
@@ -367,7 +374,7 @@
     "DalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 101,
+    "DownloadCount": 108,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
