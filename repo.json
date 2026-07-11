@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 139771
+    "DownloadCount": 139780
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -351,7 +351,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 696,
+    "DownloadCount": 697,
     "LastUpdate": 1746230400,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
@@ -367,8 +367,8 @@
       "Texturing"
     ],
     "InternalName": "XivMediaPlayer",
-    "AssemblyVersion": "0.1.2.11",
-    "TestingAssemblyVersion": "0.1.2.11",
+    "AssemblyVersion": "0.1.2.12",
+    "TestingAssemblyVersion": "0.1.2.12",
     "RepoUrl": "https://github.com/MeowZWR/XivMediaPlayer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -376,9 +376,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 128,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.11-cn/XivMediaPlayer.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.12-cn/XivMediaPlayer.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.12-cn/XivMediaPlayer.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.12-cn/XivMediaPlayer.zip",
     "IconUrl": ""
   }
 ]
