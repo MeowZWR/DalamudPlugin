@@ -6,6 +6,18 @@ const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
 const targetApiLevel = 15;
+const mirrorPrefix = "https://meowrs.com/";
+
+function ensureMirrorUrl(url) {
+    if (!url) return url;
+    return url.startsWith(mirrorPrefix) ? url : mirrorPrefix + url;
+}
+
+function applyMirrorUrls(plugin) {
+    plugin.DownloadLinkInstall = ensureMirrorUrl(plugin.DownloadLinkInstall);
+    plugin.DownloadLinkUpdate = ensureMirrorUrl(plugin.DownloadLinkUpdate);
+    plugin.DownloadLinkTesting = ensureMirrorUrl(plugin.DownloadLinkTesting);
+}
 
 // Get the total download count for a GitHub repo's releases
 async function getDownloadCount(repoUrl) {
@@ -79,11 +91,13 @@ async function recoverPlugin(internalName) {
         console.warn(`No RepositoryUrl for ${internalName}, download count not available`);
     }
 
+    applyMirrorUrls(plugin);
+
     final.push(plugin);
     console.log(`Recovered ${internalName} from last manifest`);
 }
 
-async function doRepo(url, plugins) {
+async function doRepo(url, plugins, overrides = {}) {
     console.log(`Fetching ${url}...`);
     const repo = await fetch(url, {
         headers: {
@@ -129,6 +143,14 @@ async function doRepo(url, plugins) {
             plugin.DownloadCount = 0;
         }
 
+        const pluginOverrides = overrides[internalName];
+        if (pluginOverrides) {
+            Object.assign(plugin, pluginOverrides);
+            console.log(`Applied overrides to ${internalName}`);
+        }
+
+        applyMirrorUrls(plugin);
+
         final.push(plugin);
     }
 }
@@ -136,7 +158,7 @@ async function doRepo(url, plugins) {
 async function main() {
     for (const meta of reposMeta) {
         try {
-            await doRepo(meta.repo, meta.plugins);
+            await doRepo(meta.repo, meta.plugins, meta.overrides);
         } catch (e) {
             console.error(`!!! Failed to fetch ${meta.repo}`);
             console.error(e);

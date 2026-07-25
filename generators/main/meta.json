@@ -20,8 +20,15 @@
     "plugins": [ "Brio" ]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MeowZWR/Ktisis/cn/repo.json",
-    "plugins": [ "Ktisis" ]
+    "repo": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    "plugins": [ "Ktisis" ],
+    "overrides": {
+      "Ktisis": {
+        "Punchline": "集体动作姿势编辑工具。",
+        "Description": "集体动作姿势编辑工具。",
+        "IconUrl": "https://static.meowrs.com/Plugins/Ktisis/icon.png"
+      }
+    }
   },
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/Moodles/cn-new/repo.json",
