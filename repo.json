@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 187650,
+    "DownloadCount": 187661,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 129970,
+    "DownloadCount": 129977,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 68695
+    "DownloadCount": 68698
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 76507,
+    "DownloadCount": 76509,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 153729
+    "DownloadCount": 153742
   },
   {
     "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
@@ -165,7 +165,7 @@
     "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
-    "DownloadCount": 1111730,
+    "DownloadCount": 1111814,
     "Punchline": "集体动作姿势编辑工具。"
   },
   {
@@ -187,7 +187,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 41048
+    "DownloadCount": 41049
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -224,19 +224,19 @@
       "Questing"
     ],
     "InternalName": "AQuestReborn",
-    "AssemblyVersion": "0.1.6.3",
-    "TestingAssemblyVersion": "0.1.6.3",
+    "AssemblyVersion": "0.2.9.8",
+    "TestingAssemblyVersion": "0.2.9.8",
     "RepoUrl": "https://github.com/MeowZWR/AQuestReborn",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
-    "TestingDalamudApiLevel": 11,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4588,
+    "DownloadCount": 4726,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.1.6.3-cn/AQuestReborn.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/AQuestReborn/icon.png"
   },
   {
@@ -332,7 +332,7 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 20432
+    "DownloadCount": 20435
   },
   {
     "Author": "AlexCSDev",
@@ -353,7 +353,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1266,
+    "DownloadCount": 1268,
     "LastUpdate": 1746230400,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
@@ -376,7 +376,7 @@
     "DalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 717,
+    "DownloadCount": 728,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.7.0-cn/XivMediaPlayer.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.7.0-cn/XivMediaPlayer.zip",
