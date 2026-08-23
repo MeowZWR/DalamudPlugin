@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 188114,
+    "DownloadCount": 188351,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 130095,
+    "DownloadCount": 130190,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
@@ -81,7 +81,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 68751
+    "DownloadCount": 68798
   },
   {
     "Author": "Risa",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 76590,
+    "DownloadCount": 76646,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 154040
+    "DownloadCount": 154250
   },
   {
     "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
@@ -165,7 +165,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
-    "DownloadCount": 1113127,
+    "DownloadCount": 1114037,
     "Punchline": "集体动作姿势编辑工具。"
   },
   {
@@ -187,7 +187,7 @@
     "Tags": [
       "Sea Of Stars"
     ],
-    "DownloadCount": 41074
+    "DownloadCount": 41101
   },
   {
     "Author": "NightmareXIV and AsunaTsuki",
@@ -208,7 +208,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
-    "DownloadCount": 12870,
+    "DownloadCount": 12881,
     "LastUpdated": "0",
     "Changelog": "",
     "Tags": [
@@ -232,7 +232,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 4824,
+    "DownloadCount": 4868,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
@@ -264,7 +264,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
     "Changelog": "",
-    "DownloadCount": 35621
+    "DownloadCount": 35639
   },
   {
     "Author": "LeonBlade",
@@ -292,7 +292,7 @@
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
     "Changelog": "",
-    "DownloadCount": 34095
+    "DownloadCount": 34124
   },
   {
     "Author": "a08381",
@@ -313,7 +313,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 29173
+    "DownloadCount": 29203
   },
   {
     "Author": "NightmareXIV",
@@ -332,7 +332,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 20467
+    "DownloadCount": 20485
   },
   {
     "Author": "AlexCSDev",
@@ -353,7 +353,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1283,
+    "DownloadCount": 1288,
     "LastUpdate": 1746230400,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
@@ -376,7 +376,7 @@
     "DalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 802,
+    "DownloadCount": 825,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.7.0-cn/XivMediaPlayer.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.7.0-cn/XivMediaPlayer.zip",
