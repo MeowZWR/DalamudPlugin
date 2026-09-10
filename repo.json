@@ -5,22 +5,22 @@
     "Punchline": "运行时模组加载和管理器。",
     "Description": "运行时模组加载和管理器。",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "1.7.1.1",
-    "TestingAssemblyVersion": "1.7.1.1",
+    "AssemblyVersion": "1.7.1.2",
+    "TestingAssemblyVersion": "1.7.1.2",
     "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 193425,
+    "DownloadCount": 193439,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.1-cn/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.1-cn/Penumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.1-cn/Penumbra.zip",
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.2-cn/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.2-cn/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.2-cn/Penumbra.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/Penumbra/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 132725,
+    "DownloadCount": 132737,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.7.1.1-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.7.1.1-cn/Glamourer.zip",
@@ -97,7 +97,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 78428,
+    "DownloadCount": 78438,
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.1.2-cn/CustomizePlus.zip",
@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 156914
+    "DownloadCount": 156916
   },
   {
     "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
@@ -165,7 +165,7 @@
     "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.1.1-b/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip",
-    "DownloadCount": 1165918,
+    "DownloadCount": 1165934,
     "Punchline": "集体动作姿势编辑工具。"
   },
   {
