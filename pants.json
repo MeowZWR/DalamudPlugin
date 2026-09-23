@@ -51,7 +51,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/WrathCombo/releases/download/1.0.4.24-cn/WrathCombo.zip",
     "IconUrl": "https://static.meowrs.com/Plugins/WrathCombo/icon-2bwhkn3zf1f.png",
     "Changelog": "Localize remaining UI strings to zh-Hans and resolve action names from CN sheets",
-    "DownloadCount": 78500
+    "DownloadCount": 78505
   },
   {
     "Author": "Usagi",
