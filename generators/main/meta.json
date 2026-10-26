@@ -65,5 +65,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MeowZWR/XivMediaPlayer/cn/repo.json",
     "plugins": [ "XivMediaPlayer" ]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MeowZWR/DragAndDropTexturing/cn/repo.json",
+    "plugins": [ "DragAndDropTexturing" ]
   }
 ]
