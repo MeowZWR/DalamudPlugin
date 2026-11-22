@@ -13,7 +13,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 230924,
+    "DownloadCount": 230926,
     "LastUpdate": 0,
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
@@ -53,7 +53,7 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 150896,
+    "DownloadCount": 151038,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.7.1.5-cn/Glamourer.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Glamourer-CN/releases/download/1.7.1.5-cn/Glamourer.zip",
@@ -141,7 +141,7 @@
       "tools",
       "Sea Of Stars"
     ],
-    "DownloadCount": 187501
+    "DownloadCount": 187502
   },
   {
     "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
@@ -165,7 +165,7 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.1.2/latest.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.1.7-b/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.1.2/latest.zip",
-    "DownloadCount": 1251736,
+    "DownloadCount": 1251924,
     "Punchline": "集体动作姿势编辑工具。"
   },
   {
@@ -310,7 +310,7 @@
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
     "IconUrl": "",
-    "DownloadCount": 31176
+    "DownloadCount": 31178
   },
   {
     "Author": "NightmareXIV",
@@ -329,6 +329,6 @@
     "DownloadLinkInstall": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkTesting": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
     "DownloadLinkUpdate": "https://meowrs.com/https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-    "DownloadCount": 22614
+    "DownloadCount": 22616
   }
 ]
